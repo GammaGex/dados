@@ -1,42 +1,4 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
-ES,6450,Call Resistance,#ffffff,#808080,left
-MES,6450,Call Resistance,#ffffff,#808080,left
-ES,6300,Put Support,#ffffff,#808080,left
-MES,6300,Put Support,#ffffff,#808080,left
-ES,6370,HVL,#ffffff,#808080,left
-MES,6370,HVL,#ffffff,#808080,left
-ES,6364.3,1D Min,#ffffff,#808080,left
-MES,6364.3,1D Min,#ffffff,#808080,left
-ES,6462.7,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
-MES,6462.7,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
-ES,6450,Call Resistance 0DTE,#ffffff,#808080,left
-MES,6450,Call Resistance 0DTE,#ffffff,#808080,left
-ES,6350,Put Support 0DTE,#ffffff,#808080,left
-MES,6350,Put Support 0DTE,#ffffff,#808080,left
-ES,6365,HVL 0DTE,#ffffff,#808080,left
-MES,6365,HVL 0DTE,#ffffff,#808080,left
-ES,6450,Gamma Wall 0DTE,#ffffff,#808080,left
-MES,6450,Gamma Wall 0DTE,#ffffff,#808080,left
-ES,6400,GEX 1,#ffffff,#808080,left
-MES,6400,GEX 1,#ffffff,#808080,left
-ES,6425,GEX 2,#ffffff,#808080,left
-MES,6425,GEX 2,#ffffff,#808080,left
-ES,6460,GEX 3,#ffffff,#808080,left
-MES,6460,GEX 3,#ffffff,#808080,left
-ES,6410,GEX 4,#ffffff,#808080,left
-MES,6410,GEX 4,#ffffff,#808080,left
-ES,6440,GEX 5,#ffffff,#808080,left
-MES,6440,GEX 5,#ffffff,#808080,left
-ES,6500,GEX 6,#ffffff,#808080,left
-MES,6500,GEX 6,#ffffff,#808080,left
-ES,6475,GEX 7,#ffffff,#808080,left
-MES,6475,GEX 7,#ffffff,#808080,left
-ES,6325,GEX 8,#ffffff,#808080,left
-MES,6325,GEX 8,#ffffff,#808080,left
-ES,6470,GEX 9,#ffffff,#808080,left
-MES,6470,GEX 9,#ffffff,#808080,left
-ES,6490,GEX 10,#ffffff,#808080,left
-MES,6490,GEX 10,#ffffff,#808080,left
 NQ,24000,Call Resistance,#ffffff,#808080,left
 MNQ,24000,Call Resistance,#ffffff,#808080,left
 NQ,22700,Put Support,#ffffff,#808080,left
