@@ -7,8 +7,8 @@ GC,3070,HVL,#ffffff,#808080,left
 MGC,3070,HVL,#ffffff,#808080,left
 GC,3454.84,1D Min,#ffffff,#808080,left
 MGC,3454.84,1D Min,#ffffff,#808080,left
-GC,3527.76,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
-MGC,3527.76,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
+GC,3527.76,1D Exp Move Max 10-08-2025,#ffffff,#808080,left
+MGC,3527.76,1D Exp Move Max 10-08-2025,#ffffff,#808080,left
 GC,3500,Call Wall 0DTE,#ffffff,#808080,left
 MGC,3500,Call Wall 0DTE,#ffffff,#808080,left
 GC,3470,Putt Wall 0DTE,#ffffff,#808080,left
@@ -45,8 +45,8 @@ ES,6370,HVL,#ffffff,#808080,left
 MES,6370,HVL,#ffffff,#808080,left
 ES,6364.3,1D Min,#ffffff,#808080,left
 MES,6364.3,1D Min,#ffffff,#808080,left
-ES,6462.7,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
-MES,6462.7,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
+ES,6462.7,1D Exp Move Max 10-08-2025,#ffffff,#808080,left
+MES,6462.7,1D Exp Move Max 10-08-2025,#ffffff,#808080,left
 ES,6450,Call Wall 0DTE,#ffffff,#808080,left
 MES,6450,Call Wall 0DTE,#ffffff,#808080,left
 ES,6350,Putt Wall 0DTE,#ffffff,#808080,left
@@ -83,8 +83,8 @@ CL,65,HVL,#ffffff,#808080,left
 MCL,65,HVL,#ffffff,#808080,left
 CL,62.62,1D Min,#ffffff,#808080,left
 MCL,62.62,1D Min,#ffffff,#808080,left
-CL,65.14,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
-MCL,65.14,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
+CL,65.14,1D Exp Move Max 10-08-2025,#ffffff,#808080,left
+MCL,65.14,1D Exp Move Max 10-08-2025,#ffffff,#808080,left
 CL,65.25,Call Wall 0DTE,#ffffff,#808080,left
 MCL,65.25,Call Wall 0DTE,#ffffff,#808080,left
 CL,63,Putt Wall 0DTE,#ffffff,#808080,left
@@ -121,8 +121,8 @@ NQ,23240,HVL,#ffffff,#808080,left
 MNQ,23240,HVL,#ffffff,#808080,left
 NQ,23486.3,1D Min,#ffffff,#808080,left
 MNQ,23486.3,1D Min,#ffffff,#808080,left
-NQ,23941.2,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
-MNQ,23941.2,1D Exp Move Max 09-08-2025,#ffffff,#808080,left
+NQ,23941.2,1D Exp Move Max 10-08-2025,#ffffff,#808080,left
+MNQ,23941.2,1D Exp Move Max 10-08-2025,#ffffff,#808080,left
 NQ,23800,Call Wall 0DTE,#ffffff,#808080,left
 MNQ,23800,Call Wall 0DTE,#ffffff,#808080,left
 NQ,23410,Putt Wall 0DTE,#ffffff,#808080,left
@@ -375,4 +375,7 @@ CL,60.73,USO G7,#ffffff,#1395ba,left
 MCL,60.73,USO G7,#ffffff,#1395ba,left
 CL,67.67,USO G8,#ffffff,#1395ba,left
 MCL,67.67,USO G8,#ffffff,#1395ba,left
-
+CL,59.86,USO G9,#ffffff,#1395ba,left
+MCL,59.86,USO G9,#ffffff,#1395ba,left
+CL,61.17,USO G10,#ffffff,#1395ba,left
+MCL,61.17,USO G10,#ffffff,#1395ba,left
