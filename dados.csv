@@ -134,7 +134,7 @@ MES,6423.88,SPX Gamma Wall 0DTE,#ffffff,#1395ba,left
 ES,6373.7,SPX G 1,#ffffff,#1395ba,left
 MES,6373.7,SPX G 1,#ffffff,#1395ba,left
 ES,6448.98,SPX G 2,#ffffff,#1395ba,left
-MES,6448.98,SPX G 2,#ffffff,#1395ba,left
+MES,6448.98,SPX G2,#ffffff,#1395ba,left
 ES,6398.79,SPX G 3,#ffffff,#1395ba,left
 MES,6398.79,SPX G 3,#ffffff,#1395ba,left
 ES,6443.96,SPX G 4,#ffffff,#1395ba,left
@@ -341,4 +341,5 @@ CL,59.86,USO G 9,#ffffff,#1395ba,left
 MCL,59.86,USO G 9,#ffffff,#1395ba,left
 CL,61.17,USO G 10,#ffffff,#1395ba,left
 MCL,61.17,USO G 10,#ffffff,#1395ba,left
+
 
