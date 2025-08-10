@@ -172,7 +172,7 @@ MES,6442.63,SPY Gamma Wall 0DTE,#ffffff,#1395ba,left
 ES,6392.29,SPY G 1,#ffffff,#1395ba,left
 MES,6392.29,SPY G 1,#ffffff,#1395ba,left
 ES,6402.36,SPY G 2,#ffffff,#1395ba,left
-MES,6402.36,SPY G 2,#ffffff,#1395ba,left
+MES,6430.36,SPY G 2,#ffffff,#1395ba,left
 ES,6452.69,SPY G 3,#ffffff,#1395ba,left
 MES,6452.69,SPY G 3,#ffffff,#1395ba,left
 ES,6422.49,SPY G 4,#ffffff,#1395ba,left
@@ -341,3 +341,4 @@ CL,59.86,USO G 9,#ffffff,#1395ba,left
 MCL,59.86,USO G 9,#ffffff,#1395ba,left
 CL,61.17,USO G 10,#ffffff,#1395ba,left
 MCL,61.17,USO G 10,#ffffff,#1395ba,left
+
