@@ -2,18 +2,18 @@ Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 2F,109.01,1D Exp Move Max 12-08-2025,#ffffff,#808080,left
 2F,108.52,1D Min,#ffffff,#808080,left
 2F,109.25,Call Wall,#ffffff,#808080,left
-2F,109,Call Wall 0DTE,#ffffff,#808080,left
-2F,108,G1,#ffffff,#808080,left
+2F,109.0,Call Wall 0DTE,#ffffff,#808080,left
+2F,108.0,G1,#ffffff,#808080,left
 2F,111.5,G10,#ffffff,#808080,left
 2F,109.5,G2,#ffffff,#808080,left
 2F,109.75,G3,#ffffff,#808080,left
-2F,110,G4,#ffffff,#808080,left
+2F,110.0,G4,#ffffff,#808080,left
 2F,107.75,G5,#ffffff,#808080,left
 2F,107.5,G6,#ffffff,#808080,left
-2F,107,G7,#ffffff,#808080,left
-2F,111,G8,#ffffff,#808080,left
+2F,107.0,G7,#ffffff,#808080,left
+2F,111.0,G8,#ffffff,#808080,left
 2F,110.5,G9,#ffffff,#808080,left
-2F,109,Gamma Wall 0DTE,#ffffff,#808080,left
+2F,109.0,Gamma Wall 0DTE,#ffffff,#808080,left
 2F,108.75,HVL,#ffffff,#808080,left
 2F,108.75,HVL 0DTE,#ffffff,#808080,left
 2F,108.25,Putt Wall,#ffffff,#808080,left
@@ -683,6 +683,25 @@ NQ,23358.2,QQQ HVL,#ffffff,#1395ba,left
 NQ,23605.8,QQQ HVL 0DTE,#ffffff,#1395ba,left
 NQ,22697.9,QQQ Putt Wall,#ffffff,#1395ba,left
 NQ,23440.8,QQQ Putt Wall 0DTE,#ffffff,#1395ba,left
+ZF,109.01,1D Exp Move Max 12-08-2025,#ffffff,#808080,left
+ZF,108.52,1D Min,#ffffff,#808080,left
+ZF,109.25,Call Wall,#ffffff,#808080,left
+ZF,109,Call Wall 0DTE,#ffffff,#808080,left
+ZF,108,G1,#ffffff,#808080,left
+ZF,111.5,G10,#ffffff,#808080,left
+ZF,109.5,G2,#ffffff,#808080,left
+ZF,109.75,G3,#ffffff,#808080,left
+ZF,110,G4,#ffffff,#808080,left
+ZF,107.75,G5,#ffffff,#808080,left
+ZF,107.5,G6,#ffffff,#808080,left
+ZF,107,G7,#ffffff,#808080,left
+ZF,111,G8,#ffffff,#808080,left
+ZF,110.5,G9,#ffffff,#808080,left
+ZF,109,Gamma Wall 0DTE,#ffffff,#808080,left
+ZF,108.75,HVL,#ffffff,#808080,left
+ZF,108.75,HVL 0DTE,#ffffff,#808080,left
+ZF,108.25,Putt Wall,#ffffff,#808080,left
+ZF,108.5,Putt Wall 0DTE,#ffffff,#808080,left
 ZN,112.24,1D Exp Move Max 12-08-2025,#ffffff,#808080,left
 ZN,111.55,1D Min,#ffffff,#808080,left
 ZN,112,Call Wall,#ffffff,#808080,left
