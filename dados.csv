@@ -298,9 +298,9 @@ MNQ,23490.0,HVL,#ffffff,#808080,left
 MNQ,23720.0,HVL 0DTE,#ffffff,#808080,left
 MNQ,24001.1,NDX 1D Max,#ffffff,#1395ba,left
 MNQ,23546.9,NDX 1D Min,#ffffff,#1395ba,left
-MNQ,23151.7,NDX Call Wall,#ffffff,#1395ba,left
-MNQ,23704.1,NDX Call Wall 0DTE,#ffffff,#1395ba,left
-MNQ,23804.6,NDX G1,#ffffff,#1395ba,left
+MNQ,23804.6,NDX Call Wall,#ffffff,#1395ba,left
+MNQ,23754.3,NDX Call Wall 0DTE,#ffffff,#1395ba,left
+MNQ,23704.1,NDX G1,#ffffff,#1395ba,left
 MNQ,23402.8,NDX G10,#ffffff,#1395ba,left
 MNQ,23603.7,NDX G2,#ffffff,#1395ba,left
 MNQ,23905,NDX G3,#ffffff,#1395ba,left
@@ -310,7 +310,7 @@ MNQ,23503.2,NDX G6,#ffffff,#1395ba,left
 MNQ,24005.4,NDX G7,#ffffff,#1395ba,left
 MNQ,24206.3,NDX G8,#ffffff,#1395ba,left
 MNQ,24105.9,NDX G9,#ffffff,#1395ba,left
-MNQ,23704.1,NDX Gamma Wall 0DTE,#ffffff,#1395ba,left
+MNQ,23754.3,NDX Gamma Wall 0DTE,#ffffff,#1395ba,left
 MNQ,23021.1,NDX HVL,#ffffff,#1395ba,left
 MNQ,23684,NDX HVL 0DTE,#ffffff,#1395ba,left
 MNQ,23674,NDX Putt Wall,#ffffff,#1395ba,left
@@ -357,9 +357,9 @@ NQ,23490.0,HVL,#ffffff,#808080,left
 NQ,23720.0,HVL 0DTE,#ffffff,#808080,left
 NQ,24001.1,NDX 1D Max,#ffffff,#1395ba,left
 NQ,23546.9,NDX 1D Min,#ffffff,#1395ba,left
-NQ,23151.7,NDX Call Wall,#ffffff,#1395ba,left
-NQ,23704.1,NDX Call Wall 0DTE,#ffffff,#1395ba,left
-NQ,23804.6,NDX G1,#ffffff,#1395ba,left
+NQ,23804.6,NDX Call Wall,#ffffff,#1395ba,left
+NQ,23754.3,NDX Call Wall 0DTE,#ffffff,#1395ba,left
+NQ,23704.1,NDX G1,#ffffff,#1395ba,left
 NQ,23402.8,NDX G10,#ffffff,#1395ba,left
 NQ,23603.7,NDX G2,#ffffff,#1395ba,left
 NQ,23905,NDX G3,#ffffff,#1395ba,left
@@ -369,7 +369,7 @@ NQ,23503.2,NDX G6,#ffffff,#1395ba,left
 NQ,24005.4,NDX G7,#ffffff,#1395ba,left
 NQ,24206.3,NDX G8,#ffffff,#1395ba,left
 NQ,24105.9,NDX G9,#ffffff,#1395ba,left
-NQ,23704.1,NDX Gamma Wall 0DTE,#ffffff,#1395ba,left
+NQ,23754.3,NDX Gamma Wall 0DTE,#ffffff,#1395ba,left
 NQ,23021.1,NDX HVL,#ffffff,#1395ba,left
 NQ,23684,NDX HVL 0DTE,#ffffff,#1395ba,left
 NQ,23674,NDX Putt Wall,#ffffff,#1395ba,left
