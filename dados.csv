@@ -68,8 +68,8 @@ ES,6423.75,SPX G1,#ffffff,#1395ba,left
 ES,6483.97,SPX G10,#ffffff,#1395ba,left
 ES,6448.84,SPX G2,#ffffff,#1395ba,left
 ES,6443.82,SPX G3,#ffffff,#1395ba,left
-ES,6453.86,SPX G4,#ffffff,#1395ba,left
-ES,6433.79,SPX G5,#ffffff,#1395ba,left
+ES,6463.9,SPX G4,#ffffff,#1395ba,left
+ES,6453.86,SPX G5,#ffffff,#1395ba,left
 ES,6524.12,SPX G6,#ffffff,#1395ba,left
 ES,6499.03,SPX G7,#ffffff,#1395ba,left
 ES,6373.56,SPX G8,#ffffff,#1395ba,left
@@ -81,14 +81,14 @@ ES,6022.27,SPX Putt Wall,#ffffff,#1395ba,left
 ES,6323.38,SPX Putt Wall 0DTE,#ffffff,#1395ba,left
 ES,6486.58,SPY 1D Max,#ffffff,#1395ba,left
 ES,6384.52,SPY 1D Min,#ffffff,#1395ba,left
-ES,6441.69,SPY Call Wall,#ffffff,#1395ba,left
+ES,6461.82,SPY Call Wall,#ffffff,#1395ba,left
 ES,6461.82,SPY Call Wall 0DTE,#ffffff,#1395ba,left
-ES,6451.75,SPY G1,#ffffff,#1395ba,left
+ES,6441.69,SPY G1,#ffffff,#1395ba,left
 ES,6502.08,SPY G10,#ffffff,#1395ba,left
-ES,6421.56,SPY G2,#ffffff,#1395ba,left
-ES,6471.88,SPY G3,#ffffff,#1395ba,left
-ES,6431.62,SPY G4,#ffffff,#1395ba,left
-ES,6481.95,SPY G5,#ffffff,#1395ba,left
+ES,6471.88,SPY G2,#ffffff,#1395ba,left
+ES,6451.75,SPY G3,#ffffff,#1395ba,left
+ES,6421.56,SPY G4,#ffffff,#1395ba,left
+ES,6431.62,SPY G5,#ffffff,#1395ba,left
 ES,6492.01,SPY G6,#ffffff,#1395ba,left
 ES,6341.04,SPY G7,#ffffff,#1395ba,left
 ES,6512.14,SPY G8,#ffffff,#1395ba,left
@@ -207,8 +207,8 @@ MES,6423.75,SPX G1,#ffffff,#1395ba,left
 MES,6483.97,SPX G10,#ffffff,#1395ba,left
 MES,6448.84,SPX G2,#ffffff,#1395ba,left
 MES,6443.82,SPX G3,#ffffff,#1395ba,left
-MES,6453.86,SPX G4,#ffffff,#1395ba,left
-MES,6433.79,SPX G5,#ffffff,#1395ba,left
+MES,6463.9,SPX G4,#ffffff,#1395ba,left
+MES,6453.86,SPX G5,#ffffff,#1395ba,left
 MES,6524.12,SPX G6,#ffffff,#1395ba,left
 MES,6499.03,SPX G7,#ffffff,#1395ba,left
 MES,6373.56,SPX G8,#ffffff,#1395ba,left
@@ -220,14 +220,14 @@ MES,6022.27,SPX Putt Wall,#ffffff,#1395ba,left
 MES,6323.38,SPX Putt Wall 0DTE,#ffffff,#1395ba,left
 MES,6486.58,SPY 1D Max,#ffffff,#1395ba,left
 MES,6384.52,SPY 1D Min,#ffffff,#1395ba,left
-MES,6441.69,SPY Call Wall,#ffffff,#1395ba,left
+MES,6461.82,SPY Call Wall,#ffffff,#1395ba,left
 MES,6461.82,SPY Call Wall 0DTE,#ffffff,#1395ba,left
-MES,6451.75,SPY G1,#ffffff,#1395ba,left
+MES,6441.69,SPY G1,#ffffff,#1395ba,left
 MES,6502.08,SPY G10,#ffffff,#1395ba,left
-MES,6421.56,SPY G2,#ffffff,#1395ba,left
-MES,6471.88,SPY G3,#ffffff,#1395ba,left
-MES,6431.62,SPY G4,#ffffff,#1395ba,left
-MES,6481.95,SPY G5,#ffffff,#1395ba,left
+MES,6471.88,SPY G2,#ffffff,#1395ba,left
+MES,6451.75,SPY G3,#ffffff,#1395ba,left
+MES,6421.56,SPY G4,#ffffff,#1395ba,left
+MES,6431.62,SPY G5,#ffffff,#1395ba,left
 MES,6492.01,SPY G6,#ffffff,#1395ba,left
 MES,6341.04,SPY G7,#ffffff,#1395ba,left
 MES,6512.14,SPY G8,#ffffff,#1395ba,left
