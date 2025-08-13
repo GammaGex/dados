@@ -176,8 +176,8 @@ ES,6522.57,SPX Call Wall,#ffffff,#1395ba,left
 ES,6497.48,SPX Call Wall 0DTE,#ffffff,#1395ba,left
 ES,6472.39,SPX G1,#ffffff,#1395ba,left
 ES,6562.71,SPX G10,#ffffff,#1395ba,left
-ES,6527.59,SPX G2,#ffffff,#1395ba,left
-ES,6447.31,SPX G3,#ffffff,#1395ba,left
+ES,6447.31,SPX G2,#ffffff,#1395ba,left
+ES,6527.59,SPX G3,#ffffff,#1395ba,left
 ES,6492.46,SPX G4,#ffffff,#1395ba,left
 ES,6482.43,SPX G5,#ffffff,#1395ba,left
 ES,6422.22,SPX G6,#ffffff,#1395ba,left
@@ -198,7 +198,7 @@ ES,6551.53,SPY G10,#ffffff,#1395ba,left
 ES,6521.34,SPY G2,#ffffff,#1395ba,left
 ES,6511.28,SPY G3,#ffffff,#1395ba,left
 ES,6450.89,SPY G4,#ffffff,#1395ba,left
-ES,6501.21,SPY G5,#ffffff,#1395ba,left
+ES,6460.96,SPY G5,#ffffff,#1395ba,left
 ES,6541.47,SPY G6,#ffffff,#1395ba,left
 ES,6410.64,SPY G7,#ffffff,#1395ba,left
 ES,6400.57,SPY G8,#ffffff,#1395ba,left
@@ -423,8 +423,8 @@ MES,6522.57,SPX Call Wall,#ffffff,#1395ba,left
 MES,6497.48,SPX Call Wall 0DTE,#ffffff,#1395ba,left
 MES,6472.39,SPX G1,#ffffff,#1395ba,left
 MES,6562.71,SPX G10,#ffffff,#1395ba,left
-MES,6527.59,SPX G2,#ffffff,#1395ba,left
-MES,6447.31,SPX G3,#ffffff,#1395ba,left
+MES,6447.31,SPX G2,#ffffff,#1395ba,left
+MES,6527.59,SPX G3,#ffffff,#1395ba,left
 MES,6492.46,SPX G4,#ffffff,#1395ba,left
 MES,6482.43,SPX G5,#ffffff,#1395ba,left
 MES,6422.22,SPX G6,#ffffff,#1395ba,left
@@ -445,7 +445,7 @@ MES,6551.53,SPY G10,#ffffff,#1395ba,left
 MES,6521.34,SPY G2,#ffffff,#1395ba,left
 MES,6511.28,SPY G3,#ffffff,#1395ba,left
 MES,6450.89,SPY G4,#ffffff,#1395ba,left
-MES,6501.21,SPY G5,#ffffff,#1395ba,left
+MES,6460.96,SPY G5,#ffffff,#1395ba,left
 MES,6541.47,SPY G6,#ffffff,#1395ba,left
 MES,6410.64,SPY G7,#ffffff,#1395ba,left
 MES,6400.57,SPY G8,#ffffff,#1395ba,left
@@ -512,14 +512,14 @@ MNQ,23390.0,HVL,#ffffff,#808080,left
 MNQ,23890.0,HVL 0DTE,#ffffff,#808080,left
 MNQ,24282.2,NDX 1D Max,#ffffff,#1395ba,left
 MNQ,23842,NDX 1D Min,#ffffff,#1395ba,left
-MNQ,24000,NDX Call Wall,#ffffff,#1395ba,left
+MNQ,23899.6,NDX Call Wall,#ffffff,#1395ba,left
 MNQ,23899.6,NDX Call Wall 0DTE,#ffffff,#1395ba,left
-MNQ,24200.8,NDX G1,#ffffff,#1395ba,left
+MNQ,24000,NDX G1,#ffffff,#1395ba,left
 MNQ,24502.1,NDX G10,#ffffff,#1395ba,left
-MNQ,24100.4,NDX G2,#ffffff,#1395ba,left
-MNQ,23874.5,NDX G3,#ffffff,#1395ba,left
-MNQ,23949.8,NDX G4,#ffffff,#1395ba,left
-MNQ,23849.4,NDX G5,#ffffff,#1395ba,left
+MNQ,24200.8,NDX G2,#ffffff,#1395ba,left
+MNQ,24100.4,NDX G3,#ffffff,#1395ba,left
+MNQ,23874.5,NDX G4,#ffffff,#1395ba,left
+MNQ,23949.8,NDX G5,#ffffff,#1395ba,left
 MNQ,23799.2,NDX G6,#ffffff,#1395ba,left
 MNQ,23698.7,NDX G7,#ffffff,#1395ba,left
 MNQ,24301.3,NDX G8,#ffffff,#1395ba,left
@@ -625,14 +625,14 @@ NQ,23390.0,HVL,#ffffff,#808080,left
 NQ,23890.0,HVL 0DTE,#ffffff,#808080,left
 NQ,24282.2,NDX 1D Max,#ffffff,#1395ba,left
 NQ,23842,NDX 1D Min,#ffffff,#1395ba,left
-NQ,24000,NDX Call Wall,#ffffff,#1395ba,left
+NQ,23899.6,NDX Call Wall,#ffffff,#1395ba,left
 NQ,23899.6,NDX Call Wall 0DTE,#ffffff,#1395ba,left
-NQ,24200.8,NDX G1,#ffffff,#1395ba,left
+NQ,24000,NDX G1,#ffffff,#1395ba,left
 NQ,24502.1,NDX G10,#ffffff,#1395ba,left
-NQ,24100.4,NDX G2,#ffffff,#1395ba,left
-NQ,23874.5,NDX G3,#ffffff,#1395ba,left
-NQ,23949.8,NDX G4,#ffffff,#1395ba,left
-NQ,23849.4,NDX G5,#ffffff,#1395ba,left
+NQ,24200.8,NDX G2,#ffffff,#1395ba,left
+NQ,24100.4,NDX G3,#ffffff,#1395ba,left
+NQ,23874.5,NDX G4,#ffffff,#1395ba,left
+NQ,23949.8,NDX G5,#ffffff,#1395ba,left
 NQ,23799.2,NDX G6,#ffffff,#1395ba,left
 NQ,23698.7,NDX G7,#ffffff,#1395ba,left
 NQ,24301.3,NDX G8,#ffffff,#1395ba,left
