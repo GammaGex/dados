@@ -514,8 +514,8 @@ MNQ,24108.3,NDX 1D Max,#ffffff,#1395ba,left
 MNQ,23641.1,NDX 1D Min,#ffffff,#1395ba,left
 MNQ,24093.1,NDX Call Wall,#ffffff,#1395ba,left
 MNQ,23882.3,NDX Call Wall 0DTE,#ffffff,#1395ba,left
-MNQ,23792,NDX G1,#ffffff,#1395ba,left
-MNQ,23541,NDX G10,#ffffff,#1395ba,left
+MNQ,23792.0,NDX G1,#ffffff,#1395ba,left
+MNQ,23541.0,NDX G10,#ffffff,#1395ba,left
 MNQ,23691.6,NDX G2,#ffffff,#1395ba,left
 MNQ,23892.4,NDX G3,#ffffff,#1395ba,left
 MNQ,23992.8,NDX G4,#ffffff,#1395ba,left
@@ -525,7 +525,7 @@ MNQ,23591.2,NDX G7,#ffffff,#1395ba,left
 MNQ,23490.8,NDX G8,#ffffff,#1395ba,left
 MNQ,24293.9,NDX G9,#ffffff,#1395ba,left
 MNQ,23882.3,NDX Gamma Wall 0DTE,#ffffff,#1395ba,left
-MNQ,23009,NDX HVL,#ffffff,#1395ba,left
+MNQ,23009.0,NDX HVL,#ffffff,#1395ba,left
 MNQ,23812.1,NDX HVL 0DTE,#ffffff,#1395ba,left
 MNQ,21583.4,NDX Putt Wall,#ffffff,#1395ba,left
 MNQ,23862.3,NDX Putt Wall 0DTE,#ffffff,#1395ba,left
@@ -536,7 +536,7 @@ MNQ,23677.6,QQQ 1D Min,#ffffff,#1395ba,left
 MNQ,23930.1,QQQ Call Wall,#ffffff,#1395ba,left
 MNQ,23971.4,QQQ Call Wall 0DTE,#ffffff,#1395ba,left
 MNQ,23723.8,QQQ G1,#ffffff,#1395ba,left
-MNQ,23600,QQQ G10,#ffffff,#1395ba,left
+MNQ,23600.0,QQQ G10,#ffffff,#1395ba,left
 MNQ,24095.1,QQQ G2,#ffffff,#1395ba,left
 MNQ,24053.9,QQQ G3,#ffffff,#1395ba,left
 MNQ,24012.6,QQQ G4,#ffffff,#1395ba,left
@@ -628,8 +628,8 @@ NQ,24108.3,NDX 1D Max,#ffffff,#1395ba,left
 NQ,23641.1,NDX 1D Min,#ffffff,#1395ba,left
 NQ,24093.1,NDX Call Wall,#ffffff,#1395ba,left
 NQ,23882.3,NDX Call Wall 0DTE,#ffffff,#1395ba,left
-NQ,23792,NDX G1,#ffffff,#1395ba,left
-NQ,23541,NDX G10,#ffffff,#1395ba,left
+NQ,23792.0,NDX G1,#ffffff,#1395ba,left
+NQ,23541.0,NDX G10,#ffffff,#1395ba,left
 NQ,23691.6,NDX G2,#ffffff,#1395ba,left
 NQ,23892.4,NDX G3,#ffffff,#1395ba,left
 NQ,23992.8,NDX G4,#ffffff,#1395ba,left
@@ -639,7 +639,7 @@ NQ,23591.2,NDX G7,#ffffff,#1395ba,left
 NQ,23490.8,NDX G8,#ffffff,#1395ba,left
 NQ,24293.9,NDX G9,#ffffff,#1395ba,left
 NQ,23882.3,NDX Gamma Wall 0DTE,#ffffff,#1395ba,left
-NQ,23009,NDX HVL,#ffffff,#1395ba,left
+NQ,23009.0,NDX HVL,#ffffff,#1395ba,left
 NQ,23812.1,NDX HVL 0DTE,#ffffff,#1395ba,left
 NQ,21583.4,NDX Putt Wall,#ffffff,#1395ba,left
 NQ,23862.3,NDX Putt Wall 0DTE,#ffffff,#1395ba,left
@@ -650,7 +650,7 @@ NQ,23677.6,QQQ 1D Min,#ffffff,#1395ba,left
 NQ,23930.1,QQQ Call Wall,#ffffff,#1395ba,left
 NQ,23971.4,QQQ Call Wall 0DTE,#ffffff,#1395ba,left
 NQ,23723.8,QQQ G1,#ffffff,#1395ba,left
-NQ,23600,QQQ G10,#ffffff,#1395ba,left
+NQ,23600.0,QQQ G10,#ffffff,#1395ba,left
 NQ,24095.1,QQQ G2,#ffffff,#1395ba,left
 NQ,24053.9,QQQ G3,#ffffff,#1395ba,left
 NQ,24012.6,QQQ G4,#ffffff,#1395ba,left
