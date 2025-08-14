@@ -440,7 +440,7 @@ MES,6535.83,SPY 1D Max,#ffffff,#1395ba,left
 MES,6442.65,SPY 1D Min,#ffffff,#1395ba,left
 MES,6540.66,SPY Call Wall,#ffffff,#1395ba,left
 MES,6520.53,SPY Call Wall 0DTE,#ffffff,#1395ba,left
-MES,6490.34,SPY TESTE MARCIO G1,#ffffff,#1395ba,left
+MES,6490.34,SPY G1,#ffffff,#1395ba,left
 MES,6560.78,SPY G10,#ffffff,#1395ba,left
 MES,6510.47,SPY G2,#ffffff,#1395ba,left
 MES,6480.28,SPY G3,#ffffff,#1395ba,left
@@ -721,4 +721,5 @@ ZT,103.75,HVL,#ffffff,#808080,left
 ZT,103.75,HVL 0DTE,#ffffff,#808080,left
 ZT,103.75,Putt Wall,#ffffff,#808080,left
 ZT,103.75,Putt Wall 0DTE,#ffffff,#808080,left
+
 
