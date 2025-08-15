@@ -222,23 +222,23 @@ GC,3425,G6,#ffffff,#808080,left
 GC,3415,G7,#ffffff,#808080,left
 GC,3340,G8,#ffffff,#808080,left
 GC,3435,G9,#ffffff,#808080,left
-GC,3415,GLD 1D Max,#ffffff,#1395ba,left
-GC,3354.41,GLD 1D Min,#ffffff,#1395ba,left
-GC,3470.08,GLD Call Wall,#ffffff,#1395ba,left
-GC,3415,GLD Call Wall 0DTE,#ffffff,#1395ba,left
+GC,3415.01,GLD 1D Max,#ffffff,#1395ba,left
+GC,3354.42,GLD 1D Min,#ffffff,#1395ba,left
+GC,3470.09,GLD Call Wall,#ffffff,#1395ba,left
+GC,3415.01,GLD Call Wall 0DTE,#ffffff,#1395ba,left
 GC,3359.92,GLD G1,#ffffff,#1395ba,left
-GC,3580.24,GLD G10,#ffffff,#1395ba,left
+GC,3580.25,GLD G10,#ffffff,#1395ba,left
 GC,3392.97,GLD G2,#ffffff,#1395ba,left
-GC,3403.98,GLD G3,#ffffff,#1395ba,left
-GC,3381.95,GLD G4,#ffffff,#1395ba,left
+GC,3403.99,GLD G3,#ffffff,#1395ba,left
+GC,3381.96,GLD G4,#ffffff,#1395ba,left
 GC,3426.02,GLD G5,#ffffff,#1395ba,left
-GC,3326.87,GLD G6,#ffffff,#1395ba,left
+GC,3326.88,GLD G6,#ffffff,#1395ba,left
 GC,3337.89,GLD G7,#ffffff,#1395ba,left
-GC,3437.03,GLD G8,#ffffff,#1395ba,left
-GC,3525.16,GLD G9,#ffffff,#1395ba,left
-GC,3415,GLD Gamma Wall 0DTE,#ffffff,#1395ba,left
+GC,3437.04,GLD G8,#ffffff,#1395ba,left
+GC,3525.17,GLD G9,#ffffff,#1395ba,left
+GC,3415.01,GLD Gamma Wall 0DTE,#ffffff,#1395ba,left
 GC,3370.94,GLD HVL,#ffffff,#1395ba,left
-GC,3348.9,GLD HVL 0DTE,#ffffff,#1395ba,left
+GC,3348.91,GLD HVL 0DTE,#ffffff,#1395ba,left
 GC,3370.94,GLD Putt Wall,#ffffff,#1395ba,left
 GC,3304.84,GLD Putt Wall 0DTE,#ffffff,#1395ba,left
 GC,3400,Gamma Wall 0DTE,#ffffff,#808080,left
@@ -469,23 +469,23 @@ MGC,3425,G6,#ffffff,#808080,left
 MGC,3415,G7,#ffffff,#808080,left
 MGC,3340,G8,#ffffff,#808080,left
 MGC,3435,G9,#ffffff,#808080,left
-MGC,3415,GLD 1D Max,#ffffff,#1395ba,left
-MGC,3354.41,GLD 1D Min,#ffffff,#1395ba,left
-MGC,3470.08,GLD Call Wall,#ffffff,#1395ba,left
-MGC,3415,GLD Call Wall 0DTE,#ffffff,#1395ba,left
+MGC,3415.01,GLD 1D Max,#ffffff,#1395ba,left
+MGC,3354.42,GLD 1D Min,#ffffff,#1395ba,left
+MGC,3470.09,GLD Call Wall,#ffffff,#1395ba,left
+MGC,3415.01,GLD Call Wall 0DTE,#ffffff,#1395ba,left
 MGC,3359.92,GLD G1,#ffffff,#1395ba,left
-MGC,3580.24,GLD G10,#ffffff,#1395ba,left
+MGC,3580.25,GLD G10,#ffffff,#1395ba,left
 MGC,3392.97,GLD G2,#ffffff,#1395ba,left
-MGC,3403.98,GLD G3,#ffffff,#1395ba,left
-MGC,3381.95,GLD G4,#ffffff,#1395ba,left
+MGC,3403.99,GLD G3,#ffffff,#1395ba,left
+MGC,3381.96,GLD G4,#ffffff,#1395ba,left
 MGC,3426.02,GLD G5,#ffffff,#1395ba,left
-MGC,3326.87,GLD G6,#ffffff,#1395ba,left
+MGC,3326.88,GLD G6,#ffffff,#1395ba,left
 MGC,3337.89,GLD G7,#ffffff,#1395ba,left
-MGC,3437.03,GLD G8,#ffffff,#1395ba,left
-MGC,3525.16,GLD G9,#ffffff,#1395ba,left
-MGC,3415,GLD Gamma Wall 0DTE,#ffffff,#1395ba,left
+MGC,3437.04,GLD G8,#ffffff,#1395ba,left
+MGC,3525.17,GLD G9,#ffffff,#1395ba,left
+MGC,3415.01,GLD Gamma Wall 0DTE,#ffffff,#1395ba,left
 MGC,3370.94,GLD HVL,#ffffff,#1395ba,left
-MGC,3348.9,GLD HVL 0DTE,#ffffff,#1395ba,left
+MGC,3348.91,GLD HVL 0DTE,#ffffff,#1395ba,left
 MGC,3370.94,GLD Putt Wall,#ffffff,#1395ba,left
 MGC,3304.84,GLD Putt Wall 0DTE,#ffffff,#1395ba,left
 MGC,3400,Gamma Wall 0DTE,#ffffff,#808080,left
