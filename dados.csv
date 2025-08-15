@@ -1,5 +1,4 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
-6A,0.65311,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 6A,0.65311,1D Max,#ffffff,#808080,left
 6A,0.64659,1D Min,#ffffff,#808080,left
 6A,0.66,Call Wall,#ffffff,#808080,left
@@ -19,7 +18,6 @@ Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 6A,0.6525,HVL 0DTE,#ffffff,#808080,left
 6A,0.65,Putt Wall,#ffffff,#808080,left
 6A,0.65,Putt Wall 0DTE,#ffffff,#808080,left
-6B,1.35943,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 6B,1.35943,1D Max,#ffffff,#808080,left
 6B,1.34797,1D Min,#ffffff,#808080,left
 6B,1.355,Call Wall,#ffffff,#808080,left
@@ -39,7 +37,6 @@ Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 6B,1.3425,HVL 0DTE,#ffffff,#808080,left
 6B,1.33,Putt Wall,#ffffff,#808080,left
 6B,1.3175,Putt Wall 0DTE,#ffffff,#808080,left
-6C,0.72719,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 6C,0.72719,1D Max,#ffffff,#808080,left
 6C,0.72301,1D Min,#ffffff,#808080,left
 6C,0.74,Call Wall,#ffffff,#808080,left
@@ -59,7 +56,6 @@ Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 6C,0.7275,HVL 0DTE,#ffffff,#808080,left
 6C,0.725,Putt Wall,#ffffff,#808080,left
 6C,0.725,Putt Wall 0DTE,#ffffff,#808080,left
-6E,1.172,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 6E,1.172,1D Max,#ffffff,#808080,left
 6E,1.161,1D Min,#ffffff,#808080,left
 6E,1.170,Call Wall,#ffffff,#808080,left
@@ -79,13 +75,11 @@ Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 6E,1.167,HVL 0DTE,#ffffff,#808080,left
 6E,1.165,Putt Wall,#ffffff,#808080,left
 6E,1.165,Putt Wall 0DTE,#ffffff,#808080,left
-6J,0.00682,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 6J,0.00682,1D Max,#ffffff,#808080,left
 6J,0.00675,1D Min,#ffffff,#808080,left
 6J,0.00688,Call Wall,#ffffff,#808080,left
 6J,0.0068,Call Wall 0DTE,#ffffff,#808080,left
 6J,0.00673,G1,#ffffff,#808080,left
-6J,0.0064,G10,#ffffff,#808080,left
 6J,0.00685,G2,#ffffff,#808080,left
 6J,0.00683,G3,#ffffff,#808080,left
 6J,0.00665,G4,#ffffff,#808080,left
@@ -99,7 +93,6 @@ Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 6J,0.00678,HVL 0DTE,#ffffff,#808080,left
 6J,0.0067,Putt Wall,#ffffff,#808080,left
 6J,0.00678,Putt Wall 0DTE,#ffffff,#808080,left
-6S,1.24718,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 6S,1.24718,1D Max,#ffffff,#808080,left
 6S,1.23572,1D Min,#ffffff,#808080,left
 6S,1.275,Call Wall,#ffffff,#808080,left
@@ -119,7 +112,6 @@ Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 6S,1.255,HVL 0DTE,#ffffff,#808080,left
 6S,1.24,Putt Wall,#ffffff,#808080,left
 6S,1.245,Putt Wall 0DTE,#ffffff,#808080,left
-CL,65.29,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 CL,65.29,1D Max,#ffffff,#808080,left
 CL,62.63,1D Min,#ffffff,#808080,left
 CL,65.00,Call Wall,#ffffff,#808080,left
@@ -139,7 +131,6 @@ CL,64.00,HVL,#ffffff,#808080,left
 CL,64.00,HVL 0DTE,#ffffff,#808080,left
 CL,64.00,Putt Wall,#ffffff,#808080,left
 CL,64.00,Putt Wall 0DTE,#ffffff,#808080,left
-CL,65.31,USO 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
 CL,65.31,USO 1D Max,#ffffff,#1395ba,left
 CL,62.79,USO 1D Min,#ffffff,#1395ba,left
 CL,70.36,USO Call Wall,#ffffff,#1395ba,left
@@ -159,7 +150,6 @@ CL,66.01,USO HVL,#ffffff,#1395ba,left
 CL,66.01,USO HVL 0DTE,#ffffff,#1395ba,left
 CL,64.27,USO Putt Wall,#ffffff,#1395ba,left
 CL,64.27,USO Putt Wall 0DTE,#ffffff,#1395ba,left
-ES,6536.7,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 ES,6536.7,1D Max,#ffffff,#808080,left
 ES,6444.3,1D Min,#ffffff,#808080,left
 ES,6500,Call Wall,#ffffff,#808080,left
@@ -179,9 +169,7 @@ ES,6445,HVL,#ffffff,#808080,left
 ES,6455,HVL 0DTE,#ffffff,#808080,left
 ES,6300,Putt Wall,#ffffff,#808080,left
 ES,6350,Putt Wall 0DTE,#ffffff,#808080,left
-ES,6535.51,SPX 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
-ES,6535.51,SPX 1D Exp Move Max 15-08-2025 08:50,#ffffff,#1395ba,left
-ES,6535.51,SPX 1D Max,#ffffff,#1395ba,left
+ES,6535.51,SPX 1D Exp Move Max 15-08-2025 08:52,#ffffff,#1395ba,left
 ES,6440.95,SPX 1D Min,#ffffff,#1395ba,left
 ES,6520.53,SPX Call Wall,#ffffff,#1395ba,left
 ES,6470.38,SPX Call Wall 0DTE,#ffffff,#1395ba,left
@@ -200,7 +188,6 @@ ES,6415.2,SPX HVL,#ffffff,#1395ba,left
 ES,6365.04,SPX HVL 0DTE,#ffffff,#1395ba,left
 ES,6018.95,SPX Putt Wall,#ffffff,#1395ba,left
 ES,6420.22,SPX Putt Wall 0DTE,#ffffff,#1395ba,left
-ES,6534.04,SPY 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
 ES,6534.04,SPY 1D Max,#ffffff,#1395ba,left
 ES,6443.89,SPY 1D Min,#ffffff,#1395ba,left
 ES,6489.47,SPY Call Wall,#ffffff,#1395ba,left
@@ -220,7 +207,6 @@ ES,6419.04,SPY HVL,#ffffff,#1395ba,left
 ES,6419.04,SPY HVL 0DTE,#ffffff,#1395ba,left
 ES,6237.94,SPY Putt Wall,#ffffff,#1395ba,left
 ES,6288.24,SPY Putt Wall 0DTE,#ffffff,#1395ba,left
-GC,3386.03,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 GC,3386.03,1D Max,#ffffff,#808080,left
 GC,3325.57,1D Min,#ffffff,#808080,left
 GC,3500,Call Wall,#ffffff,#808080,left
@@ -235,7 +221,6 @@ GC,3400,G6,#ffffff,#808080,left
 GC,3405,G7,#ffffff,#808080,left
 GC,3305,G8,#ffffff,#808080,left
 GC,3315,G9,#ffffff,#808080,left
-GC,3415.0,GLD 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
 GC,3415,GLD 1D Max,#ffffff,#1395ba,left
 GC,3354.41,GLD 1D Min,#ffffff,#1395ba,left
 GC,3470.08,GLD Call Wall,#ffffff,#1395ba,left
@@ -260,7 +245,6 @@ GC,3370,HVL,#ffffff,#808080,left
 GC,3365,HVL 0DTE,#ffffff,#808080,left
 GC,3325,Putt Wall,#ffffff,#808080,left
 GC,3360,Putt Wall 0DTE,#ffffff,#808080,left
-M6A,0.65311,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 M6A,0.65311,1D Max,#ffffff,#808080,left
 M6A,0.64659,1D Min,#ffffff,#808080,left
 M6A,0.66,Call Wall,#ffffff,#808080,left
@@ -280,7 +264,6 @@ M6A,0.6525,HVL,#ffffff,#808080,left
 M6A,0.6525,HVL 0DTE,#ffffff,#808080,left
 M6A,0.65,Putt Wall,#ffffff,#808080,left
 M6A,0.65,Putt Wall 0DTE,#ffffff,#808080,left
-M6B,1.35943,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 M6B,1.35943,1D Max,#ffffff,#808080,left
 M6B,1.34797,1D Min,#ffffff,#808080,left
 M6B,1.355,Call Wall,#ffffff,#808080,left
@@ -300,7 +283,6 @@ M6B,1.35,HVL,#ffffff,#808080,left
 M6B,1.3425,HVL 0DTE,#ffffff,#808080,left
 M6B,1.33,Putt Wall,#ffffff,#808080,left
 M6B,1.3175,Putt Wall 0DTE,#ffffff,#808080,left
-M6C,0.72719,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 M6C,0.72719,1D Max,#ffffff,#808080,left
 M6C,0.72301,1D Min,#ffffff,#808080,left
 M6C,0.74,Call Wall,#ffffff,#808080,left
@@ -320,7 +302,6 @@ M6C,0.725,HVL,#ffffff,#808080,left
 M6C,0.7275,HVL 0DTE,#ffffff,#808080,left
 M6C,0.725,Putt Wall,#ffffff,#808080,left
 M6C,0.725,Putt Wall 0DTE,#ffffff,#808080,left
-M6E,1.172,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 M6E,1.172,1D Max,#ffffff,#808080,left
 M6E,1.161,1D Min,#ffffff,#808080,left
 M6E,1.170,Call Wall,#ffffff,#808080,left
@@ -340,13 +321,11 @@ M6E,1.167,HVL,#ffffff,#808080,left
 M6E,1.167,HVL 0DTE,#ffffff,#808080,left
 M6E,1.165,Putt Wall,#ffffff,#808080,left
 M6E,1.165,Putt Wall 0DTE,#ffffff,#808080,left
-M6J,0.00682,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 M6J,0.00682,1D Max,#ffffff,#808080,left
 M6J,0.00675,1D Min,#ffffff,#808080,left
 M6J,0.00688,Call Wall,#ffffff,#808080,left
 M6J,0.0068,Call Wall 0DTE,#ffffff,#808080,left
 M6J,0.00673,G1,#ffffff,#808080,left
-M6J,0.0064,G10,#ffffff,#808080,left
 M6J,0.00685,G2,#ffffff,#808080,left
 M6J,0.00683,G3,#ffffff,#808080,left
 M6J,0.00665,G4,#ffffff,#808080,left
@@ -360,7 +339,6 @@ M6J,0.0068,HVL,#ffffff,#808080,left
 M6J,0.00678,HVL 0DTE,#ffffff,#808080,left
 M6J,0.0067,Putt Wall,#ffffff,#808080,left
 M6J,0.00678,Putt Wall 0DTE,#ffffff,#808080,left
-M6S,1.24718,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 M6S,1.24718,1D Max,#ffffff,#808080,left
 M6S,1.23572,1D Min,#ffffff,#808080,left
 M6S,1.275,Call Wall,#ffffff,#808080,left
@@ -380,7 +358,6 @@ M6S,1.24,HVL,#ffffff,#808080,left
 M6S,1.255,HVL 0DTE,#ffffff,#808080,left
 M6S,1.24,Putt Wall,#ffffff,#808080,left
 M6S,1.245,Putt Wall 0DTE,#ffffff,#808080,left
-MCL,65.29,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 MCL,65.29,1D Max,#ffffff,#808080,left
 MCL,62.63,1D Min,#ffffff,#808080,left
 MCL,65.00,Call Wall,#ffffff,#808080,left
@@ -400,7 +377,6 @@ MCL,64.00,HVL,#ffffff,#808080,left
 MCL,64.00,HVL 0DTE,#ffffff,#808080,left
 MCL,64.00,Putt Wall,#ffffff,#808080,left
 MCL,64.00,Putt Wall 0DTE,#ffffff,#808080,left
-MCL,65.31,USO 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
 MCL,65.31,USO 1D Max,#ffffff,#1395ba,left
 MCL,62.79,USO 1D Min,#ffffff,#1395ba,left
 MCL,70.36,USO Call Wall,#ffffff,#1395ba,left
@@ -420,7 +396,6 @@ MCL,66.01,USO HVL,#ffffff,#1395ba,left
 MCL,66.01,USO HVL 0DTE,#ffffff,#1395ba,left
 MCL,64.27,USO Putt Wall,#ffffff,#1395ba,left
 MCL,64.27,USO Putt Wall 0DTE,#ffffff,#1395ba,left
-MES,6536.7,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 MES,6536.7,1D Max,#ffffff,#808080,left
 MES,6444.3,1D Min,#ffffff,#808080,left
 MES,6500,Call Wall,#ffffff,#808080,left
@@ -440,9 +415,7 @@ MES,6445,HVL,#ffffff,#808080,left
 MES,6455,HVL 0DTE,#ffffff,#808080,left
 MES,6300,Putt Wall,#ffffff,#808080,left
 MES,6350,Putt Wall 0DTE,#ffffff,#808080,left
-MES,6535.51,SPX 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
-MES,6535.51,SPX 1D Exp Move Max 15-08-2025 08:50,#ffffff,#1395ba,left
-MES,6535.51,SPX 1D Max,#ffffff,#1395ba,left
+MES,6535.51,SPX 1D Exp Move Max 15-08-2025 08:52,#ffffff,#1395ba,left
 MES,6440.95,SPX 1D Min,#ffffff,#1395ba,left
 MES,6520.53,SPX Call Wall,#ffffff,#1395ba,left
 MES,6470.38,SPX Call Wall 0DTE,#ffffff,#1395ba,left
@@ -461,7 +434,6 @@ MES,6415.2,SPX HVL,#ffffff,#1395ba,left
 MES,6365.04,SPX HVL 0DTE,#ffffff,#1395ba,left
 MES,6018.95,SPX Putt Wall,#ffffff,#1395ba,left
 MES,6420.22,SPX Putt Wall 0DTE,#ffffff,#1395ba,left
-MES,6534.04,SPY 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
 MES,6534.04,SPY 1D Max,#ffffff,#1395ba,left
 MES,6443.89,SPY 1D Min,#ffffff,#1395ba,left
 MES,6489.47,SPY Call Wall,#ffffff,#1395ba,left
@@ -481,7 +453,6 @@ MES,6419.04,SPY HVL,#ffffff,#1395ba,left
 MES,6419.04,SPY HVL 0DTE,#ffffff,#1395ba,left
 MES,6237.94,SPY Putt Wall,#ffffff,#1395ba,left
 MES,6288.24,SPY Putt Wall 0DTE,#ffffff,#1395ba,left
-MGC,3386.03,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 MGC,3386.03,1D Max,#ffffff,#808080,left
 MGC,3325.57,1D Min,#ffffff,#808080,left
 MGC,3500,Call Wall,#ffffff,#808080,left
@@ -496,7 +467,6 @@ MGC,3400,G6,#ffffff,#808080,left
 MGC,3405,G7,#ffffff,#808080,left
 MGC,3305,G8,#ffffff,#808080,left
 MGC,3315,G9,#ffffff,#808080,left
-MGC,3415.0,GLD 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
 MGC,3415,GLD 1D Max,#ffffff,#1395ba,left
 MGC,3354.41,GLD 1D Min,#ffffff,#1395ba,left
 MGC,3470.08,GLD Call Wall,#ffffff,#1395ba,left
@@ -521,7 +491,6 @@ MGC,3370,HVL,#ffffff,#808080,left
 MGC,3365,HVL 0DTE,#ffffff,#808080,left
 MGC,3325,Putt Wall,#ffffff,#808080,left
 MGC,3360,Putt Wall 0DTE,#ffffff,#808080,left
-MNQ,24144.8,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 MNQ,24144.8,1D Max,#ffffff,#808080,left
 MNQ,23716.2,1D Min,#ffffff,#808080,left
 MNQ,24000,Call Wall,#ffffff,#808080,left
@@ -539,9 +508,7 @@ MNQ,23550,G9,#ffffff,#808080,left
 MNQ,24000,Gamma Wall 0DTE,#ffffff,#808080,left
 MNQ,23720,HVL,#ffffff,#808080,left
 MNQ,23940,HVL 0DTE,#ffffff,#808080,left
-MNQ,24138.0,NDX 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
-MNQ,24138,NDX 1D Exp Move Max 15-08-2025 08:50,#ffffff,#1395ba,left
-MNQ,24138.0,NDX 1D Max,#ffffff,#1395ba,left
+MNQ,24138,NDX 1D Exp Move Max 15-08-2025 08:52,#ffffff,#1395ba,left
 MNQ,23690.3,NDX 1D Min,#ffffff,#1395ba,left
 MNQ,24082.5,NDX Call Wall,#ffffff,#1395ba,left
 MNQ,23781.5,NDX Call Wall 0DTE,#ffffff,#1395ba,left
@@ -562,7 +529,6 @@ MNQ,21573.9,NDX Putt Wall,#ffffff,#1395ba,left
 MNQ,23681.2,NDX Putt Wall 0DTE,#ffffff,#1395ba,left
 MNQ,23700,Putt Wall,#ffffff,#808080,left
 MNQ,23700,Putt Wall 0DTE,#ffffff,#808080,left
-MNQ,24131.2,QQQ 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
 MNQ,24131.2,QQQ 1D Max,#ffffff,#1395ba,left
 MNQ,23714.6,QQQ 1D Min,#ffffff,#1395ba,left
 MNQ,23927.4,QQQ Call Wall,#ffffff,#1395ba,left
@@ -582,7 +548,6 @@ MNQ,23679.9,QQQ HVL,#ffffff,#1395ba,left
 MNQ,23638.6,QQQ HVL 0DTE,#ffffff,#1395ba,left
 MNQ,22689.8,QQQ Putt Wall,#ffffff,#1395ba,left
 MNQ,23308.6,QQQ Putt Wall 0DTE,#ffffff,#1395ba,left
-MZF,108.98,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 MZF,108.98,1D Max,#ffffff,#808080,left
 MZF,108.57,1D Min,#ffffff,#808080,left
 MZF,109.25,Call Wall,#ffffff,#808080,left
@@ -602,7 +567,6 @@ MZF,108.75,HVL,#ffffff,#808080,left
 MZF,108.75,HVL 0DTE,#ffffff,#808080,left
 MZF,108.25,Putt Wall,#ffffff,#808080,left
 MZF,108.75,Putt Wall 0DTE,#ffffff,#808080,left
-MZN,112.11,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 MZN,112.11,1D Max,#ffffff,#808080,left
 MZN,111.49,1D Min,#ffffff,#808080,left
 MZN,112,Call Wall,#ffffff,#808080,left
@@ -622,7 +586,6 @@ MZN,111.75,HVL,#ffffff,#808080,left
 MZN,111.75,HVL 0DTE,#ffffff,#808080,left
 MZN,111.75,Putt Wall,#ffffff,#808080,left
 MZN,111.75,Putt Wall 0DTE,#ffffff,#808080,left
-MZT,103.95,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 MZT,103.95,1D Max,#ffffff,#808080,left
 MZT,103.79,1D Min,#ffffff,#808080,left
 MZT,104,Call Wall,#ffffff,#808080,left
@@ -642,7 +605,6 @@ MZT,103.75,HVL,#ffffff,#808080,left
 MZT,103.88,HVL 0DTE,#ffffff,#808080,left
 MZT,103.75,Putt Wall,#ffffff,#808080,left
 MZT,103.75,Putt Wall 0DTE,#ffffff,#808080,left
-NQ,24144.8,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 NQ,24144.8,1D Max,#ffffff,#808080,left
 NQ,23716.2,1D Min,#ffffff,#808080,left
 NQ,24000,Call Wall,#ffffff,#808080,left
@@ -660,9 +622,7 @@ NQ,23550,G9,#ffffff,#808080,left
 NQ,24000,Gamma Wall 0DTE,#ffffff,#808080,left
 NQ,23720,HVL,#ffffff,#808080,left
 NQ,23940,HVL 0DTE,#ffffff,#808080,left
-NQ,24138.0,NDX 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
-NQ,24138,NDX 1D Exp Move Max 15-08-2025 08:50,#ffffff,#1395ba,left
-NQ,24138.0,NDX 1D Max,#ffffff,#1395ba,left
+NQ,24138,NDX 1D Exp Move Max 15-08-2025 08:52,#ffffff,#1395ba,left
 NQ,23690.3,NDX 1D Min,#ffffff,#1395ba,left
 NQ,24082.5,NDX Call Wall,#ffffff,#1395ba,left
 NQ,23781.5,NDX Call Wall 0DTE,#ffffff,#1395ba,left
@@ -683,7 +643,6 @@ NQ,21573.9,NDX Putt Wall,#ffffff,#1395ba,left
 NQ,23681.2,NDX Putt Wall 0DTE,#ffffff,#1395ba,left
 NQ,23700,Putt Wall,#ffffff,#808080,left
 NQ,23700,Putt Wall 0DTE,#ffffff,#808080,left
-NQ,24131.2,QQQ 1D Exp Move Max 15-08-2025 08:41,#ffffff,#1395ba,left
 NQ,24131.2,QQQ 1D Max,#ffffff,#1395ba,left
 NQ,23714.6,QQQ 1D Min,#ffffff,#1395ba,left
 NQ,23927.4,QQQ Call Wall,#ffffff,#1395ba,left
@@ -703,7 +662,6 @@ NQ,23679.9,QQQ HVL,#ffffff,#1395ba,left
 NQ,23638.6,QQQ HVL 0DTE,#ffffff,#1395ba,left
 NQ,22689.8,QQQ Putt Wall,#ffffff,#1395ba,left
 NQ,23308.6,QQQ Putt Wall 0DTE,#ffffff,#1395ba,left
-ZF,108.98,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 ZF,108.98,1D Max,#ffffff,#808080,left
 ZF,108.57,1D Min,#ffffff,#808080,left
 ZF,109.25,Call Wall,#ffffff,#808080,left
@@ -723,7 +681,6 @@ ZF,108.75,HVL,#ffffff,#808080,left
 ZF,108.75,HVL 0DTE,#ffffff,#808080,left
 ZF,108.25,Putt Wall,#ffffff,#808080,left
 ZF,108.75,Putt Wall 0DTE,#ffffff,#808080,left
-ZN,112.11,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 ZN,112.11,1D Max,#ffffff,#808080,left
 ZN,111.49,1D Min,#ffffff,#808080,left
 ZN,112,Call Wall,#ffffff,#808080,left
@@ -743,7 +700,6 @@ ZN,111.75,HVL,#ffffff,#808080,left
 ZN,111.75,HVL 0DTE,#ffffff,#808080,left
 ZN,111.75,Putt Wall,#ffffff,#808080,left
 ZN,111.75,Putt Wall 0DTE,#ffffff,#808080,left
-ZT,103.95,1D Exp Move Max 15-08-2025,#ffffff,#808080,left
 ZT,103.95,1D Max,#ffffff,#808080,left
 ZT,103.79,1D Min,#ffffff,#808080,left
 ZT,104,Call Wall,#ffffff,#808080,left
