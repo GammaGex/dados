@@ -1,24 +1,5 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
-ES,6518.75,1D Max,#ffffff,#808080,left
-ES,6424.25,1D Min,#ffffff,#808080,left
-ES,6500,Call Wall,#ffffff,#808080,left
-ES,6480,Call Wall 0DTE,#ffffff,#808080,left
-ES,6450,G1,#ffffff,#808080,left
-ES,6530,G10,#ffffff,#808080,left
-ES,6460,G2,#ffffff,#808080,left
-ES,6440,G3,#ffffff,#808080,left
-ES,6510,G4,#ffffff,#808080,left
-ES,6490,G5,#ffffff,#808080,left
-ES,6525,G6,#ffffff,#808080,left
-ES,6550,G7,#ffffff,#808080,left
-ES,6400,G8,#ffffff,#808080,left
-ES,6540,G9,#ffffff,#808080,left
-ES,6480,Gamma Wall 0DTE,#ffffff,#808080,left
-ES,6435,HVL,#ffffff,#808080,left
-ES,6475,HVL 0DTE,#ffffff,#808080,left
-ES,6300,Putt Wall,#ffffff,#808080,left
-ES,6425,Putt Wall 0DTE,#ffffff,#808080,left
-ES,6516.38,SPX 1D Exp Move Max 18-08-2025 13:05,#ffffff,#1395ba,left
+ES,6516.38,SPX 1D Exp Move Max 18-08-2025 13:08,#ffffff,#1395ba,left
 ES,6423.14,SPX 1D Min,#ffffff,#1395ba,left
 ES,6519.63,SPX Call Wall,#ffffff,#1395ba,left
 ES,6469.48,SPX Call Wall 0DTE,#ffffff,#1395ba,left
@@ -35,8 +16,8 @@ ES,6394.25,SPX G9,#ffffff,#1395ba,left
 ES,6469.48,SPX Gamma Wall 0DTE,#ffffff,#1395ba,left
 ES,6449.42,SPX HVL,#ffffff,#1395ba,left
 ES,6449.42,SPX HVL 0DTE,#ffffff,#1395ba,left
-ES,6018.12,SPX Putt Wall,#ffffff,#1395ba,left
-ES,6449.42,SPX Putt Wall 0DTE,#ffffff,#1395ba,left
+ES,6018.12,SPX Put Wall,#ffffff,#1395ba,left
+ES,6449.42,SPX Put Wall 0DTE,#ffffff,#1395ba,left
 ES,6518.7,SPY 1D Max,#ffffff,#1395ba,left
 ES,6422.55,SPY 1D Min,#ffffff,#1395ba,left
 ES,6486.72,SPY Call Wall,#ffffff,#1395ba,left
@@ -54,28 +35,9 @@ ES,6396.21,SPY G9,#ffffff,#1395ba,left
 ES,6486.72,SPY Gamma Wall 0DTE,#ffffff,#1395ba,left
 ES,6476.66,SPY HVL,#ffffff,#1395ba,left
 ES,6476.66,SPY HVL 0DTE,#ffffff,#1395ba,left
-ES,6386.15,SPY Putt Wall,#ffffff,#1395ba,left
-ES,6436.43,SPY Putt Wall 0DTE,#ffffff,#1395ba,left
-MES,6518.75,1D Max,#ffffff,#808080,left
-MES,6424.25,1D Min,#ffffff,#808080,left
-MES,6500,Call Wall,#ffffff,#808080,left
-MES,6480,Call Wall 0DTE,#ffffff,#808080,left
-MES,6450,G1,#ffffff,#808080,left
-MES,6530,G10,#ffffff,#808080,left
-MES,6460,G2,#ffffff,#808080,left
-MES,6440,G3,#ffffff,#808080,left
-MES,6510,G4,#ffffff,#808080,left
-MES,6490,G5,#ffffff,#808080,left
-MES,6525,G6,#ffffff,#808080,left
-MES,6550,G7,#ffffff,#808080,left
-MES,6400,G8,#ffffff,#808080,left
-MES,6540,G9,#ffffff,#808080,left
-MES,6480,Gamma Wall 0DTE,#ffffff,#808080,left
-MES,6435,HVL,#ffffff,#808080,left
-MES,6475,HVL 0DTE,#ffffff,#808080,left
-MES,6300,Putt Wall,#ffffff,#808080,left
-MES,6425,Putt Wall 0DTE,#ffffff,#808080,left
-MES,6516.38,SPX 1D Exp Move Max 18-08-2025 13:05,#ffffff,#1395ba,left
+ES,6386.15,SPY Put Wall,#ffffff,#1395ba,left
+ES,6436.43,SPY Put Wall 0DTE,#ffffff,#1395ba,left
+MES,6516.38,SPX 1D Exp Move Max 18-08-2025 13:08,#ffffff,#1395ba,left
 MES,6423.14,SPX 1D Min,#ffffff,#1395ba,left
 MES,6519.63,SPX Call Wall,#ffffff,#1395ba,left
 MES,6469.48,SPX Call Wall 0DTE,#ffffff,#1395ba,left
@@ -92,8 +54,8 @@ MES,6394.25,SPX G9,#ffffff,#1395ba,left
 MES,6469.48,SPX Gamma Wall 0DTE,#ffffff,#1395ba,left
 MES,6449.42,SPX HVL,#ffffff,#1395ba,left
 MES,6449.42,SPX HVL 0DTE,#ffffff,#1395ba,left
-MES,6018.12,SPX Putt Wall,#ffffff,#1395ba,left
-MES,6449.42,SPX Putt Wall 0DTE,#ffffff,#1395ba,left
+MES,6018.12,SPX Put Wall,#ffffff,#1395ba,left
+MES,6449.42,SPX Put Wall 0DTE,#ffffff,#1395ba,left
 MES,6518.7,SPY 1D Max,#ffffff,#1395ba,left
 MES,6422.55,SPY 1D Min,#ffffff,#1395ba,left
 MES,6486.72,SPY Call Wall,#ffffff,#1395ba,left
@@ -111,26 +73,9 @@ MES,6396.21,SPY G9,#ffffff,#1395ba,left
 MES,6486.72,SPY Gamma Wall 0DTE,#ffffff,#1395ba,left
 MES,6476.66,SPY HVL,#ffffff,#1395ba,left
 MES,6476.66,SPY HVL 0DTE,#ffffff,#1395ba,left
-MES,6386.15,SPY Putt Wall,#ffffff,#1395ba,left
-MES,6436.43,SPY Putt Wall 0DTE,#ffffff,#1395ba,left
-MNQ,24024.8,1D Max,#ffffff,#808080,left
-MNQ,23583.2,1D Min,#ffffff,#808080,left
-MNQ,24000,Call Wall,#ffffff,#808080,left
-MNQ,23800,Call Wall 0DTE,#ffffff,#808080,left
-MNQ,23875,G1,#ffffff,#808080,left
-MNQ,23400,G10,#ffffff,#808080,left
-MNQ,23600,G2,#ffffff,#808080,left
-MNQ,23900,G3,#ffffff,#808080,left
-MNQ,23850,G4,#ffffff,#808080,left
-MNQ,23725,G5,#ffffff,#808080,left
-MNQ,23500,G6,#ffffff,#808080,left
-MNQ,24200,G7,#ffffff,#808080,left
-MNQ,24100,G8,#ffffff,#808080,left
-MNQ,24050,G9,#ffffff,#808080,left
-MNQ,23800,Gamma Wall 0DTE,#ffffff,#808080,left
-MNQ,23490,HVL,#ffffff,#808080,left
-MNQ,23890,HVL 0DTE,#ffffff,#808080,left
-MNQ,24046.4,NDX 1D Exp Move Max 18-08-2025 13:05,#ffffff,#1395ba,left
+MES,6386.15,SPY Put Wall,#ffffff,#1395ba,left
+MES,6436.43,SPY Put Wall 0DTE,#ffffff,#1395ba,left
+MNQ,24046.4,NDX 1D Exp Move Max 18-08-2025 13:08,#ffffff,#1395ba,left
 MNQ,23592.2,NDX 1D Min,#ffffff,#1395ba,left
 MNQ,23813.7,NDX Call Wall,#ffffff,#1395ba,left
 MNQ,23808.7,NDX Call Wall 0DTE,#ffffff,#1395ba,left
@@ -147,10 +92,8 @@ MNQ,23387.1,NDX G9,#ffffff,#1395ba,left
 MNQ,23808.7,NDX Gamma Wall 0DTE,#ffffff,#1395ba,left
 MNQ,23798.7,NDX HVL,#ffffff,#1395ba,left
 MNQ,23798.7,NDX HVL 0DTE,#ffffff,#1395ba,left
-MNQ,23768.5,NDX Putt Wall,#ffffff,#1395ba,left
-MNQ,23768.5,NDX Putt Wall 0DTE,#ffffff,#1395ba,left
-MNQ,23000,Putt Wall,#ffffff,#808080,left
-MNQ,23750,Putt Wall 0DTE,#ffffff,#808080,left
+MNQ,23768.5,NDX Put Wall,#ffffff,#1395ba,left
+MNQ,23768.5,NDX Put Wall 0DTE,#ffffff,#1395ba,left
 MNQ,24044.4,QQQ 1D Max,#ffffff,#1395ba,left
 MNQ,23591.6,QQQ 1D Min,#ffffff,#1395ba,left
 MNQ,23918.6,QQQ Call Wall,#ffffff,#1395ba,left
@@ -168,26 +111,9 @@ MNQ,23588.7,QQQ G9,#ffffff,#1395ba,left
 MNQ,23918.6,QQQ Gamma Wall 0DTE,#ffffff,#1395ba,left
 MNQ,23753.6,QQQ HVL,#ffffff,#1395ba,left
 MNQ,23794.9,QQQ HVL 0DTE,#ffffff,#1395ba,left
-MNQ,23300,QQQ Putt Wall,#ffffff,#1395ba,left
-MNQ,23712.4,QQQ Putt Wall 0DTE,#ffffff,#1395ba,left
-NQ,24024.8,1D Max,#ffffff,#808080,left
-NQ,23583.2,1D Min,#ffffff,#808080,left
-NQ,24000,Call Wall,#ffffff,#808080,left
-NQ,23800,Call Wall 0DTE,#ffffff,#808080,left
-NQ,23875,G1,#ffffff,#808080,left
-NQ,23400,G10,#ffffff,#808080,left
-NQ,23600,G2,#ffffff,#808080,left
-NQ,23900,G3,#ffffff,#808080,left
-NQ,23850,G4,#ffffff,#808080,left
-NQ,23725,G5,#ffffff,#808080,left
-NQ,23500,G6,#ffffff,#808080,left
-NQ,24200,G7,#ffffff,#808080,left
-NQ,24100,G8,#ffffff,#808080,left
-NQ,24050,G9,#ffffff,#808080,left
-NQ,23800,Gamma Wall 0DTE,#ffffff,#808080,left
-NQ,23490,HVL,#ffffff,#808080,left
-NQ,23890,HVL 0DTE,#ffffff,#808080,left
-NQ,24046.4,NDX 1D Exp Move Max 18-08-2025 13:05,#ffffff,#1395ba,left
+MNQ,23300,QQQ Put Wall,#ffffff,#1395ba,left
+MNQ,23712.4,QQQ Put Wall 0DTE,#ffffff,#1395ba,left
+NQ,24046.4,NDX 1D Exp Move Max 18-08-2025 13:08,#ffffff,#1395ba,left
 NQ,23592.2,NDX 1D Min,#ffffff,#1395ba,left
 NQ,23813.7,NDX Call Wall,#ffffff,#1395ba,left
 NQ,23808.7,NDX Call Wall 0DTE,#ffffff,#1395ba,left
@@ -204,10 +130,8 @@ NQ,23387.1,NDX G9,#ffffff,#1395ba,left
 NQ,23808.7,NDX Gamma Wall 0DTE,#ffffff,#1395ba,left
 NQ,23798.7,NDX HVL,#ffffff,#1395ba,left
 NQ,23798.7,NDX HVL 0DTE,#ffffff,#1395ba,left
-NQ,23768.5,NDX Putt Wall,#ffffff,#1395ba,left
-NQ,23768.5,NDX Putt Wall 0DTE,#ffffff,#1395ba,left
-NQ,23000,Putt Wall,#ffffff,#808080,left
-NQ,23750,Putt Wall 0DTE,#ffffff,#808080,left
+NQ,23768.5,NDX Put Wall,#ffffff,#1395ba,left
+NQ,23768.5,NDX Put Wall 0DTE,#ffffff,#1395ba,left
 NQ,24044.4,QQQ 1D Max,#ffffff,#1395ba,left
 NQ,23591.6,QQQ 1D Min,#ffffff,#1395ba,left
 NQ,23918.6,QQQ Call Wall,#ffffff,#1395ba,left
@@ -225,5 +149,5 @@ NQ,23588.7,QQQ G9,#ffffff,#1395ba,left
 NQ,23918.6,QQQ Gamma Wall 0DTE,#ffffff,#1395ba,left
 NQ,23753.6,QQQ HVL,#ffffff,#1395ba,left
 NQ,23794.9,QQQ HVL 0DTE,#ffffff,#1395ba,left
-NQ,23300,QQQ Putt Wall,#ffffff,#1395ba,left
-NQ,23712.4,QQQ Putt Wall 0DTE,#ffffff,#1395ba,left
+NQ,23300,QQQ Put Wall,#ffffff,#1395ba,left
+NQ,23712.4,QQQ Put Wall 0DTE,#ffffff,#1395ba,left
