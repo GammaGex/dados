@@ -153,6 +153,16 @@ MGC,305.0,GLD PutWall,#ffffff,#1395ba,left
 MGC,305.0,GLD PutWall 0DTE,#ffffff,#1395ba,left
 MNQ,23566.50,1D Max,#ffffff,#808080,left
 MNQ,23081.50,1D Min,#ffffff,#808080,left
+MNQ,23446.25,BL 1,#ffffff,#808080,left
+MNQ,22718.00,BL 10,#ffffff,#808080,left
+MNQ,23930.00,BL 2,#ffffff,#808080,left
+MNQ,23701.25,BL 3,#ffffff,#808080,left
+MNQ,23403.25,BL 4,#ffffff,#808080,left
+MNQ,22825.00,BL 5,#ffffff,#808080,left
+MNQ,23081.75,BL 6,#ffffff,#808080,left
+MNQ,23986.50,BL 7,#ffffff,#808080,left
+MNQ,23220.25,BL 8,#ffffff,#808080,left
+MNQ,23004.25,BL 9,#ffffff,#808080,left
 MNQ,23500.00,CallWall,#ffffff,#808080,left
 MNQ,23450.00,CallWall 0DTE,#ffffff,#808080,left
 MNQ,23300.00,G1,#ffffff,#808080,left
@@ -210,6 +220,16 @@ MNQ,564.0,QQQ PutWall,#ffffff,#1395ba,left
 MNQ,567.0,QQQ PutWall 0DTE,#ffffff,#1395ba,left
 NQ,23566.50,1D Max,#ffffff,#808080,left
 NQ,23081.50,1D Min,#ffffff,#808080,left
+NQ,23446.25,BL 1,#ffffff,#808080,left
+NQ,22718.00,BL 10,#ffffff,#808080,left
+NQ,23930.00,BL 2,#ffffff,#808080,left
+NQ,23701.25,BL 3,#ffffff,#808080,left
+NQ,23403.25,BL 4,#ffffff,#808080,left
+NQ,22825.00,BL 5,#ffffff,#808080,left
+NQ,23081.75,BL 6,#ffffff,#808080,left
+NQ,23986.50,BL 7,#ffffff,#808080,left
+NQ,23220.25,BL 8,#ffffff,#808080,left
+NQ,23004.25,BL 9,#ffffff,#808080,left
 NQ,23500.00,CallWall,#ffffff,#808080,left
 NQ,23450.00,CallWall 0DTE,#ffffff,#808080,left
 NQ,23300.00,G1,#ffffff,#808080,left
