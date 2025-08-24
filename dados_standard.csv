@@ -117,14 +117,14 @@ CL,60.48,PutWall,#ffffff,#808080,left
 CL,60.75,USO HVL 0DTE,#ffffff,#1395ba,left
 CL,60.98,G9,#ffffff,#808080,left
 CL,61.49,G6,#ffffff,#808080,left
-CL,61.49,USO PutWall,#ffffff,#1395ba,left
+CL,61.5,USO PutWall,#ffffff,#1395ba,left
 CL,61.99,G8,#ffffff,#808080,left
-CL,61.99,USO 1D Min,#ffffff,#1395ba,left
+CL,62.0,USO 1D Min,#ffffff,#1395ba,left
 CL,62.03,1D Min,#ffffff,#808080,left
 CL,62.24,G1,#ffffff,#808080,left
 CL,62.49,HVL 0DTE,#ffffff,#808080,left
 CL,62.49,PutWall 0DTE,#ffffff,#808080,left
-CL,62.49,USO G3,#ffffff,#1395ba,left
+CL,62.5,USO G3,#ffffff,#1395ba,left
 CL,62.75,G5,#ffffff,#808080,left
 CL,62.75,USO G4,#ffffff,#1395ba,left
 CL,63.0,HVL,#ffffff,#808080,left
@@ -134,16 +134,16 @@ CL,63.25,USO PutWall 0DTE,#ffffff,#1395ba,left
 CL,63.5,G2,#ffffff,#808080,left
 CL,63.75,USO G5,#ffffff,#1395ba,left
 CL,64.01,G3,#ffffff,#808080,left
-CL,64.25,G4,#ffffff,#808080,left
 CL,64.25,USO CallWall 0DTE,#ffffff,#1395ba,left
 CL,64.25,USO GammaWall 0DTE,#ffffff,#1395ba,left
+CL,64.26,G4,#ffffff,#808080,left
 CL,64.39,1D Max,#ffffff,#808080,left
 CL,64.51,CallWall 0DTE,#ffffff,#808080,left
 CL,64.51,GammaWall 0DTE,#ffffff,#808080,left
 CL,65.0,USO G2,#ffffff,#1395ba,left
 CL,65.27,G10,#ffffff,#808080,left
-CL,65.5,G7,#ffffff,#808080,left
 CL,65.5,USO G1,#ffffff,#1395ba,left
+CL,65.52,G7,#ffffff,#808080,left
 CL,65.75,USO 1D Exp Move Max,#ffffff,#1395ba,left
 CL,65.75,USO G6,#ffffff,#1395ba,left
 CL,66.25,USO G8,#ffffff,#1395ba,left
@@ -374,14 +374,14 @@ MCL,60.48,PutWall,#ffffff,#808080,left
 MCL,60.75,USO HVL 0DTE,#ffffff,#1395ba,left
 MCL,60.98,G9,#ffffff,#808080,left
 MCL,61.49,G6,#ffffff,#808080,left
-MCL,61.49,USO PutWall,#ffffff,#1395ba,left
+MCL,61.5,USO PutWall,#ffffff,#1395ba,left
 MCL,61.99,G8,#ffffff,#808080,left
-MCL,61.99,USO 1D Min,#ffffff,#1395ba,left
+MCL,62.0,USO 1D Min,#ffffff,#1395ba,left
 MCL,62.03,1D Min,#ffffff,#808080,left
 MCL,62.24,G1,#ffffff,#808080,left
 MCL,62.49,HVL 0DTE,#ffffff,#808080,left
 MCL,62.49,PutWall 0DTE,#ffffff,#808080,left
-MCL,62.49,USO G3,#ffffff,#1395ba,left
+MCL,62.5,USO G3,#ffffff,#1395ba,left
 MCL,62.75,G5,#ffffff,#808080,left
 MCL,62.75,USO G4,#ffffff,#1395ba,left
 MCL,63.0,HVL,#ffffff,#808080,left
@@ -391,16 +391,16 @@ MCL,63.25,USO PutWall 0DTE,#ffffff,#1395ba,left
 MCL,63.5,G2,#ffffff,#808080,left
 MCL,63.75,USO G5,#ffffff,#1395ba,left
 MCL,64.01,G3,#ffffff,#808080,left
-MCL,64.25,G4,#ffffff,#808080,left
 MCL,64.25,USO CallWall 0DTE,#ffffff,#1395ba,left
 MCL,64.25,USO GammaWall 0DTE,#ffffff,#1395ba,left
+MCL,64.26,G4,#ffffff,#808080,left
 MCL,64.39,1D Max,#ffffff,#808080,left
 MCL,64.51,CallWall 0DTE,#ffffff,#808080,left
 MCL,64.51,GammaWall 0DTE,#ffffff,#808080,left
 MCL,65.0,USO G2,#ffffff,#1395ba,left
 MCL,65.27,G10,#ffffff,#808080,left
-MCL,65.5,G7,#ffffff,#808080,left
 MCL,65.5,USO G1,#ffffff,#1395ba,left
+MCL,65.52,G7,#ffffff,#808080,left
 MCL,65.75,USO 1D Exp Move Max,#ffffff,#1395ba,left
 MCL,65.75,USO G6,#ffffff,#1395ba,left
 MCL,66.25,USO G8,#ffffff,#1395ba,left
