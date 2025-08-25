@@ -151,6 +151,25 @@ CL,66.75,USO G7,#ffffff,#1395ba,left
 CL,67.25,USO G10,#ffffff,#1395ba,left
 CL,67.5,USO G9,#ffffff,#1395ba,left
 CL,69.25,USO CallWall,#ffffff,#1395ba,left
+ES,11.25,VIX 1D Min,#ffffff,#9400D3,left
+ES,13.0,VIX G3,#ffffff,#9400D3,left
+ES,13.0,VIX G5,#ffffff,#9400D3,left
+ES,13.0,VIX PutWall,#ffffff,#9400D3,left
+ES,13.0,VIX PutWall 0DTE,#ffffff,#9400D3,left
+ES,15.0,VIX G1,#ffffff,#9400D3,left
+ES,15.0,VIX G2,#ffffff,#9400D3,left
+ES,15.0,VIX G4,#ffffff,#9400D3,left
+ES,15.0,VIX HVL 0DTE,#ffffff,#9400D3,left
+ES,17.0,VIX 1D Exp Move Max,#ffffff,#9400D3,left
+ES,17.0,VIX CallWall 0DTE,#ffffff,#9400D3,left
+ES,17.0,VIX G10,#ffffff,#9400D3,left
+ES,17.0,VIX G6,#ffffff,#9400D3,left
+ES,17.0,VIX G8,#ffffff,#9400D3,left
+ES,17.0,VIX GammaWall 0DTE,#ffffff,#9400D3,left
+ES,19.0,VIX G7,#ffffff,#9400D3,left
+ES,19.0,VIX G9,#ffffff,#9400D3,left
+ES,19.0,VIX HVL,#ffffff,#9400D3,left
+ES,25.0,VIX CallWall,#ffffff,#9400D3,left
 ES,6016.25,SPX PutWall,#ffffff,#1395ba,left
 ES,6210.0,PutWall 0DTE,#ffffff,#808080,left
 ES,6300.0,PutWall,#ffffff,#808080,left
@@ -408,6 +427,25 @@ MCL,66.75,USO G7,#ffffff,#1395ba,left
 MCL,67.25,USO G10,#ffffff,#1395ba,left
 MCL,67.5,USO G9,#ffffff,#1395ba,left
 MCL,69.25,USO CallWall,#ffffff,#1395ba,left
+MES,11.25,VIX 1D Min,#ffffff,#9400D3,left
+MES,13.0,VIX G3,#ffffff,#9400D3,left
+MES,13.0,VIX G5,#ffffff,#9400D3,left
+MES,13.0,VIX PutWall,#ffffff,#9400D3,left
+MES,13.0,VIX PutWall 0DTE,#ffffff,#9400D3,left
+MES,15.0,VIX G1,#ffffff,#9400D3,left
+MES,15.0,VIX G2,#ffffff,#9400D3,left
+MES,15.0,VIX G4,#ffffff,#9400D3,left
+MES,15.0,VIX HVL 0DTE,#ffffff,#9400D3,left
+MES,17.0,VIX 1D Exp Move Max,#ffffff,#9400D3,left
+MES,17.0,VIX CallWall 0DTE,#ffffff,#9400D3,left
+MES,17.0,VIX G10,#ffffff,#9400D3,left
+MES,17.0,VIX G6,#ffffff,#9400D3,left
+MES,17.0,VIX G8,#ffffff,#9400D3,left
+MES,17.0,VIX GammaWall 0DTE,#ffffff,#9400D3,left
+MES,19.0,VIX G7,#ffffff,#9400D3,left
+MES,19.0,VIX G9,#ffffff,#9400D3,left
+MES,19.0,VIX HVL,#ffffff,#9400D3,left
+MES,25.0,VIX CallWall,#ffffff,#9400D3,left
 MES,6016.25,SPX PutWall,#ffffff,#1395ba,left
 MES,6210.0,PutWall 0DTE,#ffffff,#808080,left
 MES,6300.0,PutWall,#ffffff,#808080,left
