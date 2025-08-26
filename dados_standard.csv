@@ -581,24 +581,53 @@ MNQ,24054.0,QQQ G9,#ffffff,#1395ba,left
 MNQ,24078.0,NDX G9,#ffffff,#1395ba,left
 MNQ,24957.0,BL8,#ffffff,#808080,left
 MYM,44033.5,DIA PutWall,#ffffff,#1395ba,left
+MYM,44033.5,DIA PutWall,#ffffff,#1395ba,left
+MYM,44068.7,BL4,#ffffff,#808080,left
+MYM,44516.7,BL1,#ffffff,#808080,left
+MYM,44534.0,DIA G6,#ffffff,#1395ba,left
 MYM,44534.0,DIA G6,#ffffff,#1395ba,left
 MYM,44734.0,DIA G7,#ffffff,#1395ba,left
+MYM,44734.0,DIA G7,#ffffff,#1395ba,left
+MYM,44784.2,DIA PutWall 0DTE,#ffffff,#1395ba,left
 MYM,44784.2,DIA PutWall 0DTE,#ffffff,#1395ba,left
 MYM,44834.2,DIA G9,#ffffff,#1395ba,left
+MYM,44834.2,DIA G9,#ffffff,#1395ba,left
+MYM,44845.2,BL10,#ffffff,#808080,left
+MYM,44934.2,DIA G8,#ffffff,#1395ba,left
 MYM,44934.2,DIA G8,#ffffff,#1395ba,left
 MYM,44963.2,DIA 1D Min,#ffffff,#1395ba,left
+MYM,44963.2,DIA 1D Min,#ffffff,#1395ba,left
+MYM,45034.2,DIA G3,#ffffff,#1395ba,left
 MYM,45034.2,DIA G3,#ffffff,#1395ba,left
 MYM,45134.5,DIA HVL,#ffffff,#1395ba,left
+MYM,45134.5,DIA HVL,#ffffff,#1395ba,left
+MYM,45209.6,BL3,#ffffff,#808080,left
+MYM,45284.5,DIA HVL 0DTE,#ffffff,#1395ba,left
 MYM,45284.5,DIA HVL 0DTE,#ffffff,#1395ba,left
 MYM,45334.5,DIA G4,#ffffff,#1395ba,left
+MYM,45334.5,DIA G4,#ffffff,#1395ba,left
+MYM,45434.8,DIA G5,#ffffff,#1395ba,left
 MYM,45434.8,DIA G5,#ffffff,#1395ba,left
 MYM,45534.8,DIA G2,#ffffff,#1395ba,left
+MYM,45534.8,DIA G2,#ffffff,#1395ba,left
+MYM,45585.0,BL6,#ffffff,#808080,left
+MYM,45741.7,BL7,#ffffff,#808080,left
+MYM,45835.0,DIA G1,#ffffff,#1395ba,left
 MYM,45835.0,DIA G1,#ffffff,#1395ba,left
 MYM,46004.0,DIA 1D Exp Move Max,#ffffff,#1395ba,left
+MYM,46004.0,DIA 1D Exp Move Max,#ffffff,#1395ba,left
+MYM,46035.0,DIA CallWall,#ffffff,#1395ba,left
 MYM,46035.0,DIA CallWall,#ffffff,#1395ba,left
 MYM,46035.0,DIA CallWall 0DTE,#ffffff,#1395ba,left
+MYM,46035.0,DIA CallWall 0DTE,#ffffff,#1395ba,left
 MYM,46035.0,DIA GammaWall 0DTE,#ffffff,#1395ba,left
+MYM,46035.0,DIA GammaWall 0DTE,#ffffff,#1395ba,left
+MYM,46313.7,BL5,#ffffff,#808080,left
 MYM,46335.2,DIA G10,#ffffff,#1395ba,left
+MYM,46335.2,DIA G10,#ffffff,#1395ba,left
+MYM,46579.3,BL8,#ffffff,#808080,left
+MYM,46663.7,BL2,#ffffff,#808080,left
+MYM,47566.9,BL9,#ffffff,#808080,left
 MZF,107.33,G5,#ffffff,#808080,left
 MZF,107.83,G4,#ffffff,#808080,left
 MZF,108.08,G6,#ffffff,#808080,left
@@ -724,24 +753,53 @@ NQ,24054.0,QQQ G9,#ffffff,#1395ba,left
 NQ,24078.0,NDX G9,#ffffff,#1395ba,left
 NQ,24957.0,BL8,#ffffff,#808080,left
 YM,44033.5,DIA PutWall,#ffffff,#1395ba,left
+YM,44033.5,DIA PutWall,#ffffff,#1395ba,left
+YM,44068.7,BL4,#ffffff,#808080,left
+YM,44516.7,BL1,#ffffff,#808080,left
+YM,44534.0,DIA G6,#ffffff,#1395ba,left
 YM,44534.0,DIA G6,#ffffff,#1395ba,left
 YM,44734.0,DIA G7,#ffffff,#1395ba,left
+YM,44734.0,DIA G7,#ffffff,#1395ba,left
+YM,44784.2,DIA PutWall 0DTE,#ffffff,#1395ba,left
 YM,44784.2,DIA PutWall 0DTE,#ffffff,#1395ba,left
 YM,44834.2,DIA G9,#ffffff,#1395ba,left
+YM,44834.2,DIA G9,#ffffff,#1395ba,left
+YM,44845.2,BL10,#ffffff,#808080,left
+YM,44934.2,DIA G8,#ffffff,#1395ba,left
 YM,44934.2,DIA G8,#ffffff,#1395ba,left
 YM,44963.2,DIA 1D Min,#ffffff,#1395ba,left
+YM,44963.2,DIA 1D Min,#ffffff,#1395ba,left
+YM,45034.2,DIA G3,#ffffff,#1395ba,left
 YM,45034.2,DIA G3,#ffffff,#1395ba,left
 YM,45134.5,DIA HVL,#ffffff,#1395ba,left
+YM,45134.5,DIA HVL,#ffffff,#1395ba,left
+YM,45209.6,BL3,#ffffff,#808080,left
+YM,45284.5,DIA HVL 0DTE,#ffffff,#1395ba,left
 YM,45284.5,DIA HVL 0DTE,#ffffff,#1395ba,left
 YM,45334.5,DIA G4,#ffffff,#1395ba,left
+YM,45334.5,DIA G4,#ffffff,#1395ba,left
+YM,45434.8,DIA G5,#ffffff,#1395ba,left
 YM,45434.8,DIA G5,#ffffff,#1395ba,left
 YM,45534.8,DIA G2,#ffffff,#1395ba,left
+YM,45534.8,DIA G2,#ffffff,#1395ba,left
+YM,45585.0,BL6,#ffffff,#808080,left
+YM,45741.7,BL7,#ffffff,#808080,left
+YM,45835.0,DIA G1,#ffffff,#1395ba,left
 YM,45835.0,DIA G1,#ffffff,#1395ba,left
 YM,46004.0,DIA 1D Exp Move Max,#ffffff,#1395ba,left
+YM,46004.0,DIA 1D Exp Move Max,#ffffff,#1395ba,left
+YM,46035.0,DIA CallWall,#ffffff,#1395ba,left
 YM,46035.0,DIA CallWall,#ffffff,#1395ba,left
 YM,46035.0,DIA CallWall 0DTE,#ffffff,#1395ba,left
+YM,46035.0,DIA CallWall 0DTE,#ffffff,#1395ba,left
 YM,46035.0,DIA GammaWall 0DTE,#ffffff,#1395ba,left
+YM,46035.0,DIA GammaWall 0DTE,#ffffff,#1395ba,left
+YM,46313.7,BL5,#ffffff,#808080,left
 YM,46335.2,DIA G10,#ffffff,#1395ba,left
+YM,46335.2,DIA G10,#ffffff,#1395ba,left
+YM,46579.3,BL8,#ffffff,#808080,left
+YM,46663.7,BL2,#ffffff,#808080,left
+YM,47566.9,BL9,#ffffff,#808080,left
 ZF,107.33,G5,#ffffff,#808080,left
 ZF,107.83,G4,#ffffff,#808080,left
 ZF,108.08,G6,#ffffff,#808080,left
