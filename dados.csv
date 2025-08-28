@@ -82,7 +82,7 @@ MES,6451.25,SPY 1D Min,#ffffff,#1395ba,left
 MES,6459.75,SPX HVL,#ffffff,#1395ba,left
 MES,6464.75,SPX G4,#ffffff,#1395ba,left
 MES,6468.5,SPY HVL,#ffffff,#1395ba,left
-MES,6469.75,SPX HVL,#ffffff,#1395ba,left
+MES,6469.75,SPX HVL 0DTE,#ffffff,#1395ba,left
 MES,6470.0,BL10,#ffffff,#808080,left
 MES,6470.0,HVL,#ffffff,#808080,left
 MES,6470.0,HVL 0DTE,#ffffff,#808080,left
@@ -267,7 +267,3 @@ NQ,24051.0,QQQ G9,#ffffff,#1395ba,left
 NQ,24063.0,NDX G7,#ffffff,#1395ba,left
 NQ,24100.0,G7,#ffffff,#808080,left
 NQ,24128.75,BL4,#ffffff,#808080,left
-
-
-
-
