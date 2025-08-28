@@ -48,12 +48,12 @@ ES,6528.75,SPY CallWall,#ffffff,#1395ba,left
 ES,6528.75,SPY CallWall 0DTE,#ffffff,#1395ba,left
 ES,6528.75,SPY GammaWall 0DTE,#ffffff,#1395ba,left
 ES,6530.0,GEX 5,#ffffff,#808080,left
-ES,6538.25,SPY 1D Max,#ffffff,#1395ba,left
+ES,6538.25,SPY 1D Exp Move Max (28/08 09:14),#ffffff,#1395ba,left
 ES,6538.75,SPY GEX 7,#ffffff,#1395ba,left
 ES,6540.0,SPX GEX 2,#ffffff,#1395ba,left
 ES,6541.25,BL 1,#ffffff,#808080,left
 ES,6542.25,1D Max,#ffffff,#808080,left
-ES,6543.25,SPX 1D Max,#ffffff,#1395ba,left
+ES,6543.25,SPX 1D Exp Move Max (28/08 09:14),#ffffff,#1395ba,left
 ES,6548.75,SPY GEX 9,#ffffff,#1395ba,left
 ES,6550.0,GEX 6,#ffffff,#808080,left
 ES,6555.0,SPX GEX 9,#ffffff,#1395ba,left
@@ -115,12 +115,12 @@ MES,6528.75,SPY CallWall,#ffffff,#1395ba,left
 MES,6528.75,SPY CallWall 0DTE,#ffffff,#1395ba,left
 MES,6528.75,SPY GammaWall 0DTE,#ffffff,#1395ba,left
 MES,6530.0,GEX 5,#ffffff,#808080,left
-MES,6538.25,SPY 1D Max,#ffffff,#1395ba,left
+MES,6538.25,SPY 1D Exp Move Max (28/08 09:14),#ffffff,#1395ba,left
 MES,6538.75,SPY GEX 7,#ffffff,#1395ba,left
 MES,6540.0,SPX GEX 2,#ffffff,#1395ba,left
 MES,6541.25,BL 1,#ffffff,#808080,left
 MES,6542.25,1D Max,#ffffff,#808080,left
-MES,6543.25,SPX 1D Max,#ffffff,#1395ba,left
+MES,6543.25,SPX 1D Exp Move Max (28/08 09:14),#ffffff,#1395ba,left
 MES,6548.75,SPY GEX 9,#ffffff,#1395ba,left
 MES,6550.0,GEX 6,#ffffff,#808080,left
 MES,6555.0,SPX GEX 9,#ffffff,#1395ba,left
@@ -180,9 +180,9 @@ MNQ,23836.5,BL 8,#ffffff,#808080,left
 MNQ,23836.5,NDX GEX 2,#ffffff,#1395ba,left
 MNQ,23850.0,GEX 4,#ffffff,#808080,left
 MNQ,23850.0,NDX GEX 5,#ffffff,#1395ba,left
-MNQ,23850.0,QQQ 1D Max,#ffffff,#1395ba,left
+MNQ,23850.0,QQQ 1D Exp Move Max (28/08 09:14),#ffffff,#1395ba,left
 MNQ,23865.0,1D Max,#ffffff,#808080,left
-MNQ,23865.0,NDX 1D Max,#ffffff,#1395ba,left
+MNQ,23865.0,NDX 1D Exp Move Max (28/08 09:14),#ffffff,#1395ba,left
 MNQ,23883.0,NDX GEX 9,#ffffff,#1395ba,left
 MNQ,23883.0,QQQ CallWall,#ffffff,#1395ba,left
 MNQ,23883.0,QQQ CallWall 0DTE,#ffffff,#1395ba,left
@@ -247,9 +247,9 @@ NQ,23836.5,BL 8,#ffffff,#808080,left
 NQ,23836.5,NDX GEX 2,#ffffff,#1395ba,left
 NQ,23850.0,GEX 4,#ffffff,#808080,left
 NQ,23850.0,NDX GEX 5,#ffffff,#1395ba,left
-NQ,23850.0,QQQ 1D Max,#ffffff,#1395ba,left
+NQ,23850.0,QQQ 1D Exp Move Max (28/08 09:14),#ffffff,#1395ba,left
 NQ,23865.0,1D Max,#ffffff,#808080,left
-NQ,23865.0,NDX 1D Max,#ffffff,#1395ba,left
+NQ,23865.0,NDX 1D Exp Move Max (28/08 09:14),#ffffff,#1395ba,left
 NQ,23883.0,NDX GEX 9,#ffffff,#1395ba,left
 NQ,23883.0,QQQ CallWall,#ffffff,#1395ba,left
 NQ,23883.0,QQQ CallWall 0DTE,#ffffff,#1395ba,left
