@@ -1,4 +1,23 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
+2K,2310.0,G7,#ffffff,#808080,left
+2K,2320.0,G8,#ffffff,#808080,left
+2K,2325.0,G6,#ffffff,#808080,left
+2K,2330.0,G10,#ffffff,#808080,left
+2K,2339.33,1D Min,#ffffff,#808080,left
+2K,2340.0,G4,#ffffff,#808080,left
+2K,2350.0,G1,#ffffff,#808080,left
+2K,2360.0,G2,#ffffff,#808080,left
+2K,2370.0,HVL 0DTE,#ffffff,#808080,left
+2K,2370.0,PutWall,#ffffff,#808080,left
+2K,2370.0,PutWall 0DTE,#ffffff,#808080,left
+2K,2375.0,CallWall 0DTE,#ffffff,#808080,left
+2K,2375.0,GammaWall 0DTE,#ffffff,#808080,left
+2K,2380.0,HVL,#ffffff,#808080,left
+2K,2390.0,G3,#ffffff,#808080,left
+2K,2400.0,CallWall,#ffffff,#808080,left
+2K,2400.27,1D Max,#ffffff,#808080,left
+2K,2410.0,G9,#ffffff,#808080,left
+2K,2425.0,G5,#ffffff,#808080,left
 6A,0.61,G8,#ffffff,#808080,left
 6A,0.63,G6,#ffffff,#808080,left
 6A,0.64,PutWall 0DTE,#ffffff,#808080,left
@@ -500,6 +519,25 @@ JPYUSD,0.00696,G8,#ffffff,#808080,left
 JPYUSD,0.00699,G7,#ffffff,#808080,left
 JPYUSD,0.00704,CallWall 0DTE,#ffffff,#808080,left
 JPYUSD,0.00704,GammaWall 0DTE,#ffffff,#808080,left
+M2K,2310.0,G7,#ffffff,#808080,left
+M2K,2320.0,G8,#ffffff,#808080,left
+M2K,2325.0,G6,#ffffff,#808080,left
+M2K,2330.0,G10,#ffffff,#808080,left
+M2K,2339.33,1D Min,#ffffff,#808080,left
+M2K,2340.0,G4,#ffffff,#808080,left
+M2K,2350.0,G1,#ffffff,#808080,left
+M2K,2360.0,G2,#ffffff,#808080,left
+M2K,2370.0,HVL 0DTE,#ffffff,#808080,left
+M2K,2370.0,PutWall,#ffffff,#808080,left
+M2K,2370.0,PutWall 0DTE,#ffffff,#808080,left
+M2K,2375.0,CallWall 0DTE,#ffffff,#808080,left
+M2K,2375.0,GammaWall 0DTE,#ffffff,#808080,left
+M2K,2380.0,HVL,#ffffff,#808080,left
+M2K,2390.0,G3,#ffffff,#808080,left
+M2K,2400.0,CallWall,#ffffff,#808080,left
+M2K,2400.27,1D Max,#ffffff,#808080,left
+M2K,2410.0,G9,#ffffff,#808080,left
+M2K,2425.0,G5,#ffffff,#808080,left
 M6A,0.61,G8,#ffffff,#808080,left
 M6A,0.63,G6,#ffffff,#808080,left
 M6A,0.64,PutWall 0DTE,#ffffff,#808080,left
