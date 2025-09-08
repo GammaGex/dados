@@ -1,0 +1,151 @@
+$NQ1!: Call Resistance, 23500, Put Support, 23000, HVL, 23480, 1D Min, 23467.37, 1D Max, 23900.63, Call Resistance 0DTE, 23700, Put Support 0DTE, 23380, HVL 0DTE, 23440, Gamma Wall 0DTE, 23700, GEX 1, 23750, GEX 2, 23800, GEX 3, 23600, GEX 4, 23850, GEX 5, 23650, GEX 6, 24000, GEX 7, 24100, GEX 8, 23300, GEX 9, 23400, GEX 10, 23950
+
+$NDX: Call Resistance, 23725, Put Support, 21500, HVL, 23390, 1D Min, 23415.32, 1D Max, 23886.87, Call Resistance 0DTE, 23700, Put Support 0DTE, 23800, HVL 0DTE, 23470, Gamma Wall 0DTE, 23700, GEX 1, 23500, GEX 2, 23850, GEX 3, 23600, GEX 4, 23550, GEX 5, 23575, GEX 6, 23400, GEX 7, 23925, GEX 8, 24000, GEX 9, 24100, GEX 10, 23900
+
+$QQQ: Call Resistance, 580, Put Support, 560, HVL, 572, 1D Min, 570.47, 1D Max, 581.65, Call Resistance 0DTE, 580, Put Support 0DTE, 575, HVL 0DTE, 575, Gamma Wall 0DTE, 580, GEX 1, 578, GEX 2, 581, GEX 3, 577, GEX 4, 579, GEX 5, 576, GEX 6, 585, GEX 7, 570, GEX 8, 565, GEX 9, 582, GEX 10, 584
+
+$ES1!: Call Resistance, 6600, Put Support, 6425, HVL, 6470, 1D Min, 6445.6, 1D Max, 6533.9, Call Resistance 0DTE, 6485, Put Support 0DTE, 6450, HVL 0DTE, 6480, Gamma Wall 0DTE, 6485, GEX 1, 6500, GEX 2, 6525, GEX 3, 6510, GEX 4, 6530, GEX 5, 6520, GEX 6, 6550, GEX 7, 6575, GEX 8, 6420, GEX 9, 6560, GEX 10, 6570
+
+$SPX: Call Resistance, 6600, Put Support, 6250, HVL, 6450, 1D Min, 6435.5, 1D Max, 6528.82, Call Resistance 0DTE, 6500, Put Support 0DTE, 6400, HVL 0DTE, 6460, Gamma Wall 0DTE, 6500, GEX 1, 6505, GEX 2, 6525, GEX 3, 6475, GEX 4, 6510, GEX 5, 6455, GEX 6, 6550, GEX 7, 6575, GEX 8, 6540, GEX 9, 6410, GEX 10, 6425
+
+$SPY: Call Resistance, 650, Put Support, 635, HVL, 644, 1D Min, 642.77, 1D Max, 651.71, Call Resistance 0DTE, 650, Put Support 0DTE, 648, HVL 0DTE, 648, Gamma Wall 0DTE, 650, GEX 1, 645, GEX 2, 651, GEX 3, 649, GEX 4, 646, GEX 5, 647, GEX 6, 655, GEX 7, 640, GEX 8, 652, GEX 9, 641, GEX 10, 653
+
+$VIX: Call Resistance, 25, Put Support, 15, HVL, 19.5, 1D Min, 12.55, 1D Max, 17.81, Call Resistance 0DTE, 20, Put Support 0DTE, 15, HVL 0DTE, 15, Gamma Wall 0DTE, 20, GEX 1, 15.5, GEX 2, 16, GEX 3, 17.5, GEX 4, 17, GEX 5, 16.5, GEX 6, 18, GEX 7, 19, GEX 8, 18.5, GEX 9, 10, GEX 10, 11.5
+
+$VXX: Call Resistance, 40, Put Support, 35, HVL, 37.5, 1D Min, 31.56, 1D Max, 39.38, Call Resistance 0DTE, 39, Put Support 0DTE, 35, HVL 0DTE, 36, Gamma Wall 0DTE, 39, GEX 1, 37, GEX 2, 33, GEX 3, 34, GEX 4, 38, GEX 5, 32, GEX 6, 42, GEX 7, 30, GEX 8, 41, GEX 9, 43, GEX 10, 31
+
+$GCZ2025: Call Resistance, 3600, Put Support, 3300, HVL, 3390, 1D Min, 3614.2, 1D Max, 3692.4, Call Resistance 0DTE, 3710, Put Support 0DTE, 3425, HVL 0DTE, 3600, Gamma Wall 0DTE, 3710, GEX 1, 3650, GEX 2, 3675, GEX 3, 3620, GEX 4, 3680, GEX 5, 3655, GEX 6, 3700, GEX 7, 3610, GEX 8, 3725, GEX 9, 3595, GEX 10, 3580
+
+$GLD: Call Resistance, 330, Put Support, 305, HVL, 306, 1D Min, 327.62, 1D Max, 334.48, Call Resistance 0DTE, 330, Put Support 0DTE, 320, HVL 0DTE, 322, Gamma Wall 0DTE, 330, GEX 1, 328, GEX 2, 334, GEX 3, 329, GEX 4, 333, GEX 5, 331, GEX 6, 325, GEX 7, 335, GEX 8, 326, GEX 9, 327, GEX 10, 337
+
+$CLV2025: Call Resistance, 66, Put Support, 60, HVL, 63.25, 1D Min, 60.65, 1D Max, 63.09, Call Resistance 0DTE, 63.75, Put Support 0DTE, 59.5, HVL 0DTE, 63.5, Gamma Wall 0DTE, 63.75, GEX 1, 61, GEX 2, 62, GEX 3, 63, GEX 4, 61.5, GEX 5, 62.5, GEX 6, 64, GEX 7, 60.5, GEX 8, 59.75, GEX 9, 60.25, GEX 10, 64.25
+
+$USO: Call Resistance, 81, Put Support, 70, HVL, 75, 1D Min, 70.3, 1D Max, 74.96, Call Resistance 0DTE, 77, Put Support 0DTE, 75, HVL 0DTE, 76, Gamma Wall 0DTE, 77, GEX 1, 72, GEX 2, 74, GEX 3, 73, GEX 4, 71, GEX 5, 71.5, GEX 6, 69, GEX 7, 68, GEX 8, 69.5, GEX 9, 75.5, GEX 10, 76.5
+
+$ZF1!: Call Resistance, 109.83, Put Support, 108.58, HVL, 108.83, 1D Min, 109.51, 1D Max, 110.01, Call Resistance 0DTE, 109.83, Put Support 0DTE, 109.08, HVL 0DTE, 109.33, Gamma Wall 0DTE, 109.83, GEX 1, 109.58, GEX 2, 110.08, GEX 3, 110.33, GEX 4, 110.83, GEX 5, 108.08, GEX 6, 111.33, GEX 7, 110.58, GEX 8, 108.33, GEX 9, 107.83, GEX 10, 107.33
+
+$ZT1!: Call Resistance, 104.22, Put Support, 103.72, HVL, 103.84, 1D Min, 104.09, 1D Max, 104.31, Call Resistance 0DTE, 104.22, Put Support 0DTE, 103.72, HVL 0DTE, 103.72, Gamma Wall 0DTE, 104.22, GEX 1, 104.09, GEX 2, 104.34, GEX 3, 104.47, GEX 4, 103.97, GEX 5, 104.72, GEX 6, 104.97, GEX 7, 104.59, GEX 8, 103.6, GEX 9, 103.47, GEX 10, 103.22
+
+$ZN1!: Call Resistance, 112.97, Put Support, 110.97, HVL, 112.22, 1D Min, 112.97, 1D Max, 113.75, Call Resistance 0DTE, 112.97, Put Support 0DTE, 112.22, HVL 0DTE, 112.47, Gamma Wall 0DTE, 112.97, GEX 1, 113.47, GEX 2, 113.22, GEX 3, 113.72, GEX 4, 113.97, GEX 5, 112.72, GEX 6, 114.97, GEX 7, 111.47, GEX 8, 114.47, GEX 9, 111.97, GEX 10, 110.47
+
+$RTY1!: Call Resistance, 2400, Put Support, 2325, HVL, 2290, 1D Min, 2363.38, 1D Max, 2423.62, Call Resistance 0DTE, 2400, Put Support 0DTE, 2375, HVL 0DTE, 2375, Gamma Wall 0DTE, 2400, GEX 1, 2410, GEX 2, 2370, GEX 3, 2390, GEX 4, 2420, GEX 5, 2450, GEX 6, 2350, GEX 7, 2425, GEX 8, 2360, GEX 9, 2340, GEX 10, 2300
+
+$6CU2025: Call Resistance, 0.73196, Put Support, 0.722, HVL, 0.722, 1D Min, 0.72058, 1D Max, 0.72422, Call Resistance 0DTE, 0.72698, Put Support 0DTE, 0.71951, HVL 0DTE, 0.71951, Gamma Wall 0DTE, 0.72698, GEX 1, 0.72449, GEX 2, 0.71702, GEX 3, 0.73694, GEX 4, 0.71204, GEX 5, 0.70706, GEX 6, 0.7469, GEX 7, 0.72947, GEX 8, 0.69711, GEX 9, 0.74192, GEX 10, 0.71453
+
+$6EU2025: Call Resistance, 1.19369, Put Support, 1.16384, HVL, 1.17628, 1D Min, 1.16686, 1D Max, 1.17764, Call Resistance 0DTE, 1.17628, Put Support 0DTE, 1.16384, HVL 0DTE, 1.16633, Gamma Wall 0DTE, 1.17628, GEX 1, 1.1713, GEX 2, 1.16882, GEX 3, 1.17379, GEX 4, 1.17877, GEX 5, 1.18125, GEX 6, 1.15887, GEX 7, 1.18374, GEX 8, 1.18871, GEX 9, 1.14395, GEX 10, 1.14892
+
+$6JU2025: Call Resistance, 0.00689, Put Support, 0.00676, HVL, 0.00679, 1D Min, 0.00675, 1D Max, 0.00683, Call Resistance 0DTE, 0.00686, Put Support 0DTE, 0.00676, HVL 0DTE, 0.00682, Gamma Wall 0DTE, 0.00686, GEX 1, 0.00684, GEX 2, 0.00674, GEX 3, 0.00671, GEX 4, 0.00698, GEX 5, 0.00693, GEX 6, 0.00649, GEX 7, 0.00659, GEX 8, 0.00703, GEX 9, 0.00713, GEX 10, 0.00669
+
+$6SU2025: Call Resistance, 1.26657, Put Support, 1.22699, HVL, 1.23193, 1D Min, 1.24782, 1D Max, 1.25998, Call Resistance 0DTE, 1.24183, Put Support 0DTE, 1.25667, HVL 0DTE, 1.25667, Gamma Wall 0DTE, 1.24183, GEX 1, 1.25172, GEX 2, 1.24678, GEX 3, 1.26162, GEX 4, 1.18246, GEX 5, 1.27646, GEX 6, 1.23688, GEX 7, 1.17256, GEX 8, 1.2913, GEX 9, 1.2072, GEX 10, 1.28636
+
+$6AU2025: Call Resistance, 0.66419, Put Support, 0.64921, HVL, 0.6542, 1D Min, 0.65194, 1D Max, 0.65876, Call Resistance 0DTE, 0.6542, Put Support 0DTE, 0.64921, HVL 0DTE, 0.64921, Gamma Wall 0DTE, 0.6542, GEX 1, 0.6567, GEX 2, 0.6592, GEX 3, 0.66169, GEX 4, 0.6517, GEX 5, 0.63922, GEX 6, 0.67917, GEX 7, 0.66918, GEX 8, 0.67418, GEX 9, 0.64421, GEX 10, 0.63423
+
+$6BU2025: Call Resistance, 1.3598, Put Support, 1.3398, HVL, 1.3523, 1D Min, 1.34472, 1D Max, 1.35668, Call Resistance 0DTE, 1.3573, Put Support 0DTE, 1.3498, HVL 0DTE, 1.3498, Gamma Wall 0DTE, 1.3573, GEX 1, 1.3448, GEX 2, 1.3548, GEX 3, 1.3473, GEX 4, 1.3423, GEX 5, 1.3623, GEX 6, 1.3298, GEX 7, 1.3698, GEX 8, 1.27981, GEX 9, 1.3248, GEX 10, 1.29981
+
+$AAPL: Call Resistance, 240, Put Support, 200, HVL, 222.5, 1D Min, 232.56, 1D Max, 246.82, Call Resistance 0DTE, 240, Put Support 0DTE, 222.5, HVL 0DTE, 225, Gamma Wall 0DTE, 240, GEX 1, 235, GEX 2, 245, GEX 3, 237.5, GEX 4, 242.5, GEX 5, 250, GEX 6, 230, GEX 7, 247.5, GEX 8, 232.5, GEX 9, 227.5, GEX 10, 252.5
+
+$GOOG: Call Resistance, 240, Put Support, 165, HVL, 182.5, 1D Min, 226.32, 1D Max, 244.02, Call Resistance 0DTE, 235, Put Support 0DTE, 227.5, HVL 0DTE, 227.5, Gamma Wall 0DTE, 235, GEX 1, 230, GEX 2, 237.5, GEX 3, 232.5, GEX 4, 242.5, GEX 5, 250, GEX 6, 220, GEX 7, 225, GEX 8, 245, GEX 9, 222.5, GEX 10, 217.5
+
+$META: Call Resistance, 800, Put Support, 710, HVL, 737.5, 1D Min, 724.47, 1D Max, 780.43, Call Resistance 0DTE, 775, Put Support 0DTE, 725, HVL 0DTE, 740, Gamma Wall 0DTE, 775, GEX 1, 750, GEX 2, 780, GEX 3, 770, GEX 4, 760, GEX 5, 765, GEX 6, 790, GEX 7, 720, GEX 8, 700, GEX 9, 715, GEX 10, 705
+
+$MSFT: Call Resistance, 520, Put Support, 490, HVL, 497.5, 1D Min, 481.22, 1D Max, 508.78, Call Resistance 0DTE, 510, Put Support 0DTE, 490, HVL 0DTE, 505, Gamma Wall 0DTE, 510, GEX 1, 485, GEX 2, 500, GEX 3, 495, GEX 4, 507.5, GEX 5, 492.5, GEX 6, 515, GEX 7, 480, GEX 8, 470, GEX 9, 475, GEX 10, 512.5
+
+$AVGO: Call Resistance, 330, Put Support, 250, HVL, 295, 1D Min, 317.85, 1D Max, 351.93, Call Resistance 0DTE, 335, Put Support 0DTE, 295, HVL 0DTE, 295, Gamma Wall 0DTE, 335, GEX 1, 320, GEX 2, 350, GEX 3, 340, GEX 4, 325, GEX 5, 345, GEX 6, 310, GEX 7, 360, GEX 8, 315, GEX 9, 305, GEX 10, 317.5
+
+$AMZN: Call Resistance, 240, Put Support, 200, HVL, 217.5, 1D Min, 224.15, 1D Max, 240.51, Call Resistance 0DTE, 240, Put Support 0DTE, 225, HVL 0DTE, 225, Gamma Wall 0DTE, 240, GEX 1, 235, GEX 2, 230, GEX 3, 237.5, GEX 4, 232.5, GEX 5, 227.5, GEX 6, 245, GEX 7, 220, GEX 8, 242.5, GEX 9, 247.5, GEX 10, 222.5
+
+$NVDA: Call Resistance, 175, Put Support, 155, HVL, 167.5, 1D Min, 158.93, 1D Max, 175.11, Call Resistance 0DTE, 175, Put Support 0DTE, 165, HVL 0DTE, 170, Gamma Wall 0DTE, 175, GEX 1, 160, GEX 2, 164, GEX 3, 162, GEX 4, 168, GEX 5, 166, GEX 6, 180, GEX 7, 158, GEX 8, 179, GEX 9, 176, GEX 10, 177.5
+
+$TSLA: Call Resistance, 350, Put Support, 320, HVL, 332.5, 1D Min, 327.27, 1D Max, 374.41, Call Resistance 0DTE, 350, Put Support 0DTE, 330, HVL 0DTE, 332.5, Gamma Wall 0DTE, 350, GEX 1, 360, GEX 2, 355, GEX 3, 370, GEX 4, 335, GEX 5, 340, GEX 6, 380, GEX 7, 310, GEX 8, 390, GEX 9, 375, GEX 10, 315
+
+$NFLX: Call Resistance, 1300, Put Support, 1160, HVL, 1195, 1D Min, 1182.35, 1D Max, 1305.29, Call Resistance 0DTE, 1270, Put Support 0DTE, 1210, HVL 0DTE, 1225, Gamma Wall 0DTE, 1270, GEX 1, 1280, GEX 2, 1260, GEX 3, 1240, GEX 4, 1220, GEX 5, 1275, GEX 6, 1320, GEX 7, 1360, GEX 8, 1180, GEX 9, 1340, GEX 10, 1140
+
+$COST: Call Resistance, 1000, Put Support, 950, HVL, 950, 1D Min, 930.45, 1D Max, 996.51, Call Resistance 0DTE, 990, Put Support 0DTE, 950, HVL 0DTE, 950, Gamma Wall 0DTE, 990, GEX 1, 980, GEX 2, 975, GEX 3, 940, GEX 4, 935, GEX 5, 960, GEX 6, 930, GEX 7, 910, GEX 8, 900, GEX 9, 1020, GEX 10, 920
+
+$XLB: Call Resistance, 95, Put Support, 86, HVL, 91, 1D Min, 89.84, 1D Max, 94.08, Call Resistance 0DTE, 91.5, Put Support 0DTE, 90.5, HVL 0DTE, 91, Gamma Wall 0DTE, 91.5, GEX 1, 92, GEX 2, 93, GEX 3, 90, GEX 4, 94, GEX 5, 92.5, GEX 6, 88, GEX 7, 89.5, GEX 8, 89, GEX 9, 96, GEX 10, 94.5
+
+$XLI: Call Resistance, 157, Put Support, 143, HVL, 151, 1D Min, 148.15, 1D Max, 153.71, Call Resistance 0DTE, 154, Put Support 0DTE, 146, HVL 0DTE, 152.5, Gamma Wall 0DTE, 154, GEX 1, 152, GEX 2, 150, GEX 3, 153, GEX 4, 149, GEX 5, 149.5, GEX 6, 148, GEX 7, 155, GEX 8, 145.5, GEX 9, 147, GEX 10, 146.5
+
+$XLK: Call Resistance, 275, Put Support, 255, HVL, 257.5, 1D Min, 255.91, 1D Max, 269.81, Call Resistance 0DTE, 267.5, Put Support 0DTE, 255, HVL 0DTE, 260, Gamma Wall 0DTE, 267.5, GEX 1, 265, GEX 2, 262.5, GEX 3, 250, GEX 4, 270, GEX 5, 252.5, GEX 6, 272.5, GEX 7, 240, GEX 8, 225, GEX 9, 300, GEX 10, 280
+
+$XLF: Call Resistance, 55, Put Support, 52, HVL, 52.5, 1D Min, 51.99, 1D Max, 54.15, Call Resistance 0DTE, 55, Put Support 0DTE, 53.5, HVL 0DTE, 53.5, Gamma Wall 0DTE, 55, GEX 1, 53, GEX 2, 54, GEX 3, 51, GEX 4, 51.5, GEX 5, 54.5, GEX 6, 50, GEX 7, 56, GEX 8, 49, GEX 9, 47, GEX 10, 45
+
+$XLY: Call Resistance, 240, Put Support, 230, HVL, 230, 1D Min, 229.28, 1D Max, 240.94, Call Resistance 0DTE, 235, Put Support 0DTE, 217.5, HVL 0DTE, 232.5, Gamma Wall 0DTE, 235, GEX 1, 237.5, GEX 2, 245, GEX 3, 225, GEX 4, 227.5, GEX 5, 242.5, GEX 6, 200, GEX 7, 220, GEX 8, 210, GEX 9, 205, GEX 10, 215
+
+$XLP: Call Resistance, 83, Put Support, 78, HVL, 82, 1D Min, 79.94, 1D Max, 81.8, Call Resistance 0DTE, 81, Put Support 0DTE, 80.5, HVL 0DTE, 80.5, Gamma Wall 0DTE, 81, GEX 1, 80, GEX 2, 81.5, GEX 3, 82.5, GEX 4, 79.5, GEX 5, 79, GEX 6, 77, GEX 7, 70, GEX 8, 75, GEX 9, 91, GEX 10, 76
+
+$XLRE: Call Resistance, 43, Put Support, 41, HVL, 42, 1D Min, 38.5, 1D Max, 45.86, Call Resistance 0DTE, 43, Put Support 0DTE, 41, HVL 0DTE, 42, Gamma Wall 0DTE, 43, GEX 1, 44, GEX 2, 45, GEX 3, 40, GEX 4, 39, GEX 5, 38, GEX 6, 37, GEX 7, 35, GEX 8, 47, GEX 9, 46, GEX 10, 36
+
+$XLC: Call Resistance, 113, Put Support, 110, HVL, 110, 1D Min, 111.81, 1D Max, 117.57, Call Resistance 0DTE, 115, Put Support 0DTE, 113, HVL 0DTE, 113, Gamma Wall 0DTE, 115, GEX 1, 114, GEX 2, 116, GEX 3, 112, GEX 4, 117, GEX 5, 120, GEX 6, 111, GEX 7, 109, GEX 8, 118, GEX 9, 95, GEX 10, 100
+
+$XLE: Call Resistance, 90, Put Support, 83, HVL, 88.5, 1D Min, 85.19, 1D Max, 89.53, Call Resistance 0DTE, 90, Put Support 0DTE, 88, HVL 0DTE, 89, Gamma Wall 0DTE, 90, GEX 1, 86, GEX 2, 87, GEX 3, 86.5, GEX 4, 89.5, GEX 5, 87.5, GEX 6, 84, GEX 7, 85, GEX 8, 91, GEX 9, 83.5, GEX 10, 91.5
+
+$XLV: Call Resistance, 140, Put Support, 137, HVL, 137.5, 1D Min, 134.28, 1D Max, 141.52, Call Resistance 0DTE, 138, Put Support 0DTE, 137, HVL 0DTE, 137, Gamma Wall 0DTE, 138, GEX 1, 141, GEX 2, 135, GEX 3, 139, GEX 4, 136, GEX 5, 138.5, GEX 6, 145, GEX 7, 142, GEX 8, 131, GEX 9, 143, GEX 10, 134
+
+$XLU: Call Resistance, 85, Put Support, 84, HVL, 84.5, 1D Min, 82.2, 1D Max, 84.74, Call Resistance 0DTE, 86.5, Put Support 0DTE, 84.5, HVL 0DTE, 85, Gamma Wall 0DTE, 86.5, GEX 1, 83, GEX 2, 83.5, GEX 3, 82.5, GEX 4, 86, GEX 5, 81, GEX 6, 82, GEX 7, 85.5, GEX 8, 81.5, GEX 9, 70, GEX 10, 88
+
+$DIA: Call Resistance, 460, Put Support, 440, HVL, 453, 1D Min, 448.34, 1D Max, 461.64, Call Resistance 0DTE, 464, Put Support 0DTE, 450, HVL 0DTE, 455, Gamma Wall 0DTE, 464, GEX 1, 459, GEX 2, 461, GEX 3, 458, GEX 4, 456, GEX 5, 457, GEX 6, 465, GEX 7, 445, GEX 8, 466, GEX 9, 447, GEX 10, 446
+
+$MBTU2025: Call Resistance, 120000, Put Support, 110000, HVL, 111500, 1D Min, 109398.11, 1D Max, 114511.89, Call Resistance 0DTE, 112500, Put Support 0DTE, 107500, HVL 0DTE, 107500, Gamma Wall 0DTE, 112500, GEX 1, 112000, GEX 2, 114500, GEX 3, 111000, GEX 4, 114000, GEX 5, 110750, GEX 6, 115000, GEX 7, 107000, GEX 8, 117000, GEX 9, 108000, GEX 10, 109000
+
+$IBIT: Call Resistance, 70, Put Support, 60, HVL, 62, 1D Min, 60.09, 1D Max, 66.75, Call Resistance 0DTE, 64, Put Support 0DTE, 60, HVL 0DTE, 61.5, Gamma Wall 0DTE, 64, GEX 1, 65, GEX 2, 63, GEX 3, 61, GEX 4, 66, GEX 5, 64.5, GEX 6, 68, GEX 7, 67, GEX 8, 58, GEX 9, 69, GEX 10, 59
+
+$HG1!: Call Resistance, 4.63, Put Support, 3.94, HVL, 4.56, 1D Min, 4.43, 1D Max, 4.53, Call Resistance 0DTE, 4.53, Put Support 0DTE, 4.4, HVL 0DTE, 4.48, Gamma Wall 0DTE, 4.53, GEX 1, 4.5, GEX 2, 4.51, GEX 3, 4.45, GEX 4, 4.44, GEX 5, 4.38, GEX 6, 4.58, GEX 7, 4.41, GEX 8, 4.42, GEX 9, 4.39
+
+$NG1!: Call Resistance, 3.1, Put Support, 2.75, HVL, 3, 1D Min, 2.95, 1D Max, 3.15, Call Resistance 0DTE, 2.9, Put Support 0DTE, 2.85, HVL 0DTE, 3.05, Gamma Wall 0DTE, 2.9, GEX 1, 2.95, GEX 2, 3.2, GEX 3, 3.25, GEX 4, 3.5, GEX 5, 2.5, GEX 6, 3.75, GEX 7, 4, GEX 8, 3.4, GEX 9, 3.3
+
+$ZS1!: Call Resistance, 1038.84, Put Support, 980.04, HVL, 1027.08, 1D Min, 997.45, 1D Max, 1015.55, Call Resistance 0DTE, 1038.84, Put Support 0DTE, 999.64, HVL 0DTE, 1009.44, Gamma Wall 0DTE, 1038.84, GEX 1, 1003.56, GEX 2, 997.68, GEX 3, 1005.52, GEX 4, 1015.32, GEX 5, 1011.4, GEX 6, 1019.24, GEX 7, 989.84, GEX 8, 995.72, GEX 9, 991.8, GEX 10, 993.76
+
+$ZC1!: Call Resistance, 400.91, Put Support, 381.82, HVL, 396.14, 1D Min, 394.6, 1D Max, 403.4, Call Resistance 0DTE, 400.91, Put Support 0DTE, 386.59, HVL 0DTE, 396.14, Gamma Wall 0DTE, 400.91, GEX 1, 399.95, GEX 2, 395.18, GEX 3, 397.09, GEX 4, 399, GEX 5, 401.86, GEX 6, 405.68, GEX 7, 391.36, GEX 8, 393.27, GEX 9, 390.41, GEX 10, 407.59
+
+$ZW1!: Call Resistance, 530.67, Put Support, 482.43, HVL, 506.55, 1D Min, 494.45, 1D Max, 507.55, Call Resistance 0DTE, 516.2, Put Support 0DTE, 487.25, HVL 0DTE, 511.37, Gamma Wall 0DTE, 516.2, GEX 1, 501.72, GEX 2, 496.9, GEX 3, 495.93, GEX 4, 497.86, GEX 5, 503.65, GEX 6, 492.08, GEX 7, 494, GEX 8, 490.15, GEX 9, 488.22, GEX 10, 513.3
+
+$USDCAD: Call Resistance, 1.38446, Put Support, 1.36563, HVL, 1.38446, 1D Min, 1.38022, 1D Max, 1.3872, Call Resistance 0DTE, 1.38925, Put Support 0DTE, 1.37498, HVL 0DTE, 1.38925, Gamma Wall 0DTE, 1.37498, GEX 1, 1.37971, GEX 2, 1.39408, GEX 3, 1.3564, GEX 4, 1.40383, GEX 5, 1.41371, GEX 6, 1.33831, GEX 7, 1.37029, GEX 8, 1.43391, GEX 9, 1.3473, GEX 10, 1.39894
+
+$USDJPY: Call Resistance, 148.11957, Put Support, 145.34899, HVL, 147.47087, 1D Min, 146.61473, 1D Max, 148.33708, Call Resistance 0DTE, 148.11957, Put Support 0DTE, 145.97912, HVL 0DTE, 146.82783, Gamma Wall 0DTE, 145.97912, GEX 1, 146.40224, GEX 2, 148.55522, GEX 3, 149.10339, GEX 4, 143.2873, GEX 5, 144.31078, GEX 6, 154.22527, GEX 7, 151.90609, GEX 8, 142.27824, GEX 9, 140.30215, GEX 10, 149.65563
+
+$USDCHF: Call Resistance, 0.81592, Put Support, 0.79042, HVL, 0.81264, 1D Min, 0.79455, 1D Max, 0.80229, Call Resistance 0DTE, 0.79664, Put Support 0DTE, 0.80616, HVL 0DTE, 0.79664, Gamma Wall 0DTE, 0.80616, GEX 1, 0.79979, GEX 2, 0.80297, GEX 3, 0.79352, GEX 4, 0.84664, GEX 5, 0.78429, GEX 6, 0.80939, GEX 7, 0.85379, GEX 8, 0.77528, GEX 9, 0.82929, GEX 10, 0.77826
+
+$USDXAU: Call Resistance, 0, Put Support, 0, HVL, 0, 1D Min, 0, 1D Max, 0, Call Resistance 0DTE, 0, Put Support 0DTE, 0, HVL 0DTE, 0, Gamma Wall 0DTE, 0, GEX 1, 0, GEX 2, 0, GEX 3, 0, GEX 4, 0, GEX 5, 0, GEX 6, 0, GEX 7, 0, GEX 8, 0, GEX 9, 0, GEX 10, 0
+
+$AUDUSD: Call Resistance, 0.66389, Put Support, 0.64891, HVL, 0.6539, 1D Min, 0.65165, 1D Max, 0.65845, Call Resistance 0DTE, 0.6539, Put Support 0DTE, 0.64891, HVL 0DTE, 0.64891, Gamma Wall 0DTE, 0.6539, GEX 1, 0.6564, GEX 2, 0.65889, GEX 3, 0.66139, GEX 4, 0.65141, GEX 5, 0.63893, GEX 6, 0.67886, GEX 7, 0.66888, GEX 8, 0.67387, GEX 9, 0.64392, GEX 10, 0.63394
+
+$CADUSD: Call Resistance, 0.73226, Put Support, 0.7223, HVL, 0.7223, 1D Min, 0.72088, 1D Max, 0.72452, Call Resistance 0DTE, 0.72728, Put Support 0DTE, 0.71981, HVL 0DTE, 0.71981, Gamma Wall 0DTE, 0.72728, GEX 1, 0.72479, GEX 2, 0.71732, GEX 3, 0.73725, GEX 4, 0.71234, GEX 5, 0.70736, GEX 6, 0.74721, GEX 7, 0.72977, GEX 8, 0.69739, GEX 9, 0.74223, GEX 10, 0.71483
+
+$JPYUSD: Call Resistance, 0.00688, Put Support, 0.00675, HVL, 0.00678, 1D Min, 0.00674, 1D Max, 0.00682, Call Resistance 0DTE, 0.00685, Put Support 0DTE, 0.00675, HVL 0DTE, 0.00681, Gamma Wall 0DTE, 0.00685, GEX 1, 0.00683, GEX 2, 0.00673, GEX 3, 0.00671, GEX 4, 0.00698, GEX 5, 0.00693, GEX 6, 0.00648, GEX 7, 0.00658, GEX 8, 0.00703, GEX 9, 0.00713, GEX 10, 0.00668
+
+$EURUSD: Call Resistance, 1.19323, Put Support, 1.1634, HVL, 1.17583, 1D Min, 1.16641, 1D Max, 1.17719, Call Resistance 0DTE, 1.17583, Put Support 0DTE, 1.1634, HVL 0DTE, 1.16588, Gamma Wall 0DTE, 1.17583, GEX 1, 1.17086, GEX 2, 1.16837, GEX 3, 1.17334, GEX 4, 1.17831, GEX 5, 1.1808, GEX 6, 1.15843, GEX 7, 1.18328, GEX 8, 1.18826, GEX 9, 1.14351, GEX 10, 1.14848
+
+$GBPUSD: Call Resistance, 1.3597, Put Support, 1.3397, HVL, 1.3522, 1D Min, 1.34462, 1D Max, 1.35658, Call Resistance 0DTE, 1.3572, Put Support 0DTE, 1.3497, HVL 0DTE, 1.3497, Gamma Wall 0DTE, 1.3572, GEX 1, 1.3447, GEX 2, 1.3547, GEX 3, 1.3472, GEX 4, 1.3422, GEX 5, 1.3622, GEX 6, 1.3297, GEX 7, 1.3697, GEX 8, 1.27972, GEX 9, 1.32471, GEX 10, 1.29971
+
+$CHFUSD: Call Resistance, 1.26515, Put Support, 1.22562, HVL, 1.23056, 1D Min, 1.24643, 1D Max, 1.25857, Call Resistance 0DTE, 1.24044, Put Support 0DTE, 1.25527, HVL 0DTE, 1.25527, Gamma Wall 0DTE, 1.24044, GEX 1, 1.25033, GEX 2, 1.24538, GEX 3, 1.26021, GEX 4, 1.18114, GEX 5, 1.27504, GEX 6, 1.2355, GEX 7, 1.17125, GEX 8, 1.28986, GEX 9, 1.20585, GEX 10, 1.28492
+
+$XAUUSD: Call Resistance, 3562.89, Put Support, 3389.69, HVL, 3394.64, 1D Min, 3547.76, 1D Max, 3625.52, Call Resistance 0DTE, 3612.37, Put Support 0DTE, 3533.2, HVL 0DTE, 3557.94, Gamma Wall 0DTE, 3612.37, GEX 1, 3592.58, GEX 2, 3587.63, GEX 3, 3617.32, GEX 4, 3572.78, GEX 5, 3602.48, GEX 6, 3661.86, GEX 7, 3513.4, GEX 8, 3637.11, GEX 9, 3523.3, GEX 10, 3538.15
+
+$USDEUR: Call Resistance, 0.85955, Put Support, 0.83806, HVL, 0.85047, 1D Min, 0.84948, 1D Max, 0.85733, Call Resistance 0DTE, 0.85955, Put Support 0DTE, 0.85047, HVL 0DTE, 0.85772, Gamma Wall 0DTE, 0.85047, GEX 1, 0.85408, GEX 2, 0.85589, GEX 3, 0.85227, GEX 4, 0.84867, GEX 5, 0.84688, GEX 6, 0.86324, GEX 7, 0.84511, GEX 8, 0.84157, GEX 9, 0.8745, GEX 10, 0.87071
+
+$USDAUD: Call Resistance, 1.54105, Put Support, 1.50628, HVL, 1.52928, 1D Min, 1.51871, 1D Max, 1.53458, Call Resistance 0DTE, 1.54105, Put Support 0DTE, 1.52928, HVL 0DTE, 1.54105, Gamma Wall 0DTE, 1.52928, GEX 1, 1.52347, GEX 2, 1.5177, GEX 3, 1.51197, GEX 4, 1.53514, GEX 5, 1.56512, GEX 6, 1.47306, GEX 7, 1.49504, GEX 8, 1.48397, GEX 9, 1.55299, GEX 10, 1.57745
+
+$USDGBP: Call Resistance, 0.74643, Put Support, 0.73546, HVL, 0.73954, 1D Min, 0.73715, 1D Max, 0.7437, Call Resistance 0DTE, 0.74091, Put Support 0DTE, 0.73681, HVL 0DTE, 0.74091, Gamma Wall 0DTE, 0.73681, GEX 1, 0.74366, GEX 2, 0.73817, GEX 3, 0.74228, GEX 4, 0.74504, GEX 5, 0.73411, GEX 6, 0.75205, GEX 7, 0.73009, GEX 8, 0.78142, GEX 9, 0.75488, GEX 10, 0.7694
+
+--- BlindSpot ---
+
+$NQ1!: BL 1, 23437.74, BL 2, 23690.94, BL 3, 23924.36, BL 4, 23960.71, BL 5, 23722.8, BL 6, 23635.08, BL 7, 24457.61, BL 8, 24396.41, BL 9, 22976.66, BL 10, 23006.1
+
+$ES1!: BL 1, 6487.95, BL 2, 6496.38, BL 3, 6518.74, BL 4, 6508.94, BL 5, 6527.57, BL 6, 6684.96, BL 7, 6534.18, BL 8, 6425.05, BL 9, 6557.33, BL 10, 6295.53
+
+--- Ratios de Mercado ---
+
+- ES_vs_SPX500: 1.001272
+
+- ES_vs_SPY: 10.029055
+
+- NQ_vs_NDX: 1.001541
+
+- NQ_vs_QQQ: 41.127313
+
+- YM_vs_DIA: 99.915642
+
+- CL_vs_USO: 0.854168
+
+- GC_vs_GLD: 11.027169
