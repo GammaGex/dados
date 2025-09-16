@@ -149,7 +149,7 @@ MNQ,24324.0,QQQ CallWall 0DTE,#ffffff,#1395ba,left
 MNQ,24324.0,QQQ GammaWall 0DTE,#ffffff,#1395ba,left
 MNQ,24366.0,QQQ G5,#ffffff,#1395ba,left
 MNQ,24400.0,G3,#ffffff,#808080,left
-MNQ,24400.0,QQQ G4,#ffffff,#1395ba,left
+MNQ,24408.0,QQQ G4,#ffffff,#1395ba,left
 MNQ,24417.0,NDX CallWall 0DTE,#ffffff,#1395ba,left
 MNQ,24417.0,NDX GammaWall 0DTE,#ffffff,#1395ba,left
 MNQ,24447.0,QQQ G2,#ffffff,#1395ba,left
@@ -206,7 +206,7 @@ NQ,24324.0,QQQ CallWall 0DTE,#ffffff,#1395ba,left
 NQ,24324.0,QQQ GammaWall 0DTE,#ffffff,#1395ba,left
 NQ,24366.0,QQQ G5,#ffffff,#1395ba,left
 NQ,24400.0,G3,#ffffff,#808080,left
-NQ,24400.0,QQQ G4,#ffffff,#1395ba,left
+NQ,24408.0,QQQ G4,#ffffff,#1395ba,left
 NQ,24417.0,NDX CallWall 0DTE,#ffffff,#1395ba,left
 NQ,24417.0,NDX GammaWall 0DTE,#ffffff,#1395ba,left
 NQ,24447.0,QQQ G2,#ffffff,#1395ba,left
