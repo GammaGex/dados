@@ -46,7 +46,7 @@ ES,6798.25,SPX CallWall 0DTE,#ffffff,#1395ba,left
 ES,6798.25,SPX GammaWall 0DTE,#ffffff,#1395ba,left
 ES,6800.0,G1,#ffffff,#808080,left
 ES,6807.5,1D Max,#ffffff,#808080,left
-ES,6808.25,SPX 1D Max 23/09 10:00,#ffffff,#1395ba,left
+ES,6808.25,SPX 1D Max 23/09 10:50,#ffffff,#1395ba,left
 ES,6808.5,SPX G7,#ffffff,#1395ba,left
 ES,6809.0,SPY 1D Max,#ffffff,#1395ba,left
 ES,6825.0,G7,#ffffff,#808080,left
@@ -103,7 +103,7 @@ MES,6798.25,SPX CallWall 0DTE,#ffffff,#1395ba,left
 MES,6798.25,SPX GammaWall 0DTE,#ffffff,#1395ba,left
 MES,6800.0,G1,#ffffff,#808080,left
 MES,6807.5,1D Max,#ffffff,#808080,left
-MES,6808.25,SPX 1D Max 23/09 10:00,#ffffff,#1395ba,left
+MES,6808.25,SPX 1D Max 23/09 10:50,#ffffff,#1395ba,left
 MES,6808.5,SPX G7,#ffffff,#1395ba,left
 MES,6809.0,SPY 1D Max,#ffffff,#1395ba,left
 MES,6825.0,G7,#ffffff,#808080,left
@@ -162,7 +162,7 @@ MNQ,25242.0,QQQ G4,#ffffff,#1e90ff,left
 MNQ,25248.0,NDX G4,#ffffff,#1395ba,left
 MNQ,25275.0,1D Max,#ffffff,#808080,left
 MNQ,25275.0,QQQ 1D Max,#ffffff,#1e90ff,left
-MNQ,25281.0,NDX 1D Max 23/09 10:00,#ffffff,#1395ba,left
+MNQ,25281.0,NDX 1D Max 23/09 10:50,#ffffff,#1395ba,left
 MNQ,25300.0,G8,#ffffff,#808080,left
 MNQ,25323.0,QQQ G6,#ffffff,#1e90ff,left
 MNQ,25347.0,NDX G8,#ffffff,#1395ba,left
@@ -219,7 +219,7 @@ NQ,25242.0,QQQ G4,#ffffff,#1e90ff,left
 NQ,25248.0,NDX G4,#ffffff,#1395ba,left
 NQ,25275.0,1D Max,#ffffff,#808080,left
 NQ,25275.0,QQQ 1D Max,#ffffff,#1e90ff,left
-NQ,25281.0,NDX 1D Max 23/09 10:00,#ffffff,#1395ba,left
+NQ,25281.0,NDX 1D Max 23/09 10:50,#ffffff,#1395ba,left
 NQ,25300.0,G8,#ffffff,#808080,left
 NQ,25323.0,QQQ G6,#ffffff,#1e90ff,left
 NQ,25347.0,NDX G8,#ffffff,#1395ba,left
