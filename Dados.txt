@@ -130,7 +130,7 @@ $USDGBP: CallWall, 0.74067, PutWall, 0.72457, HVL, 0.73794, 1D Min, 0.73897, 1D 
 
 --- Ratios de Mercado ---
 
-- ES_vs_SPX500: 1.008643
+- ES_vs_SPX500: 1.008649
 
 - ES_vs_SPY: 10.126502
 
