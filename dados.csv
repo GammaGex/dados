@@ -1,19 +1,19 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 ES,6500.0,PutWall,#ffffff,#808080,left
 ES,6554.75,SPX PutWall,#ffffff,#1395ba,left
+ES,6620.75,SPY G10,#ffffff,#1395ba,left
 ES,6625.0,G9,#ffffff,#808080,left
 ES,6630.25,SPX G10,#ffffff,#1395ba,left
 ES,6631.0,SPY PutWall,#ffffff,#1395ba,left
 ES,6650.0,G7,#ffffff,#808080,left
 ES,6655.5,SPX G7,#ffffff,#1395ba,left
 ES,6658.0,1D Min,#ffffff,#808080,left
-ES,6661.25,SPY G10,#ffffff,#1395ba,left
 ES,6662.25,SPY 1D Min,#ffffff,#1395ba,left
 ES,6664.75,SPX 1D Min,#ffffff,#1395ba,left
 ES,6675.0,PutWall 0DTE,#ffffff,#808080,left
 ES,6675.75,SPX G3,#ffffff,#1395ba,left
 ES,6681.5,SPY G1,#ffffff,#1395ba,left
-ES,6691.75,SPY G4,#ffffff,#1395ba,left
+ES,6691.75,SPY G3,#ffffff,#1395ba,left
 ES,6695.0,G3,#ffffff,#808080,left
 ES,6700.0,G5,#ffffff,#808080,left
 ES,6701.0,SPX G5,#ffffff,#1395ba,left
@@ -35,7 +35,7 @@ ES,6735.0,CallWall 0DTE,#ffffff,#808080,left
 ES,6735.0,GammaWall 0DTE,#ffffff,#808080,left
 ES,6741.25,SPX CallWall 0DTE,#ffffff,#1395ba,left
 ES,6741.25,SPX GammaWall 0DTE,#ffffff,#1395ba,left
-ES,6742.25,SPY G3,#ffffff,#1395ba,left
+ES,6742.25,SPY G4,#ffffff,#1395ba,left
 ES,6750.0,G1,#ffffff,#808080,left
 ES,6756.25,SPX CallWall,#ffffff,#1395ba,left
 ES,6762.5,SPY G2,#ffffff,#1395ba,left
@@ -43,7 +43,7 @@ ES,6766.5,SPX G2,#ffffff,#1395ba,left
 ES,6772.0,1D Max,#ffffff,#808080,left
 ES,6772.75,SPY G5,#ffffff,#1395ba,left
 ES,6775.0,G6,#ffffff,#808080,left
-ES,6781.25,SPX 1D Max 24/09 11:20,#ffffff,#1395ba,left
+ES,6781.25,SPX 1D Max 24/09 11:50,#ffffff,#1395ba,left
 ES,6781.5,SPX G8,#ffffff,#1395ba,left
 ES,6782.75,SPY CallWall,#ffffff,#1395ba,left
 ES,6784.0,SPY 1D Max,#ffffff,#1395ba,left
@@ -58,19 +58,19 @@ ES,6832.0,SPX G9,#ffffff,#1395ba,left
 ES,6833.5,SPY G6,#ffffff,#1395ba,left
 MES,6500.0,PutWall,#ffffff,#808080,left
 MES,6554.75,SPX PutWall,#ffffff,#1395ba,left
+MES,6620.75,SPY G10,#ffffff,#1395ba,left
 MES,6625.0,G9,#ffffff,#808080,left
 MES,6630.25,SPX G10,#ffffff,#1395ba,left
 MES,6631.0,SPY PutWall,#ffffff,#1395ba,left
 MES,6650.0,G7,#ffffff,#808080,left
 MES,6655.5,SPX G7,#ffffff,#1395ba,left
 MES,6658.0,1D Min,#ffffff,#808080,left
-MES,6661.25,SPY G10,#ffffff,#1395ba,left
 MES,6662.25,SPY 1D Min,#ffffff,#1395ba,left
 MES,6664.75,SPX 1D Min,#ffffff,#1395ba,left
 MES,6675.0,PutWall 0DTE,#ffffff,#808080,left
 MES,6675.75,SPX G3,#ffffff,#1395ba,left
 MES,6681.5,SPY G1,#ffffff,#1395ba,left
-MES,6691.75,SPY G4,#ffffff,#1395ba,left
+MES,6691.75,SPY G3,#ffffff,#1395ba,left
 MES,6695.0,G3,#ffffff,#808080,left
 MES,6700.0,G5,#ffffff,#808080,left
 MES,6701.0,SPX G5,#ffffff,#1395ba,left
@@ -92,7 +92,7 @@ MES,6735.0,CallWall 0DTE,#ffffff,#808080,left
 MES,6735.0,GammaWall 0DTE,#ffffff,#808080,left
 MES,6741.25,SPX CallWall 0DTE,#ffffff,#1395ba,left
 MES,6741.25,SPX GammaWall 0DTE,#ffffff,#1395ba,left
-MES,6742.25,SPY G3,#ffffff,#1395ba,left
+MES,6742.25,SPY G4,#ffffff,#1395ba,left
 MES,6750.0,G1,#ffffff,#808080,left
 MES,6756.25,SPX CallWall,#ffffff,#1395ba,left
 MES,6762.5,SPY G2,#ffffff,#1395ba,left
@@ -100,7 +100,7 @@ MES,6766.5,SPX G2,#ffffff,#1395ba,left
 MES,6772.0,1D Max,#ffffff,#808080,left
 MES,6772.75,SPY G5,#ffffff,#1395ba,left
 MES,6775.0,G6,#ffffff,#808080,left
-MES,6781.25,SPX 1D Max 24/09 11:20,#ffffff,#1395ba,left
+MES,6781.25,SPX 1D Max 24/09 11:50,#ffffff,#1395ba,left
 MES,6781.5,SPX G8,#ffffff,#1395ba,left
 MES,6782.75,SPY CallWall,#ffffff,#1395ba,left
 MES,6784.0,SPY 1D Max,#ffffff,#1395ba,left
@@ -160,7 +160,7 @@ MNQ,25044.0,NDX G4,#ffffff,#1395ba,left
 MNQ,25050.0,G4,#ffffff,#808080,left
 MNQ,25109.75,1D Max,#ffffff,#808080,left
 MNQ,25109.75,QQQ G1,#ffffff,#1e90ff,left
-MNQ,25131.0,NDX 1D Max 24/09 11:20,#ffffff,#1395ba,left
+MNQ,25131.0,NDX 1D Max 24/09 11:50,#ffffff,#1395ba,left
 MNQ,25131.0,QQQ 1D Max,#ffffff,#1e90ff,left
 MNQ,25146.0,NDX G7,#ffffff,#1395ba,left
 MNQ,25155.0,QQQ G10,#ffffff,#1e90ff,left
@@ -217,7 +217,7 @@ NQ,25044.0,NDX G4,#ffffff,#1395ba,left
 NQ,25050.0,G4,#ffffff,#808080,left
 NQ,25109.75,1D Max,#ffffff,#808080,left
 NQ,25109.75,QQQ G1,#ffffff,#1e90ff,left
-NQ,25131.0,NDX 1D Max 24/09 11:20,#ffffff,#1395ba,left
+NQ,25131.0,NDX 1D Max 24/09 11:50,#ffffff,#1395ba,left
 NQ,25131.0,QQQ 1D Max,#ffffff,#1e90ff,left
 NQ,25146.0,NDX G7,#ffffff,#1395ba,left
 NQ,25155.0,QQQ G10,#ffffff,#1e90ff,left
