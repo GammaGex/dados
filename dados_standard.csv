@@ -18,6 +18,120 @@ Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment
 2K,2520.0,G7,#ffffff,#808080,left
 2K,2525.0,G6,#ffffff,#808080,left
 2K,2530.0,G5,#ffffff,#808080,left
+6A,0.635,G10,#ffffff,#808080,left
+6A,0.64,G6,#ffffff,#808080,left
+6A,0.645,G7,#ffffff,#808080,left
+6A,0.65,PutWall,#ffffff,#808080,left
+6A,0.6525,G8,#ffffff,#808080,left
+6A,0.655,G2,#ffffff,#808080,left
+6A,0.65683,1D Min,#ffffff,#808080,left
+6A,0.6575,HVL,#ffffff,#808080,left
+6A,0.66,PutWall 0DTE,#ffffff,#808080,left
+6A,0.6625,G1,#ffffff,#808080,left
+6A,0.66357,1D Max,#ffffff,#808080,left
+6A,0.665,HVL 0DTE,#ffffff,#808080,left
+6A,0.6675,CallWall 0DTE,#ffffff,#808080,left
+6A,0.6675,GammaWall 0DTE,#ffffff,#808080,left
+6A,0.67,G3,#ffffff,#808080,left
+6A,0.675,G4,#ffffff,#808080,left
+6A,0.68,CallWall,#ffffff,#808080,left
+6A,0.685,G5,#ffffff,#808080,left
+6A,0.69,G9,#ffffff,#808080,left
+6B,1.34,G8,#ffffff,#808080,left
+6B,1.3425,G4,#ffffff,#808080,left
+6B,1.345,G5,#ffffff,#808080,left
+6B,1.34619,1D Min,#ffffff,#808080,left
+6B,1.3475,G2,#ffffff,#808080,left
+6B,1.35,G1,#ffffff,#808080,left
+6B,1.3525,G3,#ffffff,#808080,left
+6B,1.355,HVL,#ffffff,#808080,left
+6B,1.355,HVL 0DTE,#ffffff,#808080,left
+6B,1.355,PutWall,#ffffff,#808080,left
+6B,1.355,PutWall 0DTE,#ffffff,#808080,left
+6B,1.3575,CallWall,#ffffff,#808080,left
+6B,1.35761,1D Max,#ffffff,#808080,left
+6B,1.36,G6,#ffffff,#808080,left
+6B,1.3625,G7,#ffffff,#808080,left
+6B,1.365,CallWall 0DTE,#ffffff,#808080,left
+6B,1.365,GammaWall 0DTE,#ffffff,#808080,left
+6B,1.37,G10,#ffffff,#808080,left
+6B,1.38,G9,#ffffff,#808080,left
+6C,0.7,G9,#ffffff,#808080,left
+6C,0.71,G5,#ffffff,#808080,left
+6C,0.715,G3,#ffffff,#808080,left
+6C,0.7175,G7,#ffffff,#808080,left
+6C,0.72,G2,#ffffff,#808080,left
+6C,0.7225,G1,#ffffff,#808080,left
+6C,0.72282,1D Min,#ffffff,#808080,left
+6C,0.725,PutWall,#ffffff,#808080,left
+6C,0.725,PutWall 0DTE,#ffffff,#808080,left
+6C,0.72678,1D Max,#ffffff,#808080,left
+6C,0.7275,HVL,#ffffff,#808080,left
+6C,0.7275,HVL 0DTE,#ffffff,#808080,left
+6C,0.73,CallWall,#ffffff,#808080,left
+6C,0.73,CallWall 0DTE,#ffffff,#808080,left
+6C,0.73,GammaWall 0DTE,#ffffff,#808080,left
+6C,0.735,G8,#ffffff,#808080,left
+6C,0.74,G4,#ffffff,#808080,left
+6C,0.745,G10,#ffffff,#808080,left
+6C,0.75,G6,#ffffff,#808080,left
+6E,1.155,G10,#ffffff,#808080,left
+6E,1.17,PutWall,#ffffff,#808080,left
+6E,1.175,G7,#ffffff,#808080,left
+6E,1.1775,G6,#ffffff,#808080,left
+6E,1.18,G3,#ffffff,#808080,left
+6E,1.18173,1D Min,#ffffff,#808080,left
+6E,1.1825,G2,#ffffff,#808080,left
+6E,1.185,HVL,#ffffff,#808080,left
+6E,1.185,HVL 0DTE,#ffffff,#808080,left
+6E,1.185,PutWall 0DTE,#ffffff,#808080,left
+6E,1.1875,CallWall 0DTE,#ffffff,#808080,left
+6E,1.1875,GammaWall 0DTE,#ffffff,#808080,left
+6E,1.19,G1,#ffffff,#808080,left
+6E,1.19177,1D Max,#ffffff,#808080,left
+6E,1.1925,G5,#ffffff,#808080,left
+6E,1.195,G4,#ffffff,#808080,left
+6E,1.2,CallWall,#ffffff,#808080,left
+6E,1.21,G8,#ffffff,#808080,left
+6E,1.22,G9,#ffffff,#808080,left
+6J,0.0067,G6,#ffffff,#808080,left
+6J,0.00673,G7,#ffffff,#808080,left
+6J,0.00675,PutWall,#ffffff,#808080,left
+6J,0.00677,G2,#ffffff,#808080,left
+6J,0.00679,1D Min,#ffffff,#808080,left
+6J,0.0068,G1,#ffffff,#808080,left
+6J,0.00682,HVL 0DTE,#ffffff,#808080,left
+6J,0.00682,PutWall 0DTE,#ffffff,#808080,left
+6J,0.00685,CallWall 0DTE,#ffffff,#808080,left
+6J,0.00685,GammaWall 0DTE,#ffffff,#808080,left
+6J,0.00685,HVL,#ffffff,#808080,left
+6J,0.00687,1D Max,#ffffff,#808080,left
+6J,0.00688,CallWall,#ffffff,#808080,left
+6J,0.0069,G3,#ffffff,#808080,left
+6J,0.00695,G10,#ffffff,#808080,left
+6J,0.007,G4,#ffffff,#808080,left
+6J,0.00705,G5,#ffffff,#808080,left
+6J,0.0071,G8,#ffffff,#808080,left
+6J,0.0072,G9,#ffffff,#808080,left
+6S,1.185,G6,#ffffff,#808080,left
+6S,1.195,G3,#ffffff,#808080,left
+6S,1.22,G10,#ffffff,#808080,left
+6S,1.24,G9,#ffffff,#808080,left
+6S,1.25,G4,#ffffff,#808080,left
+6S,1.265,G2,#ffffff,#808080,left
+6S,1.26993,1D Min,#ffffff,#808080,left
+6S,1.27,G1,#ffffff,#808080,left
+6S,1.275,PutWall,#ffffff,#808080,left
+6S,1.28,HVL 0DTE,#ffffff,#808080,left
+6S,1.28,PutWall 0DTE,#ffffff,#808080,left
+6S,1.28117,1D Max,#ffffff,#808080,left
+6S,1.285,CallWall 0DTE,#ffffff,#808080,left
+6S,1.285,GammaWall 0DTE,#ffffff,#808080,left
+6S,1.285,HVL,#ffffff,#808080,left
+6S,1.295,CallWall,#ffffff,#808080,left
+6S,1.3,G8,#ffffff,#808080,left
+6S,1.305,G5,#ffffff,#808080,left
+6S,1.31,G7,#ffffff,#808080,left
 AAPL,210.0,PutWall,#ffffff,#808080,left
 AAPL,222.5,HVL,#ffffff,#808080,left
 AAPL,235.0,G10,#ffffff,#808080,left
@@ -151,43 +265,43 @@ CHFUSD,1.28165,CallWall,#ffffff,#808080,left
 CHFUSD,1.2866,G8,#ffffff,#808080,left
 CHFUSD,1.29155,G5,#ffffff,#808080,left
 CHFUSD,1.29649,G7,#ffffff,#808080,left
-CL,60.35,PutWall,#ffffff,#808080,left
-CL,60.6,G10,#ffffff,#808080,left
-CL,60.85,G6,#ffffff,#808080,left
-CL,61.1,G9,#ffffff,#808080,left
-CL,61.35,PutWall 0DTE,#ffffff,#808080,left
+CL,60.0,PutWall,#ffffff,#808080,left
+CL,61.5,G8,#ffffff,#808080,left
 CL,61.5,USO G8,#ffffff,#1395ba,left
-CL,61.54,1D Min,#ffffff,#808080,left
-CL,61.86,G1,#ffffff,#808080,left
+CL,62.0,G6,#ffffff,#808080,left
 CL,62.0,USO G5,#ffffff,#1395ba,left
 CL,62.25,USO G6,#ffffff,#1395ba,left
-CL,62.36,G3,#ffffff,#808080,left
+CL,62.29,1D Min,#ffffff,#808080,left
+CL,62.5,HVL,#ffffff,#808080,left
 CL,62.5,USO 1D Min,#ffffff,#1395ba,left
-CL,62.61,HVL 0DTE,#ffffff,#808080,left
+CL,62.75,G2,#ffffff,#808080,left
 CL,62.75,USO G1,#ffffff,#1395ba,left
-CL,62.86,HVL,#ffffff,#808080,left
-CL,63.11,G2,#ffffff,#808080,left
+CL,63.0,HVL 0DTE,#ffffff,#808080,left
+CL,63.0,PutWall 0DTE,#ffffff,#808080,left
+CL,63.25,G5,#ffffff,#808080,left
 CL,63.25,USO G4,#ffffff,#1395ba,left
-CL,63.36,G4,#ffffff,#808080,left
+CL,63.5,CallWall 0DTE,#ffffff,#808080,left
+CL,63.5,GammaWall 0DTE,#ffffff,#808080,left
 CL,63.5,USO HVL,#ffffff,#1395ba,left
 CL,63.5,USO HVL 0DTE,#ffffff,#1395ba,left
 CL,63.5,USO PutWall,#ffffff,#1395ba,left
 CL,63.5,USO PutWall 0DTE,#ffffff,#1395ba,left
-CL,63.62,G5,#ffffff,#808080,left
-CL,63.74,1D Max,#ffffff,#808080,left
-CL,63.87,CallWall 0DTE,#ffffff,#808080,left
-CL,63.87,GammaWall 0DTE,#ffffff,#808080,left
+CL,64.0,G1,#ffffff,#808080,left
 CL,64.0,USO G2,#ffffff,#1395ba,left
-CL,64.12,G8,#ffffff,#808080,left
-CL,64.37,G7,#ffffff,#808080,left
+CL,64.25,G4,#ffffff,#808080,left
+CL,64.5,G3,#ffffff,#808080,left
 CL,64.5,USO G3,#ffffff,#1395ba,left
+CL,64.53,1D Max,#ffffff,#808080,left
+CL,64.75,G9,#ffffff,#808080,left
 CL,64.75,USO 1D Max,#ffffff,#1395ba,left
+CL,65.0,CallWall,#ffffff,#808080,left
 CL,65.0,USO G9,#ffffff,#1395ba,left
+CL,65.25,G10,#ffffff,#808080,left
 CL,65.25,USO CallWall 0DTE,#ffffff,#1395ba,left
 CL,65.25,USO GammaWall 0DTE,#ffffff,#1395ba,left
+CL,65.5,G7,#ffffff,#808080,left
 CL,65.75,USO G7,#ffffff,#1395ba,left
 CL,66.25,USO CallWall,#ffffff,#1395ba,left
-CL,67.39,CallWall,#ffffff,#808080,left
 CL,67.75,USO G10,#ffffff,#1395ba,left
 COST,895.0,G10,#ffffff,#808080,left
 COST,900.0,G6,#ffffff,#808080,left
@@ -416,6 +530,120 @@ M2K,2510.53,1D Max,#ffffff,#808080,left
 M2K,2520.0,G7,#ffffff,#808080,left
 M2K,2525.0,G6,#ffffff,#808080,left
 M2K,2530.0,G5,#ffffff,#808080,left
+M6A,0.635,G10,#ffffff,#808080,left
+M6A,0.64,G6,#ffffff,#808080,left
+M6A,0.645,G7,#ffffff,#808080,left
+M6A,0.65,PutWall,#ffffff,#808080,left
+M6A,0.6525,G8,#ffffff,#808080,left
+M6A,0.655,G2,#ffffff,#808080,left
+M6A,0.65683,1D Min,#ffffff,#808080,left
+M6A,0.6575,HVL,#ffffff,#808080,left
+M6A,0.66,PutWall 0DTE,#ffffff,#808080,left
+M6A,0.6625,G1,#ffffff,#808080,left
+M6A,0.66357,1D Max,#ffffff,#808080,left
+M6A,0.665,HVL 0DTE,#ffffff,#808080,left
+M6A,0.6675,CallWall 0DTE,#ffffff,#808080,left
+M6A,0.6675,GammaWall 0DTE,#ffffff,#808080,left
+M6A,0.67,G3,#ffffff,#808080,left
+M6A,0.675,G4,#ffffff,#808080,left
+M6A,0.68,CallWall,#ffffff,#808080,left
+M6A,0.685,G5,#ffffff,#808080,left
+M6A,0.69,G9,#ffffff,#808080,left
+M6B,1.34,G8,#ffffff,#808080,left
+M6B,1.3425,G4,#ffffff,#808080,left
+M6B,1.345,G5,#ffffff,#808080,left
+M6B,1.34619,1D Min,#ffffff,#808080,left
+M6B,1.3475,G2,#ffffff,#808080,left
+M6B,1.35,G1,#ffffff,#808080,left
+M6B,1.3525,G3,#ffffff,#808080,left
+M6B,1.355,HVL,#ffffff,#808080,left
+M6B,1.355,HVL 0DTE,#ffffff,#808080,left
+M6B,1.355,PutWall,#ffffff,#808080,left
+M6B,1.355,PutWall 0DTE,#ffffff,#808080,left
+M6B,1.3575,CallWall,#ffffff,#808080,left
+M6B,1.35761,1D Max,#ffffff,#808080,left
+M6B,1.36,G6,#ffffff,#808080,left
+M6B,1.3625,G7,#ffffff,#808080,left
+M6B,1.365,CallWall 0DTE,#ffffff,#808080,left
+M6B,1.365,GammaWall 0DTE,#ffffff,#808080,left
+M6B,1.37,G10,#ffffff,#808080,left
+M6B,1.38,G9,#ffffff,#808080,left
+M6C,0.7,G9,#ffffff,#808080,left
+M6C,0.71,G5,#ffffff,#808080,left
+M6C,0.715,G3,#ffffff,#808080,left
+M6C,0.7175,G7,#ffffff,#808080,left
+M6C,0.72,G2,#ffffff,#808080,left
+M6C,0.7225,G1,#ffffff,#808080,left
+M6C,0.72282,1D Min,#ffffff,#808080,left
+M6C,0.725,PutWall,#ffffff,#808080,left
+M6C,0.725,PutWall 0DTE,#ffffff,#808080,left
+M6C,0.72678,1D Max,#ffffff,#808080,left
+M6C,0.7275,HVL,#ffffff,#808080,left
+M6C,0.7275,HVL 0DTE,#ffffff,#808080,left
+M6C,0.73,CallWall,#ffffff,#808080,left
+M6C,0.73,CallWall 0DTE,#ffffff,#808080,left
+M6C,0.73,GammaWall 0DTE,#ffffff,#808080,left
+M6C,0.735,G8,#ffffff,#808080,left
+M6C,0.74,G4,#ffffff,#808080,left
+M6C,0.745,G10,#ffffff,#808080,left
+M6C,0.75,G6,#ffffff,#808080,left
+M6E,1.155,G10,#ffffff,#808080,left
+M6E,1.17,PutWall,#ffffff,#808080,left
+M6E,1.175,G7,#ffffff,#808080,left
+M6E,1.1775,G6,#ffffff,#808080,left
+M6E,1.18,G3,#ffffff,#808080,left
+M6E,1.18173,1D Min,#ffffff,#808080,left
+M6E,1.1825,G2,#ffffff,#808080,left
+M6E,1.185,HVL,#ffffff,#808080,left
+M6E,1.185,HVL 0DTE,#ffffff,#808080,left
+M6E,1.185,PutWall 0DTE,#ffffff,#808080,left
+M6E,1.1875,CallWall 0DTE,#ffffff,#808080,left
+M6E,1.1875,GammaWall 0DTE,#ffffff,#808080,left
+M6E,1.19,G1,#ffffff,#808080,left
+M6E,1.19177,1D Max,#ffffff,#808080,left
+M6E,1.1925,G5,#ffffff,#808080,left
+M6E,1.195,G4,#ffffff,#808080,left
+M6E,1.2,CallWall,#ffffff,#808080,left
+M6E,1.21,G8,#ffffff,#808080,left
+M6E,1.22,G9,#ffffff,#808080,left
+M6J,0.0067,G6,#ffffff,#808080,left
+M6J,0.00673,G7,#ffffff,#808080,left
+M6J,0.00675,PutWall,#ffffff,#808080,left
+M6J,0.00677,G2,#ffffff,#808080,left
+M6J,0.00679,1D Min,#ffffff,#808080,left
+M6J,0.0068,G1,#ffffff,#808080,left
+M6J,0.00682,HVL 0DTE,#ffffff,#808080,left
+M6J,0.00682,PutWall 0DTE,#ffffff,#808080,left
+M6J,0.00685,CallWall 0DTE,#ffffff,#808080,left
+M6J,0.00685,GammaWall 0DTE,#ffffff,#808080,left
+M6J,0.00685,HVL,#ffffff,#808080,left
+M6J,0.00687,1D Max,#ffffff,#808080,left
+M6J,0.00688,CallWall,#ffffff,#808080,left
+M6J,0.0069,G3,#ffffff,#808080,left
+M6J,0.00695,G10,#ffffff,#808080,left
+M6J,0.007,G4,#ffffff,#808080,left
+M6J,0.00705,G5,#ffffff,#808080,left
+M6J,0.0071,G8,#ffffff,#808080,left
+M6J,0.0072,G9,#ffffff,#808080,left
+M6S,1.185,G6,#ffffff,#808080,left
+M6S,1.195,G3,#ffffff,#808080,left
+M6S,1.22,G10,#ffffff,#808080,left
+M6S,1.24,G9,#ffffff,#808080,left
+M6S,1.25,G4,#ffffff,#808080,left
+M6S,1.265,G2,#ffffff,#808080,left
+M6S,1.26993,1D Min,#ffffff,#808080,left
+M6S,1.27,G1,#ffffff,#808080,left
+M6S,1.275,PutWall,#ffffff,#808080,left
+M6S,1.28,HVL 0DTE,#ffffff,#808080,left
+M6S,1.28,PutWall 0DTE,#ffffff,#808080,left
+M6S,1.28117,1D Max,#ffffff,#808080,left
+M6S,1.285,CallWall 0DTE,#ffffff,#808080,left
+M6S,1.285,GammaWall 0DTE,#ffffff,#808080,left
+M6S,1.285,HVL,#ffffff,#808080,left
+M6S,1.295,CallWall,#ffffff,#808080,left
+M6S,1.3,G8,#ffffff,#808080,left
+M6S,1.305,G5,#ffffff,#808080,left
+M6S,1.31,G7,#ffffff,#808080,left
 MBTC,107500.0,G10,#ffffff,#808080,left
 MBTC,108000.0,G7,#ffffff,#808080,left
 MBTC,109000.0,G8,#ffffff,#808080,left
@@ -435,43 +663,43 @@ MBTC,114500.0,G6,#ffffff,#808080,left
 MBTC,115000.0,HVL 0DTE,#ffffff,#808080,left
 MBTC,116000.0,CallWall 0DTE,#ffffff,#808080,left
 MBTC,116000.0,GammaWall 0DTE,#ffffff,#808080,left
-MCL,60.35,PutWall,#ffffff,#808080,left
-MCL,60.6,G10,#ffffff,#808080,left
-MCL,60.85,G6,#ffffff,#808080,left
-MCL,61.1,G9,#ffffff,#808080,left
-MCL,61.35,PutWall 0DTE,#ffffff,#808080,left
+MCL,60.0,PutWall,#ffffff,#808080,left
+MCL,61.5,G8,#ffffff,#808080,left
 MCL,61.5,USO G8,#ffffff,#1395ba,left
-MCL,61.54,1D Min,#ffffff,#808080,left
-MCL,61.86,G1,#ffffff,#808080,left
+MCL,62.0,G6,#ffffff,#808080,left
 MCL,62.0,USO G5,#ffffff,#1395ba,left
 MCL,62.25,USO G6,#ffffff,#1395ba,left
-MCL,62.36,G3,#ffffff,#808080,left
+MCL,62.29,1D Min,#ffffff,#808080,left
+MCL,62.5,HVL,#ffffff,#808080,left
 MCL,62.5,USO 1D Min,#ffffff,#1395ba,left
-MCL,62.61,HVL 0DTE,#ffffff,#808080,left
+MCL,62.75,G2,#ffffff,#808080,left
 MCL,62.75,USO G1,#ffffff,#1395ba,left
-MCL,62.86,HVL,#ffffff,#808080,left
-MCL,63.11,G2,#ffffff,#808080,left
+MCL,63.0,HVL 0DTE,#ffffff,#808080,left
+MCL,63.0,PutWall 0DTE,#ffffff,#808080,left
+MCL,63.25,G5,#ffffff,#808080,left
 MCL,63.25,USO G4,#ffffff,#1395ba,left
-MCL,63.36,G4,#ffffff,#808080,left
+MCL,63.5,CallWall 0DTE,#ffffff,#808080,left
+MCL,63.5,GammaWall 0DTE,#ffffff,#808080,left
 MCL,63.5,USO HVL,#ffffff,#1395ba,left
 MCL,63.5,USO HVL 0DTE,#ffffff,#1395ba,left
 MCL,63.5,USO PutWall,#ffffff,#1395ba,left
 MCL,63.5,USO PutWall 0DTE,#ffffff,#1395ba,left
-MCL,63.62,G5,#ffffff,#808080,left
-MCL,63.74,1D Max,#ffffff,#808080,left
-MCL,63.87,CallWall 0DTE,#ffffff,#808080,left
-MCL,63.87,GammaWall 0DTE,#ffffff,#808080,left
+MCL,64.0,G1,#ffffff,#808080,left
 MCL,64.0,USO G2,#ffffff,#1395ba,left
-MCL,64.12,G8,#ffffff,#808080,left
-MCL,64.37,G7,#ffffff,#808080,left
+MCL,64.25,G4,#ffffff,#808080,left
+MCL,64.5,G3,#ffffff,#808080,left
 MCL,64.5,USO G3,#ffffff,#1395ba,left
+MCL,64.53,1D Max,#ffffff,#808080,left
+MCL,64.75,G9,#ffffff,#808080,left
 MCL,64.75,USO 1D Max,#ffffff,#1395ba,left
+MCL,65.0,CallWall,#ffffff,#808080,left
 MCL,65.0,USO G9,#ffffff,#1395ba,left
+MCL,65.25,G10,#ffffff,#808080,left
 MCL,65.25,USO CallWall 0DTE,#ffffff,#1395ba,left
 MCL,65.25,USO GammaWall 0DTE,#ffffff,#1395ba,left
+MCL,65.5,G7,#ffffff,#808080,left
 MCL,65.75,USO G7,#ffffff,#1395ba,left
 MCL,66.25,USO CallWall,#ffffff,#1395ba,left
-MCL,67.39,CallWall,#ffffff,#808080,left
 MCL,67.75,USO G10,#ffffff,#1395ba,left
 MES,6500.0,PutWall,#ffffff,#808080,left
 MES,6554.75,SPX PutWall,#ffffff,#1395ba,left
