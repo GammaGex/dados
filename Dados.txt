@@ -18,7 +18,7 @@ $GCZ2025: CallWall, 3900, PutWall, 3620, HVL, 3590, 1D Min, 3775.67, 1D Max, 385
 
 $GLD: CallWall, 340, PutWall, 333, HVL, 329, 1D Min, 342.64, 1D Max, 350.28, CallWall 0DTE, 347, PutWall 0DTE, 342, HVL 0DTE, 342, GammaWall 0DTE, 347, G1, 345, G2, 350, G3, 343, G4, 344, G5, 348, G6, 341, G7, 339, G8, 353, G9, 351, G10, 352
 
-$CLV2025: CallWall, 67.39, PutWall, 60.35, HVL, 62.86, 1D Min, 61.54, 1D Max, 63.74, CallWall 0DTE, 63.87, PutWall 0DTE, 61.35, HVL 0DTE, 62.61, GammaWall 0DTE, 63.87, G1, 61.86, G2, 63.11, G3, 62.36, G4, 63.36, G5, 63.62, G6, 60.85, G7, 64.37, G8, 64.12, G9, 61.1, G10, 60.6
+$CLX2025: CallWall, 65, PutWall, 60, HVL, 62.5, 1D Min, 62.29, 1D Max, 64.53, CallWall 0DTE, 63.5, PutWall 0DTE, 63, HVL 0DTE, 63, GammaWall 0DTE, 63.5, G1, 64, G2, 62.75, G3, 64.5, G4, 64.25, G5, 63.25, G6, 62, G7, 65.5, G8, 61.5, G9, 64.75, G10, 65.25
 
 $USO: CallWall, 78, PutWall, 75, HVL, 75, 1D Min, 73.74, 1D Max, 76.36, CallWall 0DTE, 77, PutWall 0DTE, 75, HVL 0DTE, 75, GammaWall 0DTE, 77, G1, 74, G2, 75.5, G3, 76, G4, 74.5, G5, 73, G6, 73.5, G7, 77.5, G8, 72.5, G9, 76.5, G10, 80
 
