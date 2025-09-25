@@ -1,26 +1,26 @@
 $NQ1!: CallWall, 25000, PutWall, 24625, HVL, 24690, 1D Min, 24459.49, 1D Max, 25019.01, CallWall 0DTE, 24700, PutWall 0DTE, 24650, HVL 0DTE, 24690, GammaWall 0DTE, 24700, G1, 24500, G2, 24825, G3, 24900, G4, 24800, G5, 24750, G6, 24400, G7, 24250, G8, 25050, G9, 24200, G10, 25200
 
-$NDX: CallWall, 24525, PutWall, 22500, HVL, 23920, 1D Min, 24213.1, 1D Max, 24788.57, CallWall 0DTE, 24540, PutWall 0DTE, 24600, HVL 0DTE, 24600, GammaWall 0DTE, 24540, G1, 24500, G2, 24400, G3, 24250, G4, 24700, G5, 24550, G6, 24800, G7, 24900, G8, 24000, G9, 25000, G10, 24200
+$NDX: CallWall, 24525, PutWall, 22500, HVL, 23910, 1D Min, 24103.83, 1D Max, 24684.07, CallWall 0DTE, 24450, PutWall 0DTE, 24550, HVL 0DTE, 24680, GammaWall 0DTE, 24450, G1, 24400, G2, 24250, G3, 24650, G4, 24500, G5, 24200, G6, 23925, G7, 24800, G8, 24700, G9, 24900, G10, 24000
 
-$QQQ: CallWall, 600, PutWall, 580, HVL, 597, 1D Min, 589.12, 1D Max, 603.08, CallWall 0DTE, 598, PutWall 0DTE, 595, HVL 0DTE, 597, GammaWall 0DTE, 598, G1, 590, G2, 592, G3, 601, G4, 599.78, G5, 594.78, G6, 585, G7, 605, G8, 610, G9, 584, G10, 583
+$QQQ: CallWall, 600, PutWall, 590, HVL, 597, 1D Min, 586.48, 1D Max, 600.58, CallWall 0DTE, 601, PutWall 0DTE, 592, HVL 0DTE, 597, GammaWall 0DTE, 601, G1, 594, G2, 598, G3, 599.78, G4, 591, G5, 589, G6, 580, G7, 585, G8, 605, G9, 584, G10, 583
 
 $ES1!: CallWall, 6800, PutWall, 6500, HVL, 6695, 1D Min, 6634.81, 1D Max, 6749.69, CallWall 0DTE, 6730, PutWall 0DTE, 6685, HVL 0DTE, 6695, GammaWall 0DTE, 6730, G1, 6650, G2, 6700, G3, 6725, G4, 6660, G5, 6670, G6, 6750, G7, 6600, G8, 6775, G9, 6630, G10, 6580
 
-$SPX: CallWall, 6700, PutWall, 6500, HVL, 6645, 1D Min, 6579.18, 1D Max, 6694.18, CallWall 0DTE, 6700, PutWall 0DTE, 6640, HVL 0DTE, 6665, GammaWall 0DTE, 6700, G1, 6600, G2, 6650, G3, 6675, G4, 6625, G5, 6670, G6, 6750, G7, 6550, G8, 6725, G9, 6575, G10, 6525
+$SPX: CallWall, 6700, PutWall, 6500, HVL, 6620, 1D Min, 6545.74, 1D Max, 6662.66, CallWall 0DTE, 6670, PutWall 0DTE, 6600, HVL 0DTE, 6645, GammaWall 0DTE, 6670, G1, 6550, G2, 6650, G3, 6580, G4, 6575, G5, 6615, G6, 6505, G7, 6525, G8, 6675, G9, 6510, G10, 6540
 
-$SPY: CallWall, 670, PutWall, 655, HVL, 662, 1D Min, 655.11, 1D Max, 667.09, CallWall 0DTE, 663, PutWall 0DTE, 660, HVL 0DTE, 662, GammaWall 0DTE, 663, G1, 665, G2, 666, G3, 658, G4, 657, G5, 659, G6, 650, G7, 672, G8, 652, G9, 668, G10, 669
+$SPY: CallWall, 670, PutWall, 655, HVL, 662, 1D Min, 651.87, 1D Max, 664.23, CallWall 0DTE, 665, PutWall 0DTE, 660, HVL 0DTE, 662, GammaWall 0DTE, 665, G1, 658, G2, 663, G3, 657, G4, 656, G5, 652, G6, 650, G7, 648, G8, 666, G9, 647, G10, 667
 
-$VIX: CallWall, 25, PutWall, 15, HVL, 19.5, 1D Min, 12.94, 1D Max, 19.42, CallWall 0DTE, 20, PutWall 0DTE, 16, HVL 0DTE, 16, GammaWall 0DTE, 20, G1, 15.5, G2, 18, G3, 17, G4, 19, G5, 14, G6, 22, G7, 21, G8, 22.5, G9, 20.5, G10, 11.5
+$VIX: CallWall, 25, PutWall, 15, HVL, 19.5, 1D Min, 13.87, 1D Max, 19.61, CallWall 0DTE, 20, PutWall 0DTE, 16, HVL 0DTE, 17, GammaWall 0DTE, 20, G1, 15.5, G2, 18, G3, 19, G4, 16.5, G5, 17.5, G6, 22, G7, 21, G8, 20.5, G9, 13, G10, 13.5
 
-$VXX: CallWall, 35, PutWall, 32.5, HVL, 34, 1D Min, 31.06, 1D Max, 36.66, CallWall 0DTE, 35, PutWall 0DTE, 32.5, HVL 0DTE, 34, GammaWall 0DTE, 35, G1, 36, G2, 33, G3, 32, G4, 34.5, G5, 33.5, G6, 29, G7, 37, G8, 39, G9, 30, G10, 31
+$VXX: CallWall, 35, PutWall, 29, HVL, 34, 1D Min, 32.24, 1D Max, 36.36, CallWall 0DTE, 35, PutWall 0DTE, 34, HVL 0DTE, 34, GammaWall 0DTE, 35, G1, 36, G2, 33, G3, 33.5, G4, 34.5, G5, 35.5, G6, 37, G7, 32, G8, 38, G9, 37.5, G10, 36.5
 
 $GC1!: CallWall, 3750, PutWall, 3705, HVL, 3440, 1D Min, 3697.91, 1D Max, 3772.09, CallWall 0DTE, 3750, PutWall 0DTE, 3705, HVL 0DTE, 3440, GammaWall 0DTE, 3750, G1, 3700, G2, 3725, G3, 3760, G4, 3710, G5, 3770, G6, 3675, G7, 3690, G8, 3680, G9, 3665, G10, 3695
 
-$GLD: CallWall, 345, PutWall, 333, HVL, 329, 1D Min, 338.09, 1D Max, 348.55, CallWall 0DTE, 348, PutWall 0DTE, 335, HVL 0DTE, 335, GammaWall 0DTE, 348, G1, 340, G2, 341, G3, 344, G4, 343, G5, 339, G6, 350, G7, 352, G8, 353, G9, 351, G10, 334
+$GLD: CallWall, 345, PutWall, 333, HVL, 329, 1D Min, 340.86, 1D Max, 348.64, CallWall 0DTE, 348, PutWall 0DTE, 335, HVL 0DTE, 342, GammaWall 0DTE, 348, G1, 344, G2, 341, G3, 347, G4, 343, G5, 346, G6, 340, G7, 350, G8, 352, G9, 351, G10, 338
 
 $CL1!: CallWall, 65, PutWall, 60, HVL, 63.25, 1D Min, 63.78, 1D Max, 66.2, CallWall 0DTE, 65, PutWall 0DTE, 64, HVL 0DTE, 64.25, GammaWall 0DTE, 65, G1, 66, G2, 65.5, G3, 64.5, G4, 64.75, G5, 65.75, G6, 67, G7, 63, G8, 66.5, G9, 63.5, G10, 62.75
 
-$USO: CallWall, 78, PutWall, 72, HVL, 73, 1D Min, 74.44, 1D Max, 78.34, CallWall 0DTE, 76.5, PutWall 0DTE, 72, HVL 0DTE, 73, GammaWall 0DTE, 76.5, G1, 77, G2, 76, G3, 75.5, G4, 75, G5, 77.5, G6, 80, G7, 73.5, G8, 79, G9, 74, G10, 78.5
+$USO: CallWall, 78, PutWall, 76.5, HVL, 76.5, 1D Min, 75.47, 1D Max, 78.51, CallWall 0DTE, 78, PutWall 0DTE, 76.5, HVL 0DTE, 76.5, GammaWall 0DTE, 78, G1, 77, G2, 76, G3, 77.5, G4, 78.5, G5, 75.5, G6, 80, G7, 75, G8, 79, G9, 74, G10, 79.5
 
 $ZF1!: CallWall, 109.5, PutWall, 109.25, HVL, 109.25, 1D Min, 109.1, 1D Max, 109.53, CallWall 0DTE, 109.5, PutWall 0DTE, 109.25, HVL 0DTE, 109.25, GammaWall 0DTE, 109.5, G1, 109, G2, 109.75, G3, 110, G4, 108.25, G5, 110.5, G6, 108.5, G7, 108.75, G8, 111, G9, 110.75, G10, 111.5
 
@@ -42,53 +42,53 @@ $6A1!: CallWall, 0.67948, PutWall, 0.64951, HVL, 0.657, 1D Min, 0.6548, 1D Max, 
 
 $6B1!: CallWall, 1.3575, PutWall, 1.35, HVL, 1.355, 1D Min, 1.3394, 1D Max, 1.3508, CallWall 0DTE, 1.365, PutWall 0DTE, 1.3375, HVL 0DTE, 1.3625, GammaWall 0DTE, 1.365, G1, 1.345, G2, 1.34, G3, 1.3475, G4, 1.3425, G5, 1.335, G6, 1.3525, G7, 1.33, G8, 1.325, G9, 1.36, G10, 1.38
 
-$AAPL: CallWall, 260, PutWall, 210, HVL, 222.5, 1D Min, 246.38, 1D Max, 258.24, CallWall 0DTE, 255, PutWall 0DTE, 247.5, HVL 0DTE, 250, GammaWall 0DTE, 255, G1, 257.5, G2, 252.5, G3, 245, G4, 262.5, G5, 242.5, G6, 240, G7, 270, G8, 265, G9, 235, G10, 280
+$AAPL: CallWall, 260, PutWall, 210, HVL, 222.5, 1D Min, 252.56, 1D Max, 261.18, CallWall 0DTE, 260, PutWall 0DTE, 247.5, HVL 0DTE, 250, GammaWall 0DTE, 260, G1, 255, G2, 257.5, G3, 265, G4, 262.5, G5, 252.5, G6, 270, G7, 240, G8, 245, G9, 235, G10, 280
 
-$GOOG: CallWall, 260, PutWall, 242.5, HVL, 180, 1D Min, 239.56, 1D Max, 256.1, CallWall 0DTE, 250, PutWall 0DTE, 245, HVL 0DTE, 247.5, GammaWall 0DTE, 250, G1, 240, G2, 255, G3, 252.5, G4, 235, G5, 257.5, G6, 237.5, G7, 262.5, G8, 232.5, G9, 270, G10, 220
+$GOOG: CallWall, 250, PutWall, 242.5, HVL, 247.5, 1D Min, 241.13, 1D Max, 252.01, CallWall 0DTE, 250, PutWall 0DTE, 245, HVL 0DTE, 247.5, GammaWall 0DTE, 250, G1, 255, G2, 240, G3, 252.5, G4, 237.5, G5, 260, G6, 270, G7, 220, G8, 210, G9, 290, G10, 265
 
-$META: CallWall, 800, PutWall, 745, HVL, 772.5, 1D Min, 733.63, 1D Max, 787.69, CallWall 0DTE, 780, PutWall 0DTE, 770, HVL 0DTE, 772.5, GammaWall 0DTE, 780, G1, 750, G2, 760, G3, 740, G4, 775, G5, 785, G6, 790, G7, 810, G8, 730, G9, 805, G10, 720
+$META: CallWall, 800, PutWall, 747.5, HVL, 757.5, 1D Min, 730.19, 1D Max, 767.63, CallWall 0DTE, 780, PutWall 0DTE, 750, HVL 0DTE, 770, GammaWall 0DTE, 780, G1, 760, G2, 740, G3, 765, G4, 742.5, G5, 745, G6, 730, G7, 720, G8, 725, G9, 785, G10, 715
 
-$MSFT: CallWall, 520, PutWall, 475, HVL, 507.5, 1D Min, 497.93, 1D Max, 522.37, CallWall 0DTE, 520, PutWall 0DTE, 505, HVL 0DTE, 512.5, GammaWall 0DTE, 520, G1, 515, G2, 500, G3, 510, G4, 517.5, G5, 502.5, G6, 530, G7, 490, G8, 525, G9, 495, G10, 497.5
+$MSFT: CallWall, 520, PutWall, 475, HVL, 507.5, 1D Min, 498.5, 1D Max, 515.56, CallWall 0DTE, 515, PutWall 0DTE, 505, HVL 0DTE, 507.5, GammaWall 0DTE, 515, G1, 500, G2, 510, G3, 512.5, G4, 502.5, G5, 490, G6, 495, G7, 517.5, G8, 497.5, G9, 492.5, G10, 522.5
 
-$AVGO: CallWall, 350, PutWall, 320, HVL, 342.5, 1D Min, 326.67, 1D Max, 351.95, CallWall 0DTE, 350, PutWall 0DTE, 337.5, HVL 0DTE, 342.5, GammaWall 0DTE, 350, G1, 330, G2, 345, G3, 332.5, G4, 340, G5, 335, G6, 360, G7, 355, G8, 315, G9, 325, G10, 352.5
+$AVGO: CallWall, 350, PutWall, 332.5, HVL, 337.5, 1D Min, 327.23, 1D Max, 344.97, CallWall 0DTE, 350, PutWall 0DTE, 332.5, HVL 0DTE, 337.5, GammaWall 0DTE, 350, G1, 330, G2, 335, G3, 340, G4, 342.5, G5, 327.5, G6, 320, G7, 345, G8, 347.5, G9, 325, G10, 352.5
 
-$AMZN: CallWall, 230, PutWall, 220, HVL, 220, 1D Min, 213.03, 1D Max, 227.39, CallWall 0DTE, 230, PutWall 0DTE, 220, HVL 0DTE, 220, GammaWall 0DTE, 230, G1, 225, G2, 215, G3, 217.5, G4, 222.5, G5, 210, G6, 227.5, G7, 232.5, G8, 212.5, G9, 207.5, G10, 240
+$AMZN: CallWall, 240, PutWall, 215, HVL, 220, 1D Min, 213.1, 1D Max, 223.2, CallWall 0DTE, 225, PutWall 0DTE, 217.5, HVL 0DTE, 220, GammaWall 0DTE, 225, G1, 222.5, G2, 210, G3, 227.5, G4, 212.5, G5, 250, G6, 235, G7, 260, G8, 200, G9, 230, G10, 245
 
-$NVDA: CallWall, 180, PutWall, 170, HVL, 174, 1D Min, 171.05, 1D Max, 182.89, CallWall 0DTE, 180, PutWall 0DTE, 170, HVL 0DTE, 172.5, GammaWall 0DTE, 180, G1, 175, G2, 182.5, G3, 177.5, G4, 176, G5, 179, G6, 185, G7, 187.5, G8, 167.5, G9, 187, G10, 168
+$NVDA: CallWall, 180, PutWall, 170, HVL, 174, 1D Min, 173.48, 1D Max, 181.9, CallWall 0DTE, 180, PutWall 0DTE, 172.5, HVL 0DTE, 172.5, GammaWall 0DTE, 180, G1, 177.5, G2, 175, G3, 176, G4, 179, G5, 177, G6, 185, G7, 182.5, G8, 182, G9, 186, G10, 184
 
-$TSLA: CallWall, 450, PutWall, 370, HVL, 397.5, 1D Min, 418.44, 1D Max, 467.14, CallWall 0DTE, 450, PutWall 0DTE, 425, HVL 0DTE, 425, GammaWall 0DTE, 450, G1, 440, G2, 455, G3, 460, G4, 435, G5, 430, G6, 400, G7, 470, G8, 480, G9, 415, G10, 490
+$TSLA: CallWall, 500, PutWall, 410, HVL, 412.5, 1D Min, 406.97, 1D Max, 439.81, CallWall 0DTE, 437.5, PutWall 0DTE, 410, HVL 0DTE, 420, GammaWall 0DTE, 437.5, G1, 435, G2, 430, G3, 415, G4, 422.5, G5, 417.5, G6, 450, G7, 455, G8, 400, G9, 440, G10, 405
 
-$NFLX: CallWall, 1230, PutWall, 1180, HVL, 1210, 1D Min, 1160.78, 1D Max, 1247.12, CallWall 0DTE, 1230, PutWall 0DTE, 1180, HVL 0DTE, 1207.5, GammaWall 0DTE, 1230, G1, 1240, G2, 1185, G3, 1175, G4, 1220, G5, 1165, G6, 1260, G7, 1280, G8, 1275, G9, 1250, G10, 1160
+$NFLX: CallWall, 1230, PutWall, 1180, HVL, 1202.5, 1D Min, 1178.66, 1D Max, 1237.82, CallWall 0DTE, 1230, PutWall 0DTE, 1180, HVL 0DTE, 1202.5, GammaWall 0DTE, 1230, G1, 1200, G2, 1220, G3, 1185, G4, 1235, G5, 1225, G6, 1260, G7, 1240, G8, 1175, G9, 1250, G10, 1160
 
-$COST: CallWall, 1000, PutWall, 900, HVL, 955, 1D Min, 923.7, 1D Max, 966.84, CallWall 0DTE, 1000, PutWall 0DTE, 935, HVL 0DTE, 955, GammaWall 0DTE, 1000, G1, 940, G2, 950, G3, 930, G4, 925, G5, 942.5, G6, 910, G7, 920, G8, 970, G9, 980, G10, 915
+$COST: CallWall, 1000, PutWall, 900, HVL, 955, 1D Min, 928.14, 1D Max, 958.48, CallWall 0DTE, 1000, PutWall 0DTE, 935, HVL 0DTE, 955, GammaWall 0DTE, 1000, G1, 940, G2, 930, G3, 950, G4, 942.5, G5, 947.5, G6, 920, G7, 970, G8, 925, G9, 915, G10, 965
 
-$XLB: CallWall, 95, PutWall, 88, HVL, 90.5, 1D Min, 87.12, 1D Max, 90.84, CallWall 0DTE, 93, PutWall 0DTE, 90.5, HVL 0DTE, 92.5, GammaWall 0DTE, 93, G1, 89, G2, 90, G3, 88.5, G4, 89.5, G5, 87.5, G6, 87, G7, 91, G8, 86, G9, 91.5, G10, 92
+$XLB: CallWall, 95, PutWall, 88, HVL, 90.5, 1D Min, 86.53, 1D Max, 89.11, CallWall 0DTE, 93, PutWall 0DTE, 90.5, HVL 0DTE, 92.5, GammaWall 0DTE, 93, G1, 89, G2, 87, G3, 88.5, G4, 87.5, G5, 90, G6, 86, G7, 85.5, G8, 86.5, G9, 89.5, G10, 100
 
-$XLI: CallWall, 156, PutWall, 142, HVL, 151, 1D Min, 149.62, 1D Max, 154.88, CallWall 0DTE, 155, PutWall 0DTE, 152, HVL 0DTE, 154, GammaWall 0DTE, 155, G1, 150, G2, 153, G3, 152.5, G4, 148, G5, 147, G6, 157, G7, 149, G8, 149.5, G9, 148.5, G10, 147.5
+$XLI: CallWall, 156, PutWall, 142, HVL, 151, 1D Min, 149.46, 1D Max, 152.98, CallWall 0DTE, 153, PutWall 0DTE, 150, HVL 0DTE, 152.5, GammaWall 0DTE, 153, G1, 152, G2, 149.5, G3, 148, G4, 149, G5, 154, G6, 148.5, G7, 161, G8, 140, G9, 145, G10, 135
 
-$XLK: CallWall, 300, PutWall, 255, HVL, 277.5, 1D Min, 273.23, 1D Max, 283.75, CallWall 0DTE, 287.5, PutWall 0DTE, 275, HVL 0DTE, 282.5, GammaWall 0DTE, 287.5, G1, 280, G2, 285, G3, 270, G4, 272.5, G5, 290, G6, 250, G7, 240, G8, 225, G9, 265, G10, 230
+$XLK: CallWall, 300, PutWall, 255, HVL, 277.5, 1D Min, 274.23, 1D Max, 281.77, CallWall 0DTE, 280, PutWall 0DTE, 275, HVL 0DTE, 277.5, GammaWall 0DTE, 280, G1, 285, G2, 272.5, G3, 282.5, G4, 290, G5, 240, G6, 250, G7, 265, G8, 225, G9, 230, G10, 270
 
-$XLF: CallWall, 55, PutWall, 52, HVL, 54, 1D Min, 52.8, 1D Max, 54.42, CallWall 0DTE, 54.5, PutWall 0DTE, 53.5, HVL 0DTE, 54, GammaWall 0DTE, 54.5, G1, 53, G2, 52.5, G3, 57, G4, 56, G5, 60, G6, 51, G7, 58, G8, 48, G9, 45, G10, 42
+$XLF: CallWall, 55, PutWall, 52, HVL, 54, 1D Min, 52.86, 1D Max, 54.08, CallWall 0DTE, 54.5, PutWall 0DTE, 53.5, HVL 0DTE, 54, GammaWall 0DTE, 54.5, G1, 53, G2, 52.5, G3, 57, G4, 56, G5, 60, G6, 50, G7, 51, G8, 48, G9, 58, G10, 45
 
-$XLY: CallWall, 240, PutWall, 235, HVL, 237.5, 1D Min, 235.22, 1D Max, 243.98, CallWall 0DTE, 245, PutWall 0DTE, 230, HVL 0DTE, 242.5, GammaWall 0DTE, 245, G1, 247.5, G2, 232.5, G3, 250, G4, 225, G5, 220, G6, 200, G7, 205, G8, 215, G9, 210, G10, 255
+$XLY: CallWall, 240, PutWall, 230, HVL, 237.5, 1D Min, 233.06, 1D Max, 239.38, CallWall 0DTE, 247.5, PutWall 0DTE, 230, HVL 0DTE, 242.5, GammaWall 0DTE, 247.5, G1, 235, G2, 232.5, G3, 225, G4, 250, G5, 220, G6, 245, G7, 200, G8, 215, G9, 205, G10, 210
 
-$XLP: CallWall, 85, PutWall, 78, HVL, 81, 1D Min, 76.98, 1D Max, 80.06, CallWall 0DTE, 80.5, PutWall 0DTE, 78, HVL 0DTE, 80, GammaWall 0DTE, 80.5, G1, 79, G2, 77, G3, 77.5, G4, 79.5, G5, 78.5, G6, 76, G7, 76.5, G8, 81.5, G9, 75.5, G10, 75
+$XLP: CallWall, 85, PutWall, 78, HVL, 81, 1D Min, 76.95, 1D Max, 78.59, CallWall 0DTE, 80.5, PutWall 0DTE, 78, HVL 0DTE, 80, GammaWall 0DTE, 80.5, G1, 77, G2, 77.5, G3, 78.5, G4, 79, G5, 76.5, G6, 75, G7, 76, G8, 70, G9, 74, G10, 82
 
-$XLRE: CallWall, 43, PutWall, 42, HVL, 42, 1D Min, 39.03, 1D Max, 44.11, CallWall 0DTE, 43, PutWall 0DTE, 42, HVL 0DTE, 42, GammaWall 0DTE, 43, G1, 41, G2, 44, G3, 40, G4, 38, G5, 37, G6, 45, G7, 39, G8, 46, G9, 50, G10, 32
+$XLRE: CallWall, 43, PutWall, 42, HVL, 42, 1D Min, 40.26, 1D Max, 42.68, CallWall 0DTE, 43, PutWall 0DTE, 42, HVL 0DTE, 42, GammaWall 0DTE, 43, G1, 41, G2, 40, G3, 50, G4, 38, G5, 32, G6, 37, G7, 35, G8, 44, G9, 31, G10, 45
 
-$XLC: CallWall, 119, PutWall, 110, HVL, 115, 1D Min, 114.86, 1D Max, 120, CallWall 0DTE, 119, PutWall 0DTE, 111, HVL 0DTE, 117, GammaWall 0DTE, 119, G1, 118, G2, 116, G3, 121, G4, 113, G5, 114, G6, 122, G7, 95, G8, 100, G9, 130
+$XLC: CallWall, 119, PutWall, 115, HVL, 115, 1D Min, 115.74, 1D Max, 118.32, CallWall 0DTE, 119, PutWall 0DTE, 111, HVL 0DTE, 115, GammaWall 0DTE, 119, G1, 117, G2, 118, G3, 116, G4, 95, G5, 120, G6, 110, G7, 100, G8, 105, G9, 130, G10, 90
 
-$XLE: CallWall, 95, PutWall, 83, HVL, 89, 1D Min, 88.63, 1D Max, 92.05, CallWall 0DTE, 90, PutWall 0DTE, 88.5, HVL 0DTE, 88.5, GammaWall 0DTE, 90, G1, 91, G2, 92, G3, 90.5, G4, 91.5, G5, 89.5, G6, 88, G7, 93, G8, 87, G9, 92.5, G10, 87.5
+$XLE: CallWall, 95, PutWall, 83, HVL, 89.5, 1D Min, 89.86, 1D Max, 92.44, CallWall 0DTE, 91.5, PutWall 0DTE, 89, HVL 0DTE, 89, GammaWall 0DTE, 91.5, G1, 90, G2, 92, G3, 91, G4, 90.5, G5, 93, G6, 92.5, G7, 93.5, G8, 75, G9, 80, G10, 88
 
-$XLV: CallWall, 150, PutWall, 131, HVL, 138, 1D Min, 134.26, 1D Max, 138.52, CallWall 0DTE, 139, PutWall 0DTE, 136.5, HVL 0DTE, 137.5, GammaWall 0DTE, 139, G1, 136, G2, 137, G3, 135, G4, 138.5, G5, 135.5, G6, 140, G7, 134, G8, 133, G9, 132.5, G10, 133.5
+$XLV: CallWall, 150, PutWall, 134, HVL, 138, 1D Min, 132.8, 1D Max, 135.46, CallWall 0DTE, 139, PutWall 0DTE, 135, HVL 0DTE, 137.5, GammaWall 0DTE, 139, G1, 133, G2, 134.5, G3, 133.5, G4, 132, G5, 136, G6, 136.5, G7, 135.5, G8, 132.5, G9, 131.5, G10, 122
 
-$XLU: CallWall, 88, PutWall, 83, HVL, 84.5, 1D Min, 85.08, 1D Max, 87.42, CallWall 0DTE, 86, PutWall 0DTE, 82, HVL 0DTE, 84.5, GammaWall 0DTE, 86, G1, 87, G2, 85.5, G3, 86.5, G4, 85, G5, 84, G6, 87.5, G7, 88.5, G8, 90, G9, 74, G10, 70
+$XLU: CallWall, 88, PutWall, 83, HVL, 84.5, 1D Min, 83.97, 1D Max, 86.87, CallWall 0DTE, 86, PutWall 0DTE, 83.5, HVL 0DTE, 84.5, GammaWall 0DTE, 86, G1, 85, G2, 84, G3, 85.5, G4, 86.5, G5, 87, G6, 87.5, G7, 90, G8, 74, G9, 70, G10, 65
 
-$DIA: CallWall, 470, PutWall, 460, HVL, 462, 1D Min, 455.22, 1D Max, 466.82, CallWall 0DTE, 465, PutWall 0DTE, 460, HVL 0DTE, 462, GammaWall 0DTE, 465, G1, 459, G2, 466, G3, 463, G4, 457, G5, 457.5, G6, 450, G7, 455, G8, 467, G9, 468, G10, 454
+$DIA: CallWall, 470, PutWall, 450, HVL, 461, 1D Min, 455.25, 1D Max, 463.61, CallWall 0DTE, 464, PutWall 0DTE, 460, HVL 0DTE, 461, GammaWall 0DTE, 464, G1, 459, G2, 463, G3, 456, G4, 462, G5, 457.5, G6, 465, G7, 455, G8, 454, G9, 452, G10, 467
 
 $MBT1!: CallWall, 115000, PutWall, 105000, HVL, 111000, 1D Min, 111815, 1D Max, 116745, CallWall 0DTE, 115000, PutWall 0DTE, 112500, HVL 0DTE, 112500, GammaWall 0DTE, 115000, G1, 114000, G2, 113000, G3, 113500, G4, 116000, G5, 112000, G6, 111750, G7, 110250, G8, 110000, G9, 110750, G10, 117500
 
-$IBIT: CallWall, 70, PutWall, 63, HVL, 63.5, 1D Min, 62.26, 1D Max, 66.58, CallWall 0DTE, 67, PutWall 0DTE, 63, HVL 0DTE, 64, GammaWall 0DTE, 67, G1, 65, G2, 66, G3, 64.5, G4, 65.5, G5, 66.5, G6, 68, G7, 61, G8, 62, G9, 67.5, G10, 68.5
+$IBIT: CallWall, 70, PutWall, 60, HVL, 63.5, 1D Min, 60.5, 1D Max, 63.7, CallWall 0DTE, 67, PutWall 0DTE, 62, HVL 0DTE, 64, GammaWall 0DTE, 67, G1, 63, G2, 61, G3, 61.5, G4, 62.5, G5, 65, G6, 59, G7, 64.5, G8, 59.5, G9, 80
 
 $HG1!: CallWall, 4.85, PutWall, 4.45, HVL, 4.55, 1D Min, 4.69, 1D Max, 4.84, CallWall 0DTE, 4.78, PutWall 0DTE, 4.4, HVL 0DTE, 4.58, GammaWall 0DTE, 4.78, G1, 4.75, G2, 4.7, G3, 4.8, G4, 4.83, G5, 4.71, G6, 4.65, G7, 4.9, G8, 4.67, G9, 4.89, G10, 4.68
 
@@ -130,16 +130,16 @@ $USDGBP: CallWall, 0.7407, PutWall, 0.73661, HVL, 0.73797, 1D Min, 0.74026, 1D M
 
 --- Ratios de Mercado ---
 
-- ES_vs_SPX500: 1.008433
+- ES_vs_SPX500: 1.00834
 
-- ES_vs_SPY: 10.123978
+- ES_vs_SPY: 10.122723
 
-- NQ_vs_NDX: 1.009793
+- NQ_vs_NDX: 1.009683
 
-- NQ_vs_QQQ: 41.505858
+- NQ_vs_QQQ: 41.499212
 
-- YM_vs_DIA: 100.731443
+- YM_vs_DIA: 100.720389
 
-- CL_vs_USO: 0.84814
+- CL_vs_USO: 0.848024
 
-- GC_vs_GLD: 10.962542
+- GC_vs_GLD: 10.958222
