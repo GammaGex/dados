@@ -10,7 +10,7 @@ $SPX: CallWall, 6700, PutWall, 6400, HVL, 6620, 1D Min, 6607.04, 1D Max, 6716.38
 
 $SPY: CallWall, 670, PutWall, 650, HVL, 661, 1D Min, 658.05, 1D Max, 669.31, CallWall 0DTE, 663, PutWall 0DTE, 655, HVL 0DTE, 658, GammaWall 0DTE, 663, G1, 665, G2, 667, G3, 660, G4, 664, G5, 668, G6, 672, G7, 674, G8, 657, G9, 656, G10, 653
 
-$VIX: CallWall, 25, PutWall, 15, HVL, 19.5, 1D Min, 14.07, 1D Max, 18.17, CallWall 0DTE, 20, PutWall 0DTE, 16, HVL 0DTE, 16, GammaWall 0DTE, 20, G1, 15.5, G2, 18, G3, 17, G4, 17.5, G5, 14.5, G6, 19, G7, 14, G8, 18.5, G9, 13.5, G10, 13
+$VIX: CallWall, 25, PutWall, 15, HVL, 19.5, 1D Min, 14.85, 1D Max, 17.71, CallWall 0DTE, 18, PutWall 0DTE, 16, HVL 0DTE, 16, GammaWall 0DTE, 18, G1, 15.5, G2, 17, G3, 17.5, G4, 16.5, G5, 19, G6, 14, G7, 14.5, G8, 18.5, G9, 13.5, G10, 23
 
 $VXX: CallWall, 40, PutWall, 32, HVL, 32.5, 1D Min, 30.1, 1D Max, 36.44, CallWall 0DTE, 35, PutWall 0DTE, 32.5, HVL 0DTE, 33, GammaWall 0DTE, 35, G1, 34, G2, 36, G3, 31, G4, 35.5, G5, 31.5, G6, 37, G7, 28, G8, 29, G9, 39, G10, 30
 
