@@ -47,7 +47,7 @@ ES,6775.0,G6,#ffffff,#808080,left
 ES,6780.0,G8,#ffffff,#808080,left
 ES,6790.0,G9,#ffffff,#808080,left
 ES,6791.5,SPX G2,#ffffff,#1395ba,left
-ES,6793.0,SPX 1D Max 15/10 17:21,#ffffff,#1395ba,left
+ES,6793.0,SPX 1D Max 15/10 17:42,#ffffff,#1395ba,left
 ES,6797.75,SPY 1D Max,#ffffff,#1395ba,left
 ES,6800.0,CallWall,#ffffff,#808080,left
 ES,6804.75,SPY G9,#ffffff,#1395ba,left
@@ -104,7 +104,7 @@ MES,6775.0,G6,#ffffff,#808080,left
 MES,6780.0,G8,#ffffff,#808080,left
 MES,6790.0,G9,#ffffff,#808080,left
 MES,6791.5,SPX G2,#ffffff,#1395ba,left
-MES,6793.0,SPX 1D Max 15/10 17:21,#ffffff,#1395ba,left
+MES,6793.0,SPX 1D Max 15/10 17:42,#ffffff,#1395ba,left
 MES,6797.75,SPY 1D Max,#ffffff,#1395ba,left
 MES,6800.0,CallWall,#ffffff,#808080,left
 MES,6804.75,SPY G9,#ffffff,#1395ba,left
@@ -162,7 +162,7 @@ MNQ,25044.0,QQQ G2,#ffffff,#1e90ff,left
 MNQ,25079.75,1D Max,#ffffff,#808080,left
 MNQ,25079.75,NDX G3,#ffffff,#1395ba,left
 MNQ,25251.0,QQQ G3,#ffffff,#1e90ff,left
-MNQ,25275.0,NDX 1D Max 15/10 17:21,#ffffff,#1395ba,left
+MNQ,25275.0,NDX 1D Max 15/10 17:42,#ffffff,#1395ba,left
 MNQ,25275.0,QQQ 1D Max,#ffffff,#1e90ff,left
 MNQ,25281.0,NDX G8,#ffffff,#1395ba,left
 MNQ,25300.0,G6,#ffffff,#808080,left
@@ -219,7 +219,7 @@ NQ,25044.0,QQQ G2,#ffffff,#1e90ff,left
 NQ,25079.75,1D Max,#ffffff,#808080,left
 NQ,25079.75,NDX G3,#ffffff,#1395ba,left
 NQ,25251.0,QQQ G3,#ffffff,#1e90ff,left
-NQ,25275.0,NDX 1D Max 15/10 17:21,#ffffff,#1395ba,left
+NQ,25275.0,NDX 1D Max 15/10 17:42,#ffffff,#1395ba,left
 NQ,25275.0,QQQ 1D Max,#ffffff,#1e90ff,left
 NQ,25281.0,NDX G8,#ffffff,#1395ba,left
 NQ,25300.0,G6,#ffffff,#808080,left
