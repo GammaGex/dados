@@ -134,9 +134,9 @@ $USDGBP: CallWall, 0.75731, PutWall, 0.74185, HVL, 0.7474, 1D Min, 0.74054, 1D M
 
 - ES_vs_SPY: 10.093253
 
-- NQ_vs_NDX: 1.00683
+- NQ_vs_NDX: 1.006832
 
-- NQ_vs_QQQ: 41.38452
+- NQ_vs_QQQ: 41.384604
 
 - YM_vs_DIA: 100.451518
 
