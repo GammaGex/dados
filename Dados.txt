@@ -131,8 +131,8 @@ $USDGBP: CallWall, 0.75554, PutWall, 0.74288, HVL, 0.74566, 1D Min, 0.74236, 1D 
 --- Ratios de Mercado ---
 - ES_vs_SPX500: 1.00555
 - ES_vs_SPY: 10.089037
-- NQ_vs_NDX: 1.006528
+- NQ_vs_NDX: 1.006562
 - NQ_vs_QQQ: 41.36722
-- YM_vs_DIA: 100.450148
-- CL_vs_USO: 0.849452
+- YM_vs_DIA: 100.443051
+- CL_vs_USO: 0.842607
 - GC_vs_GLD: 10.903384
